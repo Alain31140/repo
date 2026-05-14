@@ -4,12 +4,25 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="generator" content="Silex v3.6.4">
-<link rel="stylesheet" href="css/index-6fa4cc0a999c36c53a85c00ca884cfc9f20547e24f53369ecb27ae3716e4359a.css" />
+<link rel="stylesheet" href="/css/index-6fa4cc0a999c36c53a85c00ca884cfc9f20547e24f53369ecb27ae3716e4359a.css" />
 
 
 
 
 
 </head>
-<body id="i211l"><div id="iajh">BONJOUR</div><div id="isfu">Nous sommes le </div></body>
+<body id="i211l"><div id="iajh">BONJOUR</div><div id="isfu">Nous sommes le </div><p id="date"></p>
+
+<script>
+  const options = {
+    weekday: 'long',
+    year: 'numeric',
+    month: 'long',
+    day: 'numeric'
+  };
+
+  const today = new Date().toLocaleDateString('fr-FR', options);
+
+  document.getElementById("date").textContent = today;
+</script></body>
 </html>
