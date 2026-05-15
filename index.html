@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="generator" content="Silex v3.6.4">
+<link rel="stylesheet" href="/css/index-84a91ef4419d96a8a45504a70165f9ec1c754f5df2e76c6ee208e4ec19623b59.css" />
+
+
+
+
+
+</head>
+<body id="i211l"><div id="iajh">BONJOUR</div><div id="isfu">Nous sommes le </div><p id="date"></p>
+
+<script>
+  const options = {
+    weekday: 'long',
+    year: 'numeric',
+    month: 'long',
+    day: 'numeric'
+  };
+
+  let today = new Date().toLocaleDateString('fr-FR', options);
+
+  today = today.charAt(0).toUpperCase() + today.slice(1);
+
+  document.getElementById("date").textContent = today;
+</script><script>
+function miseAJour() {
+  const now = new Date();
+  const heure = now.getHours();
+
+  // ---- HEURE ----
+  const h = String(now.getHours()).padStart(2, '0');
+  const m = String(now.getMinutes()).padStart(2, '0');
+  const s = String(now.getSeconds()).padStart(2, '0');
+
+  document.getElementById("heure").textContent =
+    h + ":" + m + ":" + s;
+
+  // ---- MESSAGE ----
+  let message = "";
+  let couleur = "#333";
+
+  if ((heure >= 11 && heure < 12) || (heure >= 18 && heure < 19)) {
+    message = "🍹 C’est l’heure de l’apéro !";
+    couleur = "orange";
+  }
+  else if (heure >= 12 && heure < 14) {
+    message = "🍽️ Il serait temps d’aller déjeuner";
+    couleur = "green";
+  }
+  else if (heure >= 19 && heure < 21) {
+    message = "🍴 On va aller dîner";
+    couleur = "blue";
+  }
+  else if (heure >= 23) {
+    message = "😴 Il serait temps d’aller se coucher";
+    couleur = "purple";
+  }
+  else {
+    message = "🙂 Bonne journée";
+    couleur = "#333";
+  }
+
+  document.getElementById("message").textContent = message;
+  document.getElementById("message").style.color = couleur;
+}
+
+miseAJour();
+setInterval(miseAJour, 1000);
+</script><div id="ichkv">et il est</div><div id="i9vou">-------------------------</div><p id="position">Recherche de votre position...</p>
+<p id="meteo"></p>
+
+<script>
+async function getData(lat, lon) {
+
+  // ────────────────
+  // 1. Reverse geocoding (ville / département / région)
+  // ────────────────
+  const geoUrl =
+    "https://nominatim.openstreetmap.org/reverse?format=json&lat=" +
+    lat + "&lon=" + lon;
+
+  const geoRes = await fetch(geoUrl);
+  const geoData = await geoRes.json();
+
+  const ville =
+    geoData.address.city ||
+    geoData.address.town ||
+    geoData.address.village ||
+    "Ville inconnue";
+
+  const departement = geoData.address.county || "Département inconnu";
+  const region = geoData.address.state || "Région inconnue";
+
+  document.getElementById("position").innerHTML =
+    "📍 <b>" + ville + "</b><br>" +
+    "📍 " + departement + "<br>" +
+    "📍 " + region;
+
+  // ────────────────
+  // 2. Météo (Open-Meteo gratuit sans clé API)
+  // ────────────────
+  const weatherUrl =
+    "https://api.open-meteo.com/v1/forecast?latitude=" +
+    lat + "&longitude=" + lon +
+    "&current_weather=true";
+
+  const weatherRes = await fetch(weatherUrl);
+  const weatherData = await weatherRes.json();
+
+  const temp = weatherData.current_weather.temperature;
+  const wind = weatherData.current_weather.windspeed;
+
+  document.getElementById("meteo").innerHTML =
+    "🌡️ Température : <b>" + temp + "°C</b><br>" +
+    "💨 Vent : " + wind + " km/h";
+}
+
+// ────────────────
+// 3. Géolocalisation
+// ────────────────
+if (navigator.geolocation) {
+
+  navigator.geolocation.getCurrentPosition(
+    function(pos) {
+      getData(pos.coords.latitude, pos.coords.longitude);
+    },
+    function() {
+      document.getElementById("position").textContent =
+        "❌ Géolocalisation refusée";
+    }
+  );
+
+} else {
+  document.getElementById("position").textContent =
+    "❌ Géolocalisation non supportée";
+}
+</script></body>
+</html>
