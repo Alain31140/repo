@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="generator" content="Silex v3.6.4">
+<link rel="stylesheet" href="/css/index-7e7488746ec635cf610a027762284f75a09b81a8c08367994f196457cca0a7ba.css" />
+
+
+
+
+
+</head>
+<body id="i211l"><div id="iajh">BONJOUR</div><div id="isfu">Nous sommes le </div><p id="date"></p>
+
+<script>
+  const options = {
+    weekday: 'long',
+    year: 'numeric',
+    month: 'long',
+    day: 'numeric'
+  };
+
+  let today = new Date().toLocaleDateString('fr-FR', options);
+
+  today = today.charAt(0).toUpperCase() + today.slice(1);
+
+  document.getElementById("date").textContent = today;
+</script><div id="ichkv">et il est</div><script>
+function miseAJour() {
+  const now = new Date();
+  const heure = now.getHours();
+
+  // ---- HEURE ----
+  const h = String(now.getHours()).padStart(2, '0');
+  const m = String(now.getMinutes()).padStart(2, '0');
+  const s = String(now.getSeconds()).padStart(2, '0');
+
+  document.getElementById("heure").textContent =
+    h + ":" + m + ":" + s;
+
+  // ---- MESSAGE ----
+  let message = "";
+  let couleur = "#333";
+
+  if ((heure >= 11 && heure < 12) || (heure >= 18 && heure < 19)) {
+    message = "🍹 C’est l’heure de l’apéro !";
+    couleur = "orange";
+  }
+  else if (heure >= 12 && heure < 14) {
+    message = "🍽️ Il serait temps d’aller déjeuner";
+    couleur = "green";
+  }
+  else if (heure >= 19 && heure < 21) {
+    message = "🍴 On va aller dîner";
+    couleur = "blue";
+  }
+  else if (heure >= 23) {
+    message = "😴 Il serait temps d’aller se coucher";
+    couleur = "purple";
+  }
+  else {
+    message = "🙂 Bonne journée";
+    couleur = "#333";
+  }
+
+  document.getElementById("message").textContent = message;
+  document.getElementById("message").style.color = couleur;
+}
+
+miseAJour();
+setInterval(miseAJour, 1000);
+</script><script>
+function miseAJour() {
+  const now = new Date();
+  const heure = now.getHours();
+
+  // ---- HEURE ----
+  const h = String(now.getHours()).padStart(2, '0');
+  const m = String(now.getMinutes()).padStart(2, '0');
+  const s = String(now.getSeconds()).padStart(2, '0');
+
+  document.getElementById("heure").textContent =
+    h + ":" + m + ":" + s;
+
+  // ---- MESSAGE ----
+  let message = "";
+  let couleur = "#333";
+
+  if ((heure >= 11 && heure < 12) || (heure >= 18 && heure < 19)) {
+    message = "🍹 C’est l’heure de l’apéro !";
+    couleur = "orange";
+  }
+  else if (heure >= 12 && heure < 14) {
+    message = "🍽️ Il serait temps d’aller déjeuner";
+    couleur = "green";
+  }
+  else if (heure >= 19 && heure < 21) {
+    message = "🍴 On va aller dîner";
+    couleur = "blue";
+  }
+  else if (heure >= 23) {
+    message = "😴 Il serait temps d’aller se coucher";
+    couleur = "purple";
+  }
+  else {
+    message = "🙂 Bonne journée";
+    couleur = "#333";
+  }
+
+  document.getElementById("message").textContent = message;
+  document.getElementById("message").style.color = couleur;
+}
+
+miseAJour();
+setInterval(miseAJour, 1000);
+</script></body>
+</html>
