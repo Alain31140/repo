@@ -12,3 +12,4 @@
 14-07	{ label: "Fête nationale", type: "fete" }
 15-08	{ label: "Assomption", type: "fete" }
 25-12	{ label: "Noël", type: "fete" }	
+}
