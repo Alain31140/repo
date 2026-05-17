@@ -1,0 +1,37 @@
+{
+  "01-01": { "label": "Marie (Sainte Marie Mère de Dieu)", "type": "saint" },
+  "02-01": { "label": "Basile", "type": "saint" },
+  "03-01": { "label": "Geneviève", "type": "saint" },
+  "04-01": { "label": "Odilon", "type": "saint" },
+  "05-01": { "label": "Édouard", "type": "saint" },
+  "06-01": { "label": "Épiphanie", "type": "fete" },
+  "07-01": { "label": "Raymond", "type": "saint" },
+  "08-01": { "label": "Lucien", "type": "saint" },
+  "09-01": { "label": "Alix", "type": "saint" },
+  "10-01": { "label": "Guillaume", "type": "saint" },
+
+  "14-02": { "label": "Valentin", "type": "saint" },
+  "02-02": { "label": "Chandeleur", "type": "fete" },
+
+  "19-03": { "label": "Joseph", "type": "saint" },
+  "25-03": { "label": "Annonciation", "type": "fete" },
+
+  "01-05": { "label": "Fête du Travail", "type": "fete" },
+  "08-05": { "label": "Victoire 1945", "type": "fete" },
+
+  "17-05": { "label": "Pascal", "type": "saint" },
+  "18-05": { "label": "Éric", "type": "saint" },
+  "19-05": { "label": "Yves", "type": "saint" },
+  "20-05": { "label": "Bernardin", "type": "saint" },
+  "21-05": { "label": "Constantin", "type": "saint" },
+  "25-05": { "label": "Sophie", "type": "saint" },
+
+  "14-07": { "label": "Fête nationale", "type": "fete" },
+  "15-08": { "label": "Assomption", "type": "fete" },
+
+  "01-11": { "label": "Toussaint", "type": "fete" },
+  "11-11": { "label": "Armistice", "type": "fete" },
+
+  "25-12": { "label": "Noël", "type": "fete" },
+  "31-12": { "label": "Sylvestre", "type": "saint" }
+}
