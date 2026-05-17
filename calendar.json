@@ -153,7 +153,7 @@
 "28-05": { "label": "Germain", "type": "saint" },
 "29-05": { "label": "Aymard", "type": "saint" },
 "30-05": { "label": "Ferdinand", "type": "saint" },
-"31-05": { "label": "Visitation", "type": "fete" }
+"31-05": { "label": "Visitation", "type": "fete" },
 
  "01-06": { "label": "Justin", "type": "saint" },
 "02-06": { "label": "Blandine", "type": "saint" },
@@ -311,7 +311,7 @@
 "28-10": { "label": "Simon et Jude", "type": "saint" },
 "29-10": { "label": "Narcisse", "type": "saint" },
 "30-10": { "label": "Bienvenue", "type": "saint" },
-"31-10": { "label": "Quentin", "type": "saint" }
+"31-10": { "label": "Quentin", "type": "saint" },
 
  "01-11": { "label": "Toussaint", "type": "fete" },
 "02-11": { "label": "Défunts", "type": "fete" },
