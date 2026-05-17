@@ -1,1 +1,14 @@
-
+{
+  "17-05": {
+    "label": "Pascal",
+    "type": "saint"
+  },
+  "18-05": {
+    "label": "Éric",
+    "type": "saint"
+  },
+  "25-12": {
+    "label": "Noël",
+    "type": "fete"
+  }
+}
