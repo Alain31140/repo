@@ -1,0 +1,586 @@
+
+{
+  "01-01": [
+    {
+      "texte": "Entrée en vigueur du calendrier grégorien (divers pays, adoption progressive)",
+      "url": "https://fr.wikipedia.org/wiki/Calendrier_gr%C3%A9gorien"
+    },
+    {
+      "texte": "Création de l'Union économique et monétaire européenne (Euro)",
+      "url": "https://fr.wikipedia.org/wiki/Euro"
+    }
+  ],
+
+  "01-04": [
+    {
+      "texte": "Naissance de Isaac Newton (calendrier julien ancien style)",
+      "url": "https://fr.wikipedia.org/wiki/Isaac_Newton"
+    }
+  ],
+
+  "01-15": [
+    {
+      "texte": "Invention du code Morse",
+      "url": "https://fr.wikipedia.org/wiki/Code_Morse_international"
+    }
+  ],
+
+  "01-17": [
+    {
+      "texte": "Première démonstration publique du téléphone par Alexander Graham Bell",
+      "url": "https://fr.wikipedia.org/wiki/Alexander_Graham_Bell"
+    }
+  ],
+
+  "01-27": [
+    {
+      "texte": "Jour du souvenir de l’Holocauste (libération d’Auschwitz)",
+      "url": "https://fr.wikipedia.org/wiki/Lib%C3%A9ration_d%27Auschwitz"
+    }
+  ],
+
+
+  "02-02": [
+    {
+      "texte": "Jour de la Chandeleur (tradition chrétienne)",
+      "url": "https://fr.wikipedia.org/wiki/Chandeleur"
+    }
+  ],
+
+  "02-03": [
+    {
+      "texte": "Découverte de la pénicilline (travaux d'Alexander Fleming)",
+      "url": "https://fr.wikipedia.org/wiki/Penicilline"
+    }
+  ],
+
+  "02-07": [
+    {
+      "texte": "Naissance de Charles Dickens (1812)",
+      "url": "https://fr.wikipedia.org/wiki/Charles_Dickens"
+    }
+  ],
+
+  "02-11": [
+    {
+      "texte": "Signature des accords de Camp David (1979)",
+      "url": "https://fr.wikipedia.org/wiki/Accords_de_Camp_David"
+    }
+  ],
+
+  "02-14": [
+    {
+      "texte": "Saint-Valentin",
+      "url": "https://fr.wikipedia.org/wiki/Saint-Valentin"
+    }
+  ],
+
+  "02-20": [
+    {
+      "texte": "Naissance de Robert Baden-Powell (fondateur du scoutisme)",
+      "url": "https://fr.wikipedia.org/wiki/Robert_Baden-Powell"
+    }
+  ],
+
+  "03-01": [
+    {
+      "texte": "Journée mondiale du compliment",
+      "url": "https://fr.wikipedia.org/wiki/Journ%C3%A9e_mondiale_du_compliment"
+    }
+  ],
+
+  "03-08": [
+    {
+      "texte": "Journée internationale des droits des femmes",
+      "url": "https://fr.wikipedia.org/wiki/Journ%C3%A9e_internationale_des_femmes"
+    }
+  ],
+
+  "03-14": [
+    {
+      "texte": "Naissance du nombre π (Pi Day)",
+      "url": "https://fr.wikipedia.org/wiki/Pi_(nombre)"
+    }
+  ],
+
+  "03-15": [
+    {
+      "texte": "Assassinat de Jules César (44 av. J.-C.)",
+      "url": "https://fr.wikipedia.org/wiki/Ides_de_mars"
+    }
+  ],
+
+  "03-17": [
+    {
+      "texte": "Saint Patrick's Day",
+      "url": "https://fr.wikipedia.org/wiki/Saint-Patrick"
+    }
+  ],
+
+  "03-20": [
+    {
+      "texte": "Équinoxe de printemps (variable selon année)",
+      "url": "https://fr.wikipedia.org/wiki/%C3%89quinoxe"
+    }
+  ],
+
+  "03-31": [
+    {
+      "texte": "Découverte de Neptune (prédiction mathématique confirmée)",
+      "url": "https://fr.wikipedia.org/wiki/Neptune_(plan%C3%A8te)"
+    }
+  ],
+
+
+  "04-01": [
+    {
+      "texte": "Poisson d’avril (tradition des farces)",
+      "url": "https://fr.wikipedia.org/wiki/Poisson_d%27avril"
+    }
+  ],
+
+  "04-02": [
+    {
+      "texte": "Journée mondiale de sensibilisation à l’autisme",
+      "url": "https://fr.wikipedia.org/wiki/Journ%C3%A9e_mondiale_de_sensibilisation_%C3%A0_l%27autisme"
+    }
+  ],
+
+  "04-07": [
+    {
+      "texte": "Création de l’Organisation mondiale de la santé (OMS)",
+      "url": "https://fr.wikipedia.org/wiki/Organisation_mondiale_de_la_sant%C3%A9"
+    }
+  ],
+
+  "04-12": [
+    {
+      "texte": "Premier vol spatial habité (Youri Gagarine, 1961)",
+      "url": "https://fr.wikipedia.org/wiki/Youri_Gagarine"
+    }
+  ],
+
+  "04-14": [
+    {
+      "texte": "Naissance de la photographie (premiers procédés modernes)",
+      "url": "https://fr.wikipedia.org/wiki/Histoire_de_la_photographie"
+    }
+  ],
+
+  "04-22": [
+    {
+      "texte": "Journée de la Terre",
+      "url": "https://fr.wikipedia.org/wiki/Journ%C3%A9e_internationale_de_la_Terre"
+    }
+  ],
+
+
+  "05-01": [
+    {
+      "texte": "Fête du Travail",
+      "url": "https://fr.wikipedia.org/wiki/F%C3%AAte_du_Travail"
+    }
+  ],
+
+  "05-04": [
+    {
+      "texte": "Star Wars Day (May the 4th be with you)",
+      "url": "https://fr.wikipedia.org/wiki/Star_Wars_Day"
+    }
+  ],
+
+  "05-08": [
+    {
+      "texte": "Victoire de 1945 (fin de la Seconde Guerre mondiale en Europe)",
+      "url": "https://fr.wikipedia.org/wiki/Victoire_du_8_mai_1945"
+    }
+  ],
+
+  "05-12": [
+    {
+      "texte": "Naissance de Florence Nightingale (fondatrice des soins infirmiers modernes)",
+      "url": "https://fr.wikipedia.org/wiki/Florence_Nightingale"
+    }
+  ],
+
+  "05-17": [
+    {
+      "texte": "Journée mondiale des télécommunications",
+      "url": "https://fr.wikipedia.org/wiki/Journ%C3%A9e_mondiale_des_t%C3%A9l%C3%A9communications_et_de_la_soci%C3%A9t%C3%A9_de_l%27information"
+    }
+  ],
+
+  "05-21": [
+    {
+      "texte": "Journée mondiale de la diversité culturelle",
+      "url": "https://fr.wikipedia.org/wiki/Journ%C3%A9e_mondiale_de_la_diversit%C3%A9_culturelle"
+    }
+  ],
+
+  "05-31": [
+    {
+      "texte": "Inauguration de la tour Eiffel (1889)",
+      "url": "https://fr.wikipedia.org/wiki/Tour_Eiffel"
+    }
+  ],
+
+  "06-01": [
+    {
+      "texte": "Journée mondiale des parents",
+      "url": "https://fr.wikipedia.org/wiki/Journ%C3%A9e_mondiale_des_parents"
+    }
+  ],
+
+  "06-05": [
+    {
+      "texte": "Journée mondiale de l’environnement",
+      "url": "https://fr.wikipedia.org/wiki/Journ%C3%A9e_mondiale_de_l%27environnement"
+    }
+  ],
+
+  "06-06": [
+    {
+      "texte": "Débarquement de Normandie (D-Day, 1944)",
+      "url": "https://fr.wikipedia.org/wiki/D%C3%A9barquement_de_Normandie"
+    }
+  ],
+
+  "06-08": [
+    {
+      "texte": "Journée mondiale des océans",
+      "url": "https://fr.wikipedia.org/wiki/Journ%C3%A9e_mondiale_des_oc%C3%A9ans"
+    }
+  ],
+
+  "06-14": [
+    {
+      "texte": "Prise de la Bastille (1789, événement historique préparatoire)",
+      "url": "https://fr.wikipedia.org/wiki/Prise_de_la_Bastille"
+    }
+  ],
+
+  "06-21": [
+    {
+      "texte": "Fête de la musique",
+      "url": "https://fr.wikipedia.org/wiki/F%C3%AAte_de_la_musique"
+    }
+  ],
+
+  "06-23": [
+    {
+      "texte": "Journée olympique mondiale",
+      "url": "https://fr.wikipedia.org/wiki/Journ%C3%A9e_olympique"
+    }
+  ],
+
+
+  "07-01": [
+    {
+      "texte": "Création de la Banque centrale européenne (BCE, 1998)",
+      "url": "https://fr.wikipedia.org/wiki/Banque_centrale_europ%C3%A9enne"
+    }
+  ],
+
+  "07-04": [
+    {
+      "texte": "Indépendance des États-Unis (1776)",
+      "url": "https://fr.wikipedia.org/wiki/D%C3%A9claration_d%27ind%C3%A9pendance_des_%C3%89tats-Unis"
+    }
+  ],
+
+  "07-14": [
+    {
+      "texte": "Fête nationale française (Prise de la Bastille)",
+      "url": "https://fr.wikipedia.org/wiki/F%C3%AAte_nationale_fran%C3%A7aise"
+    }
+  ],
+
+  "07-17": [
+    {
+      "texte": "Signature de la Constitution de l’UNESCO",
+      "url": "https://fr.wikipedia.org/wiki/UNESCO"
+    }
+  ],
+
+  "07-20": [
+    {
+      "texte": "Premier pas sur la Lune (Apollo 11, 1969)",
+      "url": "https://fr.wikipedia.org/wiki/Apollo_11"
+    }
+  ],
+
+  "07-24": [
+    {
+      "texte": "Naissance du Tour de France (1903)",
+      "url": "https://fr.wikipedia.org/wiki/Tour_de_France"
+    }
+  ],
+
+  "07-28": [
+    {
+      "texte": "Déclaration de guerre de la Première Guerre mondiale (1914)",
+      "url": "https://fr.wikipedia.org/wiki/Premi%C3%A8re_Guerre_mondiale"
+    }
+  ],
+
+
+  "08-01": [
+    {
+      "texte": "Fête nationale suisse",
+      "url": "https://fr.wikipedia.org/wiki/F%C3%AAte_nationale_suisse"
+    }
+  ],
+
+  "08-06": [
+    {
+      "texte": "Bombardement d’Hiroshima (1945)",
+      "url": "https://fr.wikipedia.org/wiki/Bombardements_atomiques_d%27Hiroshima_et_de_Nagasaki"
+    }
+  ],
+
+  "08-09": [
+    {
+      "texte": "Bombardement de Nagasaki (1945)",
+      "url": "https://fr.wikipedia.org/wiki/Bombardements_atomiques_d%27Hiroshima_et_de_Nagasaki"
+    }
+  ],
+
+  "08-12": [
+    {
+      "texte": "Journée internationale de la jeunesse",
+      "url": "https://fr.wikipedia.org/wiki/Journ%C3%A9e_internationale_de_la_jeunesse"
+    }
+  ],
+
+  "08-15": [
+    {
+      "texte": "Assomption",
+      "url": "https://fr.wikipedia.org/wiki/Assomption"
+    }
+  ],
+
+  "08-19": [
+    {
+      "texte": "Journée mondiale de la photographie",
+      "url": "https://fr.wikipedia.org/wiki/Photographie"
+    }
+  ],
+
+  "08-23": [
+    {
+      "texte": "Journée internationale du souvenir de la traite négrière",
+      "url": "https://fr.wikipedia.org/wiki/Commerce_n%C3%A9grier"
+    }
+  ],
+
+  "08-26": [
+    {
+      "texte": "Journée internationale du chien",
+      "url": "https://fr.wikipedia.org/wiki/Chien"
+    }
+  ],
+
+
+  "09-01": [
+    {
+      "texte": "Début de la Seconde Guerre mondiale (1939)",
+      "url": "https://fr.wikipedia.org/wiki/Seconde_Guerre_mondiale"
+    }
+  ],
+
+  "09-02": [
+    {
+      "texte": "Capitulation du Japon et fin de la Seconde Guerre mondiale (1945)",
+      "url": "https://fr.wikipedia.org/wiki/Seconde_Guerre_mondiale"
+    }
+  ],
+
+  "09-08": [
+    {
+      "texte": "Journée internationale de l’alphabétisation",
+      "url": "https://fr.wikipedia.org/wiki/Journ%C3%A9e_internationale_de_l%27alphab%C3%A9tisation"
+    }
+  ],
+
+  "09-11": [
+    {
+      "texte": "Attentats du 11 septembre 2001",
+      "url": "https://fr.wikipedia.org/wiki/Attentats_du_11_septembre_2001"
+    }
+  ],
+
+  "09-21": [
+    {
+      "texte": "Journée internationale de la paix",
+      "url": "https://fr.wikipedia.org/wiki/Journ%C3%A9e_internationale_de_la_paix"
+    }
+  ],
+
+  "09-22": [
+    {
+      "texte": "Équinoxe d’automne (variable selon année)",
+      "url": "https://fr.wikipedia.org/wiki/%C3%89quinoxe"
+    }
+  ],
+
+  "09-27": [
+    {
+      "texte": "Journée mondiale du tourisme",
+      "url": "https://fr.wikipedia.org/wiki/Journ%C3%A9e_mondiale_du_tourisme"
+    }
+  ],
+
+  "10-01": [
+    {
+      "texte": "Journée internationale des personnes âgées",
+      "url": "https://fr.wikipedia.org/wiki/Journ%C3%A9e_internationale_des_personnes_%C3%A2g%C3%A9es"
+    }
+  ],
+
+  "10-02": [
+    {
+      "texte": "Journée internationale de la non-violence (Gandhi)",
+      "url": "https://fr.wikipedia.org/wiki/Mahatma_Gandhi"
+    }
+  ],
+
+  "10-04": [
+    {
+      "texte": "Lancement de Spoutnik 1 (premier satellite artificiel, 1957)",
+      "url": "https://fr.wikipedia.org/wiki/Spoutnik_1"
+    }
+  ],
+
+  "10-10": [
+    {
+      "texte": "Journée mondiale de la santé mentale",
+      "url": "https://fr.wikipedia.org/wiki/Journ%C3%A9e_mondiale_de_la_sant%C3%A9_mentale"
+    }
+  ],
+
+  "10-14": [
+    {
+      "texte": "Première liaison transatlantique par télégraphe (1858)",
+      "url": "https://fr.wikipedia.org/wiki/C%C3%A2ble_t%C3%A9l%C3%A9graphique_transatlantique"
+    }
+  ],
+
+  "10-24": [
+    {
+      "texte": "Journée des Nations unies",
+      "url": "https://fr.wikipedia.org/wiki/Organisation_des_Nations_unies"
+    }
+  ],
+
+  "10-31": [
+    {
+      "texte": "Halloween",
+      "url": "https://fr.wikipedia.org/wiki/Halloween"
+    }
+  ],
+
+  "11-01": [
+    {
+      "texte": "Toussaint (fête chrétienne)",
+      "url": "https://fr.wikipedia.org/wiki/Toussaint"
+    }
+  ],
+
+  "11-05": [
+    {
+      "texte": "Journée mondiale de sensibilisation aux tsunamis",
+      "url": "https://fr.wikipedia.org/wiki/Tsunami"
+    }
+  ],
+
+  "11-09": [
+    {
+      "texte": "Chute du mur de Berlin (1989)",
+      "url": "https://fr.wikipedia.org/wiki/Chute_du_mur_de_Berlin"
+    }
+  ],
+
+  "11-11": [
+    {
+      "texte": "Armistice de 1918 (fin de la Première Guerre mondiale)",
+      "url": "https://fr.wikipedia.org/wiki/Armistice_de_1918"
+    }
+  ],
+
+  "11-14": [
+    {
+      "texte": "Naissance de Claude Monet (1840)",
+      "url": "https://fr.wikipedia.org/wiki/Claude_Monet"
+    }
+  ],
+
+  "11-20": [
+    {
+      "texte": "Déclaration universelle des droits de l’enfant",
+      "url": "https://fr.wikipedia.org/wiki/D%C3%A9claration_des_droits_de_l%27enfant"
+    }
+  ],
+
+  "11-30": [
+    {
+      "texte": "Saint-André (fête traditionnelle)",
+      "url": "https://fr.wikipedia.org/wiki/Saint_Andr%C3%A9"
+    }
+  ],
+
+  "12-01": [
+    {
+      "texte": "Journée mondiale de lutte contre le sida",
+      "url": "https://fr.wikipedia.org/wiki/Sida"
+    }
+  ],
+
+  "12-02": [
+    {
+      "texte": "Couronnement de Napoléon Ier (1804)",
+      "url": "https://fr.wikipedia.org/wiki/Napol%C3%A9on_Ier"
+    }
+  ],
+
+  "12-05": [
+    {
+      "texte": "Journée mondiale du bénévolat",
+      "url": "https://fr.wikipedia.org/wiki/B%C3%A9n%C3%A9volat"
+    }
+  ],
+
+  "12-10": [
+    {
+      "texte": "Déclaration universelle des droits de l’homme (1948)",
+      "url": "https://fr.wikipedia.org/wiki/D%C3%A9claration_universelle_des_droits_de_l%27homme"
+    }
+  ],
+
+  "12-12": [
+    {
+      "texte": "Accord de Paris sur le climat (2015)",
+      "url": "https://fr.wikipedia.org/wiki/Accord_de_Paris_sur_le_climat"
+    }
+  ],
+
+  "12-21": [
+    {
+      "texte": "Solstice d’hiver",
+      "url": "https://fr.wikipedia.org/wiki/Solstice"
+    }
+  ],
+
+  "12-25": [
+    {
+      "texte": "Noël",
+      "url": "https://fr.wikipedia.org/wiki/No%C3%ABl"
+    }
+  ],
+
+  "12-31": [
+    {
+      "texte": "Saint-Sylvestre (Nouvel An)",
+      "url": "https://fr.wikipedia.org/wiki/Saint-Sylvestre"
+    }
+  ]
+}
