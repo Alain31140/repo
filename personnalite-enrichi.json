@@ -245,6 +245,15 @@
     }
   ],
 
+  "06-04": [
+    {
+      "nom": "Marilyn Monroe",
+      "naissance": "1926-06-01",
+      "url": "https://fr.wikipedia.org/wiki/Marilyn_Monroe",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Marilyn_Monroe_-_publicity.jpg"
+    }
+  ],
+
   "06-06": [
     {
       "nom": "Paul Gauguin",
