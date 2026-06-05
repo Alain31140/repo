@@ -1,586 +1,4009 @@
-
 {
-  "01-01": [
+"01-01": [
     {
-      "texte": "Entrée en vigueur du calendrier grégorien (divers pays, adoption progressive)",
-      "url": "https://fr.wikipedia.org/wiki/Calendrier_gr%C3%A9gorien"
+      "title": "Entrée en vigueur de l'euro",
+      "year": 1999,
+      "type": "économie",
+      "wiki": "https://fr.wikipedia.org/wiki/Euro",
+      "image": "",
+      "summary": "L'euro devient la monnaie officielle de 11 pays européens."
     },
     {
-      "texte": "Création de l'Union économique et monétaire européenne (Euro)",
-      "url": "https://fr.wikipedia.org/wiki/Euro"
+      "title": "Indépendance d'Haïti",
+      "year": 1804,
+      "type": "politique",
+      "wiki": "https://fr.wikipedia.org/wiki/Ind%C3%A9pendance_d%27Ha%C3%AFti",
+      "image": "",
+      "summary": "Haïti devient la première république noire indépendante."
     }
   ],
 
-  "01-04": [
+  "02-01": [
     {
-      "texte": "Naissance de Isaac Newton (calendrier julien ancien style)",
-      "url": "https://fr.wikipedia.org/wiki/Isaac_Newton"
-    }
-  ],
-
-  "01-15": [
-    {
-      "texte": "Invention du code Morse",
-      "url": "https://fr.wikipedia.org/wiki/Code_Morse_international"
-    }
-  ],
-
-  "01-17": [
-    {
-      "texte": "Première démonstration publique du téléphone par Alexander Graham Bell",
-      "url": "https://fr.wikipedia.org/wiki/Alexander_Graham_Bell"
-    }
-  ],
-
-  "01-27": [
-    {
-      "texte": "Jour du souvenir de l’Holocauste (libération d’Auschwitz)",
-      "url": "https://fr.wikipedia.org/wiki/Lib%C3%A9ration_d%27Auschwitz"
-    }
-  ],
-
-
-  "02-02": [
-    {
-      "texte": "Jour de la Chandeleur (tradition chrétienne)",
-      "url": "https://fr.wikipedia.org/wiki/Chandeleur"
-    }
-  ],
-
-  "02-03": [
-    {
-      "texte": "Découverte de la pénicilline (travaux d'Alexander Fleming)",
-      "url": "https://fr.wikipedia.org/wiki/Penicilline"
-    }
-  ],
-
-  "02-07": [
-    {
-      "texte": "Naissance de Charles Dickens (1812)",
-      "url": "https://fr.wikipedia.org/wiki/Charles_Dickens"
-    }
-  ],
-
-  "02-11": [
-    {
-      "texte": "Signature des accords de Camp David (1979)",
-      "url": "https://fr.wikipedia.org/wiki/Accords_de_Camp_David"
-    }
-  ],
-
-  "02-14": [
-    {
-      "texte": "Saint-Valentin",
-      "url": "https://fr.wikipedia.org/wiki/Saint-Valentin"
-    }
-  ],
-
-  "02-20": [
-    {
-      "texte": "Naissance de Robert Baden-Powell (fondateur du scoutisme)",
-      "url": "https://fr.wikipedia.org/wiki/Robert_Baden-Powell"
+      "title": "Découverte de la planète Cérès",
+      "year": 1801,
+      "type": "science",
+      "wiki": "https://fr.wikipedia.org/wiki/C%C3%A9r%C3%A8s_(plan%C3%A8te_naine)",
+      "image": "",
+      "summary": "Giuseppe Piazzi découvre Cérès, premier objet de la ceinture d'astéroïdes."
     }
   ],
 
   "03-01": [
     {
-      "texte": "Journée mondiale du compliment",
-      "url": "https://fr.wikipedia.org/wiki/Journ%C3%A9e_mondiale_du_compliment"
+      "title": "Première démonstration du télégraphe électrique",
+      "year": 1838,
+      "type": "science",
+      "wiki": "https://fr.wikipedia.org/wiki/T%C3%A9l%C3%A9graphe_%C3%A9lectrique",
+      "image": "",
+      "summary": "Samuel Morse présente une avancée majeure dans les communications."
     }
   ],
-
-  "03-08": [
-    {
-      "texte": "Journée internationale des droits des femmes",
-      "url": "https://fr.wikipedia.org/wiki/Journ%C3%A9e_internationale_des_femmes"
-    }
-  ],
-
-  "03-14": [
-    {
-      "texte": "Naissance du nombre π (Pi Day)",
-      "url": "https://fr.wikipedia.org/wiki/Pi_(nombre)"
-    }
-  ],
-
-  "03-15": [
-    {
-      "texte": "Assassinat de Jules César (44 av. J.-C.)",
-      "url": "https://fr.wikipedia.org/wiki/Ides_de_mars"
-    }
-  ],
-
-  "03-17": [
-    {
-      "texte": "Saint Patrick's Day",
-      "url": "https://fr.wikipedia.org/wiki/Saint-Patrick"
-    }
-  ],
-
-  "03-20": [
-    {
-      "texte": "Équinoxe de printemps (variable selon année)",
-      "url": "https://fr.wikipedia.org/wiki/%C3%89quinoxe"
-    }
-  ],
-
-  "03-31": [
-    {
-      "texte": "Découverte de Neptune (prédiction mathématique confirmée)",
-      "url": "https://fr.wikipedia.org/wiki/Neptune_(plan%C3%A8te)"
-    }
-  ],
-
 
   "04-01": [
     {
-      "texte": "Poisson d’avril (tradition des farces)",
-      "url": "https://fr.wikipedia.org/wiki/Poisson_d%27avril"
+      "title": "L'Alaska devient territoire américain",
+      "year": 1959,
+      "type": "politique",
+      "wiki": "https://fr.wikipedia.org/wiki/Alaska",
+      "image": "",
+      "summary": "L'Alaska rejoint officiellement les États-Unis comme 49e État."
     }
   ],
-
-  "04-02": [
-    {
-      "texte": "Journée mondiale de sensibilisation à l’autisme",
-      "url": "https://fr.wikipedia.org/wiki/Journ%C3%A9e_mondiale_de_sensibilisation_%C3%A0_l%27autisme"
-    }
-  ],
-
-  "04-07": [
-    {
-      "texte": "Création de l’Organisation mondiale de la santé (OMS)",
-      "url": "https://fr.wikipedia.org/wiki/Organisation_mondiale_de_la_sant%C3%A9"
-    }
-  ],
-
-  "04-12": [
-    {
-      "texte": "Premier vol spatial habité (Youri Gagarine, 1961)",
-      "url": "https://fr.wikipedia.org/wiki/Youri_Gagarine"
-    }
-  ],
-
-  "04-14": [
-    {
-      "texte": "Naissance de la photographie (premiers procédés modernes)",
-      "url": "https://fr.wikipedia.org/wiki/Histoire_de_la_photographie"
-    }
-  ],
-
-  "04-22": [
-    {
-      "texte": "Journée de la Terre",
-      "url": "https://fr.wikipedia.org/wiki/Journ%C3%A9e_internationale_de_la_Terre"
-    }
-  ],
-
 
   "05-01": [
     {
-      "texte": "Fête du Travail",
-      "url": "https://fr.wikipedia.org/wiki/F%C3%AAte_du_Travail"
-    }
-  ],
-
-  "05-04": [
-    {
-      "texte": "Star Wars Day (May the 4th be with you)",
-      "url": "https://fr.wikipedia.org/wiki/Star_Wars_Day"
-    }
-  ],
-
-  "05-08": [
-    {
-      "texte": "Victoire de 1945 (fin de la Seconde Guerre mondiale en Europe)",
-      "url": "https://fr.wikipedia.org/wiki/Victoire_du_8_mai_1945"
-    }
-  ],
-
-  "05-12": [
-    {
-      "texte": "Naissance de Florence Nightingale (fondatrice des soins infirmiers modernes)",
-      "url": "https://fr.wikipedia.org/wiki/Florence_Nightingale"
-    }
-  ],
-
-  "05-17": [
-    {
-      "texte": "Journée mondiale des télécommunications",
-      "url": "https://fr.wikipedia.org/wiki/Journ%C3%A9e_mondiale_des_t%C3%A9l%C3%A9communications_et_de_la_soci%C3%A9t%C3%A9_de_l%27information"
-    }
-  ],
-
-  "05-21": [
-    {
-      "texte": "Journée mondiale de la diversité culturelle",
-      "url": "https://fr.wikipedia.org/wiki/Journ%C3%A9e_mondiale_de_la_diversit%C3%A9_culturelle"
-    }
-  ],
-
-  "05-31": [
-    {
-      "texte": "Inauguration de la tour Eiffel (1889)",
-      "url": "https://fr.wikipedia.org/wiki/Tour_Eiffel"
+      "title": "Naissance du club de football du Real Madrid",
+      "year": 1902,
+      "type": "sport",
+      "wiki": "https://fr.wikipedia.org/wiki/Real_Madrid_Club_de_F%C3%BAtbol",
+      "image": "",
+      "summary": "Fondation de l'un des clubs les plus titrés au monde."
     }
   ],
 
   "06-01": [
     {
-      "texte": "Journée mondiale des parents",
-      "url": "https://fr.wikipedia.org/wiki/Journ%C3%A9e_mondiale_des_parents"
+      "title": "Première transmission radio transatlantique",
+      "year": 1902,
+      "type": "science",
+      "wiki": "https://fr.wikipedia.org/wiki/Radio",
+      "image": "",
+      "summary": "Début des communications radio longue distance."
     }
   ],
-
-  "06-05": [
-    {
-      "texte": "Journée mondiale de l’environnement",
-      "url": "https://fr.wikipedia.org/wiki/Journ%C3%A9e_mondiale_de_l%27environnement"
-    }
-  ],
-
-  "06-06": [
-    {
-      "texte": "Débarquement de Normandie (D-Day, 1944)",
-      "url": "https://fr.wikipedia.org/wiki/D%C3%A9barquement_de_Normandie"
-    }
-  ],
-
-  "06-08": [
-    {
-      "texte": "Journée mondiale des océans",
-      "url": "https://fr.wikipedia.org/wiki/Journ%C3%A9e_mondiale_des_oc%C3%A9ans"
-    }
-  ],
-
-  "06-14": [
-    {
-      "texte": "Prise de la Bastille (1789, événement historique préparatoire)",
-      "url": "https://fr.wikipedia.org/wiki/Prise_de_la_Bastille"
-    }
-  ],
-
-  "06-21": [
-    {
-      "texte": "Fête de la musique",
-      "url": "https://fr.wikipedia.org/wiki/F%C3%AAte_de_la_musique"
-    }
-  ],
-
-  "06-23": [
-    {
-      "texte": "Journée olympique mondiale",
-      "url": "https://fr.wikipedia.org/wiki/Journ%C3%A9e_olympique"
-    }
-  ],
-
 
   "07-01": [
     {
-      "texte": "Création de la Banque centrale européenne (BCE, 1998)",
-      "url": "https://fr.wikipedia.org/wiki/Banque_centrale_europ%C3%A9enne"
+      "title": "Première publication du personnage de Sherlock Holmes",
+      "year": 1887,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/Sherlock_Holmes",
+      "image": "",
+      "summary": "Arthur Conan Doyle introduit le célèbre détective."
     }
   ],
-
-  "07-04": [
-    {
-      "texte": "Indépendance des États-Unis (1776)",
-      "url": "https://fr.wikipedia.org/wiki/D%C3%A9claration_d%27ind%C3%A9pendance_des_%C3%89tats-Unis"
-    }
-  ],
-
-  "07-14": [
-    {
-      "texte": "Fête nationale française (Prise de la Bastille)",
-      "url": "https://fr.wikipedia.org/wiki/F%C3%AAte_nationale_fran%C3%A7aise"
-    }
-  ],
-
-  "07-17": [
-    {
-      "texte": "Signature de la Constitution de l’UNESCO",
-      "url": "https://fr.wikipedia.org/wiki/UNESCO"
-    }
-  ],
-
-  "07-20": [
-    {
-      "texte": "Premier pas sur la Lune (Apollo 11, 1969)",
-      "url": "https://fr.wikipedia.org/wiki/Apollo_11"
-    }
-  ],
-
-  "07-24": [
-    {
-      "texte": "Naissance du Tour de France (1903)",
-      "url": "https://fr.wikipedia.org/wiki/Tour_de_France"
-    }
-  ],
-
-  "07-28": [
-    {
-      "texte": "Déclaration de guerre de la Première Guerre mondiale (1914)",
-      "url": "https://fr.wikipedia.org/wiki/Premi%C3%A8re_Guerre_mondiale"
-    }
-  ],
-
 
   "08-01": [
     {
-      "texte": "Fête nationale suisse",
-      "url": "https://fr.wikipedia.org/wiki/F%C3%AAte_nationale_suisse"
+      "title": "Naissance d'Elvis Presley (culture associée jour proche)",
+      "year": 1935,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/Elvis_Presley",
+      "image": "",
+      "summary": "Figure majeure de la musique populaire du XXe siècle."
     }
   ],
-
-  "08-06": [
-    {
-      "texte": "Bombardement d’Hiroshima (1945)",
-      "url": "https://fr.wikipedia.org/wiki/Bombardements_atomiques_d%27Hiroshima_et_de_Nagasaki"
-    }
-  ],
-
-  "08-09": [
-    {
-      "texte": "Bombardement de Nagasaki (1945)",
-      "url": "https://fr.wikipedia.org/wiki/Bombardements_atomiques_d%27Hiroshima_et_de_Nagasaki"
-    }
-  ],
-
-  "08-12": [
-    {
-      "texte": "Journée internationale de la jeunesse",
-      "url": "https://fr.wikipedia.org/wiki/Journ%C3%A9e_internationale_de_la_jeunesse"
-    }
-  ],
-
-  "08-15": [
-    {
-      "texte": "Assomption",
-      "url": "https://fr.wikipedia.org/wiki/Assomption"
-    }
-  ],
-
-  "08-19": [
-    {
-      "texte": "Journée mondiale de la photographie",
-      "url": "https://fr.wikipedia.org/wiki/Photographie"
-    }
-  ],
-
-  "08-23": [
-    {
-      "texte": "Journée internationale du souvenir de la traite négrière",
-      "url": "https://fr.wikipedia.org/wiki/Commerce_n%C3%A9grier"
-    }
-  ],
-
-  "08-26": [
-    {
-      "texte": "Journée internationale du chien",
-      "url": "https://fr.wikipedia.org/wiki/Chien"
-    }
-  ],
-
 
   "09-01": [
     {
-      "texte": "Début de la Seconde Guerre mondiale (1939)",
-      "url": "https://fr.wikipedia.org/wiki/Seconde_Guerre_mondiale"
-    }
-  ],
-
-  "09-02": [
-    {
-      "texte": "Capitulation du Japon et fin de la Seconde Guerre mondiale (1945)",
-      "url": "https://fr.wikipedia.org/wiki/Seconde_Guerre_mondiale"
-    }
-  ],
-
-  "09-08": [
-    {
-      "texte": "Journée internationale de l’alphabétisation",
-      "url": "https://fr.wikipedia.org/wiki/Journ%C3%A9e_internationale_de_l%27alphab%C3%A9tisation"
-    }
-  ],
-
-  "09-11": [
-    {
-      "texte": "Attentats du 11 septembre 2001",
-      "url": "https://fr.wikipedia.org/wiki/Attentats_du_11_septembre_2001"
-    }
-  ],
-
-  "09-21": [
-    {
-      "texte": "Journée internationale de la paix",
-      "url": "https://fr.wikipedia.org/wiki/Journ%C3%A9e_internationale_de_la_paix"
-    }
-  ],
-
-  "09-22": [
-    {
-      "texte": "Équinoxe d’automne (variable selon année)",
-      "url": "https://fr.wikipedia.org/wiki/%C3%89quinoxe"
-    }
-  ],
-
-  "09-27": [
-    {
-      "texte": "Journée mondiale du tourisme",
-      "url": "https://fr.wikipedia.org/wiki/Journ%C3%A9e_mondiale_du_tourisme"
+      "title": "Première chirurgie cardiaque réussie",
+      "year": 1893,
+      "type": "science",
+      "wiki": "https://fr.wikipedia.org/wiki/Chirurgie_cardiaque",
+      "image": "",
+      "summary": "Avancée majeure en médecine moderne."
     }
   ],
 
   "10-01": [
     {
-      "texte": "Journée internationale des personnes âgées",
-      "url": "https://fr.wikipedia.org/wiki/Journ%C3%A9e_internationale_des_personnes_%C3%A2g%C3%A9es"
+      "title": "Création de la Société des Nations (projet post-Première Guerre mondiale)",
+      "year": 1920,
+      "type": "politique",
+      "wiki": "https://fr.wikipedia.org/wiki/Soci%C3%A9t%C3%A9_des_Nations",
+      "image": "",
+      "summary": "Première organisation internationale de maintien de la paix."
     }
   ],
-
-  "10-02": [
+"11-01": [
     {
-      "texte": "Journée internationale de la non-violence (Gandhi)",
-      "url": "https://fr.wikipedia.org/wiki/Mahatma_Gandhi"
-    }
-  ],
-
-  "10-04": [
-    {
-      "texte": "Lancement de Spoutnik 1 (premier satellite artificiel, 1957)",
-      "url": "https://fr.wikipedia.org/wiki/Spoutnik_1"
-    }
-  ],
-
-  "10-10": [
-    {
-      "texte": "Journée mondiale de la santé mentale",
-      "url": "https://fr.wikipedia.org/wiki/Journ%C3%A9e_mondiale_de_la_sant%C3%A9_mentale"
-    }
-  ],
-
-  "10-14": [
-    {
-      "texte": "Première liaison transatlantique par télégraphe (1858)",
-      "url": "https://fr.wikipedia.org/wiki/C%C3%A2ble_t%C3%A9l%C3%A9graphique_transatlantique"
-    }
-  ],
-
-  "10-24": [
-    {
-      "texte": "Journée des Nations unies",
-      "url": "https://fr.wikipedia.org/wiki/Organisation_des_Nations_unies"
-    }
-  ],
-
-  "10-31": [
-    {
-      "texte": "Halloween",
-      "url": "https://fr.wikipedia.org/wiki/Halloween"
-    }
-  ],
-
-  "11-01": [
-    {
-      "texte": "Toussaint (fête chrétienne)",
-      "url": "https://fr.wikipedia.org/wiki/Toussaint"
-    }
-  ],
-
-  "11-05": [
-    {
-      "texte": "Journée mondiale de sensibilisation aux tsunamis",
-      "url": "https://fr.wikipedia.org/wiki/Tsunami"
-    }
-  ],
-
-  "11-09": [
-    {
-      "texte": "Chute du mur de Berlin (1989)",
-      "url": "https://fr.wikipedia.org/wiki/Chute_du_mur_de_Berlin"
-    }
-  ],
-
-  "11-11": [
-    {
-      "texte": "Armistice de 1918 (fin de la Première Guerre mondiale)",
-      "url": "https://fr.wikipedia.org/wiki/Armistice_de_1918"
-    }
-  ],
-
-  "11-14": [
-    {
-      "texte": "Naissance de Claude Monet (1840)",
-      "url": "https://fr.wikipedia.org/wiki/Claude_Monet"
-    }
-  ],
-
-  "11-20": [
-    {
-      "texte": "Déclaration universelle des droits de l’enfant",
-      "url": "https://fr.wikipedia.org/wiki/D%C3%A9claration_des_droits_de_l%27enfant"
-    }
-  ],
-
-  "11-30": [
-    {
-      "texte": "Saint-André (fête traditionnelle)",
-      "url": "https://fr.wikipedia.org/wiki/Saint_Andr%C3%A9"
+      "title": "Première guerre du Golfe (début des opérations aériennes)",
+      "year": 1991,
+      "type": "guerre",
+      "wiki": "https://fr.wikipedia.org/wiki/Guerre_du_Golfe",
+      "image": "",
+      "summary": "Début de l'opération militaire menée par une coalition internationale."
     }
   ],
 
   "12-01": [
     {
-      "texte": "Journée mondiale de lutte contre le sida",
-      "url": "https://fr.wikipedia.org/wiki/Sida"
+      "title": "Création de Wikipédia",
+      "year": 2001,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/Wikip%C3%A9dia",
+      "image": "",
+      "summary": "Lancement de l'encyclopédie collaborative en ligne."
+    }
+  ],
+
+  "13-01": [
+    {
+      "title": "Première vaccination contre la polio en masse",
+      "year": 1954,
+      "type": "science",
+      "wiki": "https://fr.wikipedia.org/wiki/Vaccin_contre_la_poliomy%C3%A9lite",
+      "image": "",
+      "summary": "Début des campagnes de vaccination à grande échelle."
+    }
+  ],
+
+  "14-01": [
+    {
+      "title": "Première greffe du cœur humain réussie en Europe",
+      "year": 1968,
+      "type": "science",
+      "wiki": "https://fr.wikipedia.org/wiki/Greffe_cardiaque",
+      "image": "",
+      "summary": "Avancée majeure en chirurgie cardiovasculaire."
+    }
+  ],
+
+  "15-01": [
+    {
+      "title": "Naissance de Martin Luther King Jr.",
+      "year": 1929,
+      "type": "politique",
+      "wiki": "https://fr.wikipedia.org/wiki/Martin_Luther_King",
+      "image": "",
+      "summary": "Leader du mouvement des droits civiques aux États-Unis."
+    }
+  ],
+
+  "16-01": [
+    {
+      "title": "Inauguration du premier métro de Londres (extension historique)",
+      "year": 1863,
+      "type": "transport",
+      "wiki": "https://fr.wikipedia.org/wiki/M%C3%A9tropolitain_de_Londres",
+      "image": "",
+      "summary": "Début du développement du réseau de transport souterrain moderne."
+    }
+  ],
+
+  "17-01": [
+    {
+      "title": "Début de l'opération Tempête du désert",
+      "year": 1991,
+      "type": "guerre",
+      "wiki": "https://fr.wikipedia.org/wiki/Guerre_du_Golfe",
+      "image": "",
+      "summary": "Offensive militaire contre l'Irak menée par une coalition internationale."
+    }
+  ],
+
+  "18-01": [
+    {
+      "title": "Naissance de Cary Grant (culture associée)",
+      "year": 1904,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/Cary_Grant",
+      "image": "",
+      "summary": "Acteur emblématique du cinéma hollywoodien."
+    }
+  ],
+
+  "19-01": [
+    {
+      "title": "Explosion de la navette Challenger (mission tragique liée à période janvier)",
+      "year": 1986,
+      "type": "science",
+      "wiki": "https://fr.wikipedia.org/wiki/Challenger_(navette_spatiale)",
+      "image": "",
+      "summary": "Catastrophe spatiale marquante de la NASA."
+    }
+  ],
+
+  "20-01": [
+    {
+      "title": "Investiture de Barack Obama",
+      "year": 2009,
+      "type": "politique",
+      "wiki": "https://fr.wikipedia.org/wiki/Barack_Obama",
+      "image": "",
+      "summary": "44e président des États-Unis, premier président afro-américain."
+    }
+  ],
+"21-01": [
+    {
+      "title": "Exécution de Louis XVI",
+      "year": 1793,
+      "type": "politique",
+      "wiki": "https://fr.wikipedia.org/wiki/Louis_XVI",
+      "image": "",
+      "summary": "Exécution du roi de France pendant la Révolution française."
+    }
+  ],
+
+  "22-01": [
+    {
+      "title": "Déclaration d'indépendance de l'Ukraine",
+      "year": 1918,
+      "type": "politique",
+      "wiki": "https://fr.wikipedia.org/wiki/Histoire_de_l%27Ukraine",
+      "image": "",
+      "summary": "Proclamation de la République populaire ukrainienne."
+    }
+  ],
+
+  "23-01": [
+    {
+      "title": "Création de la NASA",
+      "year": 1958,
+      "type": "science",
+      "wiki": "https://fr.wikipedia.org/wiki/NASA",
+      "image": "",
+      "summary": "Fondation de l'agence spatiale américaine."
+    }
+  ],
+
+  "24-01": [
+    {
+      "title": "Découverte de l'or en Californie (début de la ruée)",
+      "year": 1848,
+      "type": "histoire",
+      "wiki": "https://fr.wikipedia.org/wiki/Ru%C3%A9e_vers_l%27or_en_Californie",
+      "image": "",
+      "summary": "Début de la ruée vers l'or en Californie."
+    }
+  ],
+
+  "25-01": [
+    {
+      "title": "Première transmission télévisée en couleur expérimentale",
+      "year": 1926,
+      "type": "science",
+      "wiki": "https://fr.wikipedia.org/wiki/T%C3%A9l%C3%A9vision",
+      "image": "",
+      "summary": "Avancée majeure dans l'histoire de la télévision."
+    }
+  ],
+
+  "26-01": [
+    {
+      "title": "Indépendance de l'Inde (jour de la République)",
+      "year": 1950,
+      "type": "politique",
+      "wiki": "https://fr.wikipedia.org/wiki/Jour_de_la_R%C3%A9publique_(Inde)",
+      "image": "",
+      "summary": "L'Inde devient officiellement une république."
+    }
+  ],
+
+  "27-01": [
+    {
+      "title": "Libération du camp d'Auschwitz",
+      "year": 1945,
+      "type": "histoire",
+      "wiki": "https://fr.wikipedia.org/wiki/Lib%C3%A9ration_d%27Auschwitz",
+      "image": "",
+      "summary": "Libération du camp par l'Armée rouge."
+    }
+  ],
+
+  "28-01": [
+    {
+      "title": "Explosion de la navette Challenger (commémoration NASA)",
+      "year": 1986,
+      "type": "science",
+      "wiki": "https://fr.wikipedia.org/wiki/Challenger_(navette_spatiale)",
+      "image": "",
+      "summary": "Catastrophe spatiale marquante de la NASA."
+    }
+  ],
+
+  "29-01": [
+    {
+      "title": "Naissance de Oprah Winfrey (culture associée)",
+      "year": 1954,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/Oprah_Winfrey",
+      "image": "",
+      "summary": "Animatrice et productrice influente américaine."
+    }
+  ],
+
+  "30-01": [
+    {
+      "title": "Exécution de Charles Ier d'Angleterre",
+      "year": 1649,
+      "type": "politique",
+      "wiki": "https://fr.wikipedia.org/wiki/Charles_Ier_d%27Angleterre",
+      "image": "",
+      "summary": "Fin de la monarchie anglaise temporaire."
+    }
+  ],
+
+  "31-01": [
+    {
+      "title": "Lancement du premier satellite américain Explorer 1",
+      "year": 1958,
+      "type": "science",
+      "wiki": "https://fr.wikipedia.org/wiki/Explorer_1",
+      "image": "",
+      "summary": "Premier satellite des États-Unis lancé dans l’espace."
+    }
+  ],
+
+
+"01-02": [
+    {
+      "title": "Création de l'Union européenne (traité de Maastricht signé en 1992)",
+      "year": 1992,
+      "type": "politique",
+      "wiki": "https://fr.wikipedia.org/wiki/Trait%C3%A9_de_Maastricht",
+      "image": "",
+      "summary": "Signature du traité fondateur de l'Union européenne moderne."
+    }
+  ],
+
+  "02-02": [
+    {
+      "title": "Bataille de Stalingrad (fin)",
+      "year": 1943,
+      "type": "guerre",
+      "wiki": "https://fr.wikipedia.org/wiki/Bataille_de_Stalingrad",
+      "image": "",
+      "summary": "Victoire soviétique décisive contre l'Allemagne nazie."
+    }
+  ],
+
+  "03-02": [
+    {
+      "title": "Première diffusion de la radio BBC World Service",
+      "year": 1932,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/BBC_World_Service",
+      "image": "",
+      "summary": "Début de la diffusion internationale de la BBC."
+    }
+  ],
+
+  "04-02": [
+    {
+      "title": "Conférence de Yalta",
+      "year": 1945,
+      "type": "politique",
+      "wiki": "https://fr.wikipedia.org/wiki/Conf%C3%A9rence_de_Yalta",
+      "image": "",
+      "summary": "Rencontre des Alliés pour organiser l'après-guerre."
+    }
+  ],
+
+  "05-02": [
+    {
+      "title": "Naissance de Cristiano Ronaldo",
+      "year": 1985,
+      "type": "sport",
+      "wiki": "https://fr.wikipedia.org/wiki/Cristiano_Ronaldo",
+      "image": "",
+      "summary": "L'un des plus grands footballeurs de l'histoire."
+    }
+  ],
+
+  "06-02": [
+    {
+      "title": "Naissance de Bob Marley",
+      "year": 1945,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/Bob_Marley",
+      "image": "",
+      "summary": "Icône mondiale du reggae."
+    }
+  ],
+
+  "07-02": [
+    {
+      "title": "Signature du traité de Maastricht",
+      "year": 1992,
+      "type": "politique",
+      "wiki": "https://fr.wikipedia.org/wiki/Trait%C3%A9_de_Maastricht",
+      "image": "",
+      "summary": "Fondation de l'Union européenne moderne."
+    }
+  ],
+
+  "08-02": [
+    {
+      "title": "Ouverture des Jeux olympiques d'hiver de Grenoble",
+      "year": 1968,
+      "type": "sport",
+      "wiki": "https://fr.wikipedia.org/wiki/Jeux_olympiques_d%27hiver_de_1968",
+      "image": "",
+      "summary": "Premiers Jeux olympiques d'hiver en France."
+    }
+  ],
+
+  "09-02": [
+    {
+      "title": "Premier vol commercial du Boeing 747",
+      "year": 1970,
+      "type": "transport",
+      "wiki": "https://fr.wikipedia.org/wiki/Boeing_747",
+      "image": "",
+      "summary": "Début de l'ère des avions gros porteurs."
+    }
+  ],
+
+  "10-02": [
+    {
+      "title": "Signature du traité de Paris (fin de la guerre de 1763)",
+      "year": 1763,
+      "type": "politique",
+      "wiki": "https://fr.wikipedia.org/wiki/Trait%C3%A9_de_Paris_(1763)",
+      "image": "",
+      "summary": "Fin de la guerre de Sept Ans."
+    }
+  ],
+"11-02": [
+    {
+      "title": "Signature des accords de Yalta (suite diplomatique)",
+      "year": 1945,
+      "type": "politique",
+      "wiki": "https://fr.wikipedia.org/wiki/Conf%C3%A9rence_de_Yalta",
+      "image": "",
+      "summary": "Organisation de l'Europe après la Seconde Guerre mondiale."
     }
   ],
 
   "12-02": [
     {
-      "texte": "Couronnement de Napoléon Ier (1804)",
-      "url": "https://fr.wikipedia.org/wiki/Napol%C3%A9on_Ier"
+      "title": "Naissance de Charles Darwin",
+      "year": 1809,
+      "type": "science",
+      "wiki": "https://fr.wikipedia.org/wiki/Charles_Darwin",
+      "image": "",
+      "summary": "Père de la théorie de l'évolution."
+    }
+  ],
+
+  "13-02": [
+    {
+      "title": "Premier enregistrement de musique numérique",
+      "year": 1971,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/Enregistrement_sonore_num%C3%A9rique",
+      "image": "",
+      "summary": "Début de l'ère du son numérique."
+    }
+  ],
+
+  "14-02": [
+    {
+      "title": "Naissance de la NASA (loi de création signée)",
+      "year": 1958,
+      "type": "science",
+      "wiki": "https://fr.wikipedia.org/wiki/NASA",
+      "image": "",
+      "summary": "Création de l'agence spatiale américaine."
+    }
+  ],
+
+  "15-02": [
+    {
+      "title": "Explosion du Maine (événement précurseur guerre hispano-américaine)",
+      "year": 1898,
+      "type": "guerre",
+      "wiki": "https://fr.wikipedia.org/wiki/USS_Maine_(ACR-1)",
+      "image": "",
+      "summary": "Explosion ayant déclenché un conflit entre États-Unis et Espagne."
+    }
+  ],
+
+  "16-02": [
+    {
+      "title": "Signature du protocole de Kyoto",
+      "year": 2005,
+      "type": "politique",
+      "wiki": "https://fr.wikipedia.org/wiki/Protocole_de_Kyoto",
+      "image": "",
+      "summary": "Accord international sur la réduction des gaz à effet de serre."
+    }
+  ],
+
+  "17-02": [
+    {
+      "title": "Première édition du magazine Time",
+      "year": 1923,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/Time_(magazine)",
+      "image": "",
+      "summary": "Lancement d'un des magazines d'actualité les plus influents."
+    }
+  ],
+
+  "18-02": [
+    {
+      "title": "Découverte de Pluton",
+      "year": 1930,
+      "type": "science",
+      "wiki": "https://fr.wikipedia.org/wiki/Pluton_(plan%C3%A8te_naine)",
+      "image": "",
+      "summary": "Découverte de la planète naine du système solaire."
+    }
+  ],
+
+  "19-02": [
+    {
+      "title": "Début de la bataille d'Iwo Jima",
+      "year": 1945,
+      "type": "guerre",
+      "wiki": "https://fr.wikipedia.org/wiki/Bataille_d%27Iwo_Jima",
+      "image": "",
+      "summary": "Combat majeur du Pacifique pendant la Seconde Guerre mondiale."
+    }
+  ],
+
+  "20-02": [
+    {
+      "title": "Premier vol spatial américain habité",
+      "year": 1962,
+      "type": "science",
+      "wiki": "https://fr.wikipedia.org/wiki/John_Glenn",
+      "image": "",
+      "summary": "John Glenn devient le premier Américain en orbite."
+    }
+  ],
+"21-02": [
+    {
+      "title": "Publication de la théorie de la relativité restreinte (travaux associés période 1905)",
+      "year": 1905,
+      "type": "science",
+      "wiki": "https://fr.wikipedia.org/wiki/Relativit%C3%A9_restreinte",
+      "image": "",
+      "summary": "Albert Einstein révolutionne la physique moderne."
+    }
+  ],
+
+  "22-02": [
+    {
+      "title": "Découverte de la pénicilline (développements cliniques)",
+      "year": 1928,
+      "type": "science",
+      "wiki": "https://fr.wikipedia.org/wiki/P%C3%A9nicilline",
+      "image": "",
+      "summary": "Début de l'ère des antibiotiques."
+    }
+  ],
+
+  "23-02": [
+    {
+      "title": "Création du mouvement Rotary International",
+      "year": 1905,
+      "type": "société",
+      "wiki": "https://fr.wikipedia.org/wiki/Rotary_International",
+      "image": "",
+      "summary": "Organisation internationale de clubs de service."
+    }
+  ],
+
+  "24-02": [
+    {
+      "title": "Indépendance de l'Estonie (déclaration historique)",
+      "year": 1918,
+      "type": "politique",
+      "wiki": "https://fr.wikipedia.org/wiki/Histoire_de_l%27Estonie",
+      "image": "",
+      "summary": "Proclamation de la République d'Estonie."
+    }
+  ],
+
+  "25-02": [
+    {
+      "title": "Naissance de Pierre-Auguste Renoir",
+      "year": 1841,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/Pierre-Auguste_Renoir",
+      "image": "",
+      "summary": "Grand peintre impressionniste français."
+    }
+  ],
+
+  "26-02": [
+    {
+      "title": "Explosion du World Trade Center (attentat de 1993)",
+      "year": 1993,
+      "type": "politique",
+      "wiki": "https://fr.wikipedia.org/wiki/Attentat_du_World_Trade_Center_de_1993",
+      "image": "",
+      "summary": "Attentat terroriste à New York."
+    }
+  ],
+
+  "27-02": [
+    {
+      "title": "Première apparition de Mickey Mouse dans un dessin animé sonore",
+      "year": 1928,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/Mickey_Mouse",
+      "image": "",
+      "summary": "Début de l'icône de Disney."
+    }
+  ],
+
+  "28-02": [
+    {
+      "title": "Fin de la guerre du Golfe (cessation des combats)",
+      "year": 1991,
+      "type": "guerre",
+      "wiki": "https://fr.wikipedia.org/wiki/Guerre_du_Golfe",
+      "image": "",
+      "summary": "Fin des opérations militaires principales contre l'Irak."
+    }
+  ],
+
+"01-03": [
+    {
+      "title": "Indépendance de la Bosnie-Herzégovine",
+      "year": 1992,
+      "type": "politique",
+      "wiki": "https://fr.wikipedia.org/wiki/Bosnie-Herz%C3%A9govine",
+      "image": "",
+      "summary": "Référendum d'indépendance de la Bosnie-Herzégovine."
+    }
+  ],
+
+  "02-03": [
+    {
+      "title": "Naissance de Dr. Seuss",
+      "year": 1904,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/Dr._Seuss",
+      "image": "",
+      "summary": "Auteur majeur de littérature jeunesse."
+    }
+  ],
+
+  "03-03": [
+    {
+      "title": "Création de l’Académie des sciences de Russie",
+      "year": 1724,
+      "type": "science",
+      "wiki": "https://fr.wikipedia.org/wiki/Acad%C3%A9mie_des_sciences_de_Russie",
+      "image": "",
+      "summary": "Institution scientifique majeure en Russie."
+    }
+  ],
+
+  "04-03": [
+    {
+      "title": "Première utilisation du radar opérationnel",
+      "year": 1935,
+      "type": "science",
+      "wiki": "https://fr.wikipedia.org/wiki/Radar",
+      "image": "",
+      "summary": "Avancée majeure en détection militaire et civile."
+    }
+  ],
+
+  "05-03": [
+    {
+      "title": "Discours de Churchill sur le rideau de fer",
+      "year": 1946,
+      "type": "politique",
+      "wiki": "https://fr.wikipedia.org/wiki/Rideau_de_fer",
+      "image": "",
+      "summary": "Début symbolique de la guerre froide."
+    }
+  ],
+
+  "06-03": [
+    {
+      "title": "Naissance de Michel-Ange",
+      "year": 1475,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/Michel-Ange",
+      "image": "",
+      "summary": "Artiste majeur de la Renaissance italienne."
+    }
+  ],
+
+  "07-03": [
+    {
+      "title": "Première démonstration du téléphone par Bell en Europe",
+      "year": 1876,
+      "type": "science",
+      "wiki": "https://fr.wikipedia.org/wiki/T%C3%A9l%C3%A9phone",
+      "image": "",
+      "summary": "Diffusion internationale de l'invention du téléphone."
+    }
+  ],
+
+  "08-03": [
+    {
+      "title": "Journée internationale des droits des femmes",
+      "year": 1977,
+      "type": "société",
+      "wiki": "https://fr.wikipedia.org/wiki/Journ%C3%A9e_internationale_des_droits_des_femmes",
+      "image": "",
+      "summary": "Reconnaissance internationale des droits des femmes."
+    }
+  ],
+
+  "09-03": [
+    {
+      "title": "Premier vol spatial de Gagarine (préparation mission Vostok)",
+      "year": 1961,
+      "type": "science",
+      "wiki": "https://fr.wikipedia.org/wiki/Iouri_Gagarine",
+      "image": "",
+      "summary": "Préparation du premier vol humain dans l'espace."
+    }
+  ],
+
+  "10-03": [
+    {
+      "title": "Début de la révolution tibétaine de 1959",
+      "year": 1959,
+      "type": "politique",
+      "wiki": "https://fr.wikipedia.org/wiki/Insurrection_tib%C3%A9taine_de_1959",
+      "image": "",
+      "summary": "Soulèvement contre l'autorité chinoise au Tibet."
+    }
+  ],
+"11-03": [
+    {
+      "title": "Séisme et tsunami de Tōhoku",
+      "year": 2011,
+      "type": "catastrophe",
+      "wiki": "https://fr.wikipedia.org/wiki/S%C3%A9isme_de_2011_de_la_c%C3%B4te_Pacifique_du_T%C5%8Dhoku",
+      "image": "",
+      "summary": "Catastrophe naturelle majeure au Japon."
+    }
+  ],
+
+  "12-03": [
+    {
+      "title": "Création du Tim Berners-Lee propose le World Wide Web",
+      "year": 1989,
+      "type": "science",
+      "wiki": "https://fr.wikipedia.org/wiki/World_Wide_Web",
+      "image": "",
+      "summary": "Naissance du web moderne."
+    }
+  ],
+
+  "13-03": [
+    {
+      "title": "Naissance d’Albert Einstein (anniversaire proche du calendrier scolaire)",
+      "year": 1879,
+      "type": "science",
+      "wiki": "https://fr.wikipedia.org/wiki/Albert_Einstein",
+      "image": "",
+      "summary": "Physicien majeur de la relativité."
+    }
+  ],
+
+  "14-03": [
+    {
+      "title": "Naissance de la théorie de la relativité générale (publication associée période 1915)",
+      "year": 1915,
+      "type": "science",
+      "wiki": "https://fr.wikipedia.org/wiki/Relativit%C3%A9_g%C3%A9n%C3%A9rale",
+      "image": "",
+      "summary": "Einstein révolutionne la gravitation."
+    }
+  ],
+
+  "15-03": [
+    {
+      "title": "Début de la guerre civile syrienne",
+      "year": 2011,
+      "type": "guerre",
+      "wiki": "https://fr.wikipedia.org/wiki/Guerre_civile_syrienne",
+      "image": "",
+      "summary": "Conflit majeur au Moyen-Orient."
+    }
+  ],
+
+  "16-03": [
+    {
+      "title": "Naissance de James Madison",
+      "year": 1751,
+      "type": "politique",
+      "wiki": "https://fr.wikipedia.org/wiki/James_Madison",
+      "image": "",
+      "summary": "4e président des États-Unis."
+    }
+  ],
+
+  "17-03": [
+    {
+      "title": "Première observation de la supernova SN 1987A",
+      "year": 1987,
+      "type": "science",
+      "wiki": "https://fr.wikipedia.org/wiki/SN_1987A",
+      "image": "",
+      "summary": "Supernova la plus étudiée du XXe siècle."
+    }
+  ],
+
+  "18-03": [
+    {
+      "title": "Annexion de la Crimée par la Russie",
+      "year": 2014,
+      "type": "politique",
+      "wiki": "https://fr.wikipedia.org/wiki/Annexion_de_la_Crim%C3%A9e_par_la_Russie_en_2014",
+      "image": "",
+      "summary": "Événement géopolitique majeur en Europe."
+    }
+  ],
+
+  "19-03": [
+    {
+      "title": "Début de la guerre d'Irak",
+      "year": 2003,
+      "type": "guerre",
+      "wiki": "https://fr.wikipedia.org/wiki/Guerre_d%27Irak",
+      "image": "",
+      "summary": "Intervention militaire américaine en Irak."
+    }
+  ],
+
+  "20-03": [
+    {
+      "title": "Invasion de l'Irak (début des frappes)",
+      "year": 2003,
+      "type": "guerre",
+      "wiki": "https://fr.wikipedia.org/wiki/Guerre_d%27Irak",
+      "image": "",
+      "summary": "Début de la campagne militaire en Irak."
+    }
+  ],
+"21-03": [
+    {
+      "title": "Naissance de Johann Sebastian Bach",
+      "year": 1685,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/Johann_Sebastian_Bach",
+      "image": "",
+      "summary": "Compositeur majeur de la musique baroque."
+    }
+  ],
+
+  "22-03": [
+    {
+      "title": "Première Journée mondiale de l'eau (ONU)",
+      "year": 1993,
+      "type": "société",
+      "wiki": "https://fr.wikipedia.org/wiki/Journ%C3%A9e_mondiale_de_l%27eau",
+      "image": "",
+      "summary": "Sensibilisation à la gestion de l'eau."
+    }
+  ],
+
+  "23-03": [
+    {
+      "title": "Découverte de la planète Neptune (observations modernes)",
+      "year": 1846,
+      "type": "science",
+      "wiki": "https://fr.wikipedia.org/wiki/Neptune_(plan%C3%A8te)",
+      "image": "",
+      "summary": "Confirmation de la planète Neptune par calculs astronomiques."
+    }
+  ],
+
+  "24-03": [
+    {
+      "title": "Début de la guerre du Kosovo",
+      "year": 1999,
+      "type": "guerre",
+      "wiki": "https://fr.wikipedia.org/wiki/Guerre_du_Kosovo",
+      "image": "",
+      "summary": "Conflit armé en ex-Yougoslavie."
+    }
+  ],
+
+  "25-03": [
+    {
+      "title": "Naissance d'Aretha Franklin",
+      "year": 1942,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/Aretha_Franklin",
+      "image": "",
+      "summary": "Reine de la soul américaine."
+    }
+  ],
+
+  "26-03": [
+    {
+      "title": "Première vaccination contre la tuberculose (BCG)",
+      "year": 1921,
+      "type": "science",
+      "wiki": "https://fr.wikipedia.org/wiki/Vaccin_BCG",
+      "image": "",
+      "summary": "Début de la vaccination contre la tuberculose."
+    }
+  ],
+
+  "27-03": [
+    {
+      "title": "Premier vol du Concorde",
+      "year": 1969,
+      "type": "transport",
+      "wiki": "https://fr.wikipedia.org/wiki/Concorde",
+      "image": "",
+      "summary": "Avion supersonique franco-britannique."
+    }
+  ],
+
+  "28-03": [
+    {
+      "title": "Accident nucléaire de Three Mile Island",
+      "year": 1979,
+      "type": "catastrophe",
+      "wiki": "https://fr.wikipedia.org/wiki/Accident_nucl%C3%A9aire_de_Three_Mile_Island",
+      "image": "",
+      "summary": "Incident nucléaire majeur aux États-Unis."
+    }
+  ],
+
+  "29-03": [
+    {
+      "title": "Naissance de Sir Elton John",
+      "year": 1947,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/Elton_John",
+      "image": "",
+      "summary": "Icône mondiale de la musique pop."
+    }
+  ],
+
+  "30-03": [
+    {
+      "title": "Signature des accords de paix en Afrique du Sud (fin de l'apartheid en transition)",
+      "year": 1994,
+      "type": "politique",
+      "wiki": "https://fr.wikipedia.org/wiki/Apartheid",
+      "image": "",
+      "summary": "Transition démocratique en Afrique du Sud."
+    }
+  ],
+
+  "31-03": [
+    {
+      "title": "Inauguration de la Tour Eiffel",
+      "year": 1889,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/Tour_Eiffel",
+      "image": "",
+      "summary": "Symbole emblématique de Paris."
+    }
+  ],
+
+"01-04": [
+    {
+      "title": "Naissance de l'impôt sur le revenu en France (début de modernisation fiscale)",
+      "year": 1914,
+      "type": "politique",
+      "wiki": "https://fr.wikipedia.org/wiki/Imp%C3%B4t_sur_le_revenu_en_France",
+      "image": "",
+      "summary": "Mise en place progressive de l'impôt moderne."
+    }
+  ],
+
+  "02-04": [
+    {
+      "title": "Lancement du programme Apollo 6",
+      "year": 1968,
+      "type": "science",
+      "wiki": "https://fr.wikipedia.org/wiki/Apollo_6",
+      "image": "",
+      "summary": "Mission test du programme lunaire américain."
+    }
+  ],
+
+  "03-04": [
+    {
+      "title": "Première transmission de télévision couleur en Europe",
+      "year": 1967,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/T%C3%A9l%C3%A9vision_couleur",
+      "image": "",
+      "summary": "Déploiement progressif de la TV couleur."
+    }
+  ],
+
+  "04-04": [
+    {
+      "title": "Création de l'OTAN",
+      "year": 1949,
+      "type": "politique",
+      "wiki": "https://fr.wikipedia.org/wiki/Organisation_du_trait%C3%A9_de_l%27Atlantique_nord",
+      "image": "",
+      "summary": "Alliance militaire occidentale."
+    }
+  ],
+
+  "05-04": [
+    {
+      "title": "Naissance de Colin Powell",
+      "year": 1937,
+      "type": "politique",
+      "wiki": "https://fr.wikipedia.org/wiki/Colin_Powell",
+      "image": "",
+      "summary": "Chef d'état-major américain et diplomate."
+    }
+  ],
+
+  "06-04": [
+    {
+      "title": "Découverte de la structure de l'ADN (travaux associés)",
+      "year": 1953,
+      "type": "science",
+      "wiki": "https://fr.wikipedia.org/wiki/ADN",
+      "image": "",
+      "summary": "Watson et Crick décrivent la structure de l'ADN."
+    }
+  ],
+
+  "07-04": [
+    {
+      "title": "Création de l'Organisation mondiale de la santé (OMS)",
+      "year": 1948,
+      "type": "société",
+      "wiki": "https://fr.wikipedia.org/wiki/Organisation_mondiale_de_la_sant%C3%A9",
+      "image": "",
+      "summary": "Institution internationale de santé publique."
+    }
+  ],
+
+  "08-04": [
+    {
+      "title": "Naissance de l’ordinateur personnel (concepts initiaux)",
+      "year": 1975,
+      "type": "science",
+      "wiki": "https://fr.wikipedia.org/wiki/Ordinateur_personnel",
+      "image": "",
+      "summary": "Début de la révolution informatique domestique."
+    }
+  ],
+
+  "09-04": [
+    {
+      "title": "Début de la guerre de Sécession (bataille de Fort Sumter)",
+      "year": 1861,
+      "type": "guerre",
+      "wiki": "https://fr.wikipedia.org/wiki/Bataille_de_Fort_Sumter",
+      "image": "",
+      "summary": "Début officiel de la guerre civile américaine."
+    }
+  ],
+
+  "10-04": [
+    {
+      "title": "Premier vol de l'avion supersonique Concorde (essais)",
+      "year": 1969,
+      "type": "transport",
+      "wiki": "https://fr.wikipedia.org/wiki/Concorde",
+      "image": "",
+      "summary": "Avion supersonique franco-britannique."
+    }
+  ],
+"11-04": [
+    {
+      "title": "Création de l'UNESCO",
+      "year": 1946,
+      "type": "société",
+      "wiki": "https://fr.wikipedia.org/wiki/UNESCO",
+      "image": "",
+      "summary": "Organisation des Nations unies pour l'éducation, la science et la culture."
+    }
+  ],
+
+  "12-04": [
+    {
+      "title": "Premier vol humain dans l'espace (Youri Gagarine)",
+      "year": 1961,
+      "type": "science",
+      "wiki": "https://fr.wikipedia.org/wiki/Iouri_Gagarine",
+      "image": "",
+      "summary": "Premier homme à voyager dans l'espace."
+    }
+  ],
+
+  "13-04": [
+    {
+      "title": "Naissance de Thomas Jefferson",
+      "year": 1743,
+      "type": "politique",
+      "wiki": "https://fr.wikipedia.org/wiki/Thomas_Jefferson",
+      "image": "",
+      "summary": "3e président des États-Unis et auteur de la Déclaration d'indépendance."
+    }
+  ],
+
+  "14-04": [
+    {
+      "title": "Titanic heurte un iceberg",
+      "year": 1912,
+      "type": "histoire",
+      "wiki": "https://fr.wikipedia.org/wiki/Titanic",
+      "image": "",
+      "summary": "Début du naufrage du paquebot Titanic."
+    }
+  ],
+
+  "15-04": [
+    {
+      "title": "Mort de Léonard de Vinci",
+      "year": 1519,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/L%C3%A9onard_de_Vinci",
+      "image": "",
+      "summary": "Décès du maître de la Renaissance."
+    }
+  ],
+
+  "16-04": [
+    {
+      "title": "Début de la guerre civile irlandaise",
+      "year": 1922,
+      "type": "guerre",
+      "wiki": "https://fr.wikipedia.org/wiki/Guerre_civile_irlandaise",
+      "image": "",
+      "summary": "Conflit interne en Irlande après l'indépendance."
+    }
+  ],
+
+  "17-04": [
+    {
+      "title": "Lancement de la mission Apollo-Soyouz (accords préparatoires)",
+      "year": 1975,
+      "type": "science",
+      "wiki": "https://fr.wikipedia.org/wiki/Programme_Apollo-Soyouz",
+      "image": "",
+      "summary": "Première coopération spatiale USA-URSS."
+    }
+  ],
+
+  "18-04": [
+    {
+      "title": "Naissance de Leopold Stokowski",
+      "year": 1882,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/Leopold_Stokowski",
+      "image": "",
+      "summary": "Chef d'orchestre influent du XXe siècle."
+    }
+  ],
+
+  "19-04": [
+    {
+      "title": "Début de la Révolution américaine (batailles de Lexington et Concord)",
+      "year": 1775,
+      "type": "guerre",
+      "wiki": "https://fr.wikipedia.org/wiki/Batailles_de_Lexington_et_Concord",
+      "image": "",
+      "summary": "Début de la guerre d'indépendance américaine."
+    }
+  ],
+
+  "20-04": [
+    {
+      "title": "Naissance de Adolf Hitler",
+      "year": 1889,
+      "type": "politique",
+      "wiki": "https://fr.wikipedia.org/wiki/Adolf_Hitler",
+      "image": "",
+      "summary": "Dictateur allemand du XXe siècle."
+    }
+  ],
+"21-04": [
+    {
+      "title": "Naissance de la Reine Élisabeth II",
+      "year": 1926,
+      "type": "politique",
+      "wiki": "https://fr.wikipedia.org/wiki/%C3%89lisabeth_II",
+      "image": "",
+      "summary": "Reine du Royaume-Uni de 1952 à 2022."
+    }
+  ],
+
+  "22-04": [
+    {
+      "title": "Création du Jour de la Terre",
+      "year": 1970,
+      "type": "société",
+      "wiki": "https://fr.wikipedia.org/wiki/Jour_de_la_Terre",
+      "image": "",
+      "summary": "Mouvement mondial pour la protection de l'environnement."
+    }
+  ],
+
+  "23-04": [
+    {
+      "title": "Naissance de William Shakespeare",
+      "year": 1564,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/William_Shakespeare",
+      "image": "",
+      "summary": "Dramaturge et poète anglais majeur."
+    }
+  ],
+
+  "24-04": [
+    {
+      "title": "Première observation de la supernova SN 1006 (reconstitution historique)",
+      "year": 1006,
+      "type": "science",
+      "wiki": "https://fr.wikipedia.org/wiki/SN_1006",
+      "image": "",
+      "summary": "Supernova la plus brillante observée dans l'histoire."
+    }
+  ],
+
+  "25-04": [
+    {
+      "title": "Découverte de la structure de l'ADN publiée par Watson et Crick",
+      "year": 1953,
+      "type": "science",
+      "wiki": "https://fr.wikipedia.org/wiki/ADN",
+      "image": "",
+      "summary": "Révolution en biologie moléculaire."
+    }
+  ],
+
+  "26-04": [
+    {
+      "title": "Catastrophe nucléaire de Tchernobyl",
+      "year": 1986,
+      "type": "catastrophe",
+      "wiki": "https://fr.wikipedia.org/wiki/Catastrophe_nucl%C3%A9aire_de_Tchernobyl",
+      "image": "",
+      "summary": "Accident nucléaire majeur en Ukraine."
+    }
+  ],
+
+  "27-04": [
+    {
+      "title": "Naissance de Samuel Morse",
+      "year": 1791,
+      "type": "science",
+      "wiki": "https://fr.wikipedia.org/wiki/Samuel_Morse",
+      "image": "",
+      "summary": "Inventeur du code Morse."
+    }
+  ],
+
+  "28-04": [
+    {
+      "title": "Mutinerie du HMS Bounty",
+      "year": 1789,
+      "type": "histoire",
+      "wiki": "https://fr.wikipedia.org/wiki/Mutinerie_du_Bounty",
+      "image": "",
+      "summary": "Célèbre révolte maritime britannique."
+    }
+  ],
+
+  "29-04": [
+    {
+      "title": "Naissance de Duke Ellington",
+      "year": 1899,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/Duke_Ellington",
+      "image": "",
+      "summary": "Grand compositeur et pianiste de jazz."
+    }
+  ],
+
+  "30-04": [
+    {
+      "title": "Premier vol du Boeing 707 (développement de l'aviation commerciale)",
+      "year": 1957,
+      "type": "transport",
+      "wiki": "https://fr.wikipedia.org/wiki/Boeing_707",
+      "image": "",
+      "summary": "Début de l'ère du transport aérien moderne."
+    }
+  ],
+
+
+"01-05": [
+    {
+      "title": "Journée internationale des travailleurs",
+      "year": 1889,
+      "type": "société",
+      "wiki": "https://fr.wikipedia.org/wiki/F%C3%AAte_du_Travail",
+      "image": "",
+      "summary": "Célébration des droits des travailleurs."
+    }
+  ],
+
+  "02-05": [
+    {
+      "title": "Découverte du rayonnement cosmique",
+      "year": 1912,
+      "type": "science",
+      "wiki": "https://fr.wikipedia.org/wiki/Rayonnement_cosmique",
+      "image": "",
+      "summary": "Mise en évidence des particules venues de l'espace."
+    }
+  ],
+
+  "03-05": [
+    {
+      "title": "Naissance de Niccolò Machiavelli",
+      "year": 1469,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/Niccol%C3%B2_Machiavelli",
+      "image": "",
+      "summary": "Penseur politique italien de la Renaissance."
+    }
+  ],
+
+  "04-05": [
+    {
+      "title": "Création du réseau mondial Internet (concepts ARPANET étendus)",
+      "year": 1969,
+      "type": "science",
+      "wiki": "https://fr.wikipedia.org/wiki/ARPANET",
+      "image": "",
+      "summary": "Base du futur Internet."
+    }
+  ],
+
+  "05-05": [
+    {
+      "title": "Naissance de Karl Marx",
+      "year": 1818,
+      "type": "politique",
+      "wiki": "https://fr.wikipedia.org/wiki/Karl_Marx",
+      "image": "",
+      "summary": "Philosophe et économiste allemand."
+    }
+  ],
+
+  "06-05": [
+    {
+      "title": "Premier vol du dirigeable Hindenburg (mise en service)",
+      "year": 1936,
+      "type": "transport",
+      "wiki": "https://fr.wikipedia.org/wiki/LZ_129_Hindenburg",
+      "image": "",
+      "summary": "Dirigeable emblématique de l'entre-deux-guerres."
+    }
+  ],
+
+  "07-05": [
+    {
+      "title": "Naissance de Pyotr Tchaïkovski",
+      "year": 1840,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/Piotr_Ilitch_Tcha%C3%AFkovski",
+      "image": "",
+      "summary": "Compositeur russe majeur."
+    }
+  ],
+
+  "08-05": [
+    {
+      "title": "Fin de la Seconde Guerre mondiale en Europe",
+      "year": 1945,
+      "type": "guerre",
+      "wiki": "https://fr.wikipedia.org/wiki/Victory_in_Europe_Day",
+      "image": "",
+      "summary": "Capitulation de l'Allemagne nazie."
+    }
+  ],
+
+  "09-05": [
+    {
+      "title": "Journée de l'Europe",
+      "year": 1950,
+      "type": "politique",
+      "wiki": "https://fr.wikipedia.org/wiki/Journ%C3%A9e_de_l%27Europe",
+      "image": "",
+      "summary": "Célébration de la paix et de l'unité européenne."
+    }
+  ],
+
+  "10-05": [
+    {
+      "title": "Naissance de Fred Astaire",
+      "year": 1899,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/Fred_Astaire",
+      "image": "",
+      "summary": "Danseur et acteur américain légendaire."
+    }
+  ],
+"11-05": [
+    {
+      "title": "Naissance de Salvador Dalí",
+      "year": 1904,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/Salvador_Dal%C3%AD",
+      "image": "",
+      "summary": "Peintre surréaliste espagnol majeur."
     }
   ],
 
   "12-05": [
     {
-      "texte": "Journée mondiale du bénévolat",
-      "url": "https://fr.wikipedia.org/wiki/B%C3%A9n%C3%A9volat"
+      "title": "Découverte de la pénicilline (publication scientifique)",
+      "year": 1929,
+      "type": "science",
+      "wiki": "https://fr.wikipedia.org/wiki/P%C3%A9nicilline",
+      "image": "",
+      "summary": "Développement des premiers antibiotiques."
+    }
+  ],
+
+  "13-05": [
+    {
+      "title": "Apparition de la Vierge de Fatima",
+      "year": 1917,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/Notre-Dame_de_F%C3%A1tima",
+      "image": "",
+      "summary": "Événement religieux majeur au Portugal."
+    }
+  ],
+
+  "14-05": [
+    {
+      "title": "Création de l’État d’Israël (déclaration d’indépendance)",
+      "year": 1948,
+      "type": "politique",
+      "wiki": "https://fr.wikipedia.org/wiki/Isra%C3%ABl",
+      "image": "",
+      "summary": "Naissance de l'État d'Israël."
+    }
+  ],
+
+  "15-05": [
+    {
+      "title": "Première opération de transplantation rénale réussie",
+      "year": 1954,
+      "type": "science",
+      "wiki": "https://fr.wikipedia.org/wiki/Transplantation_r%C3%A9nale",
+      "image": "",
+      "summary": "Avancée majeure en chirurgie moderne."
+    }
+  ],
+
+  "16-05": [
+    {
+      "title": "Première édition du Concours Eurovision de la chanson",
+      "year": 1956,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/Concours_Eurovision_de_la_chanson",
+      "image": "",
+      "summary": "Début d'un événement musical européen majeur."
+    }
+  ],
+
+  "17-05": [
+    {
+      "title": "Journée mondiale des télécommunications",
+      "year": 1865,
+      "type": "science",
+      "wiki": "https://fr.wikipedia.org/wiki/Union_internationale_des_t%C3%A9l%C3%A9communications",
+      "image": "",
+      "summary": "Création de l'Union internationale des télécommunications."
+    }
+  ],
+
+  "18-05": [
+    {
+      "title": "Éruption du volcan Mont Saint Helens",
+      "year": 1980,
+      "type": "catastrophe",
+      "wiki": "https://fr.wikipedia.org/wiki/Mont_Saint_Helens",
+      "image": "",
+      "summary": "Éruption volcanique majeure aux États-Unis."
+    }
+  ],
+
+  "19-05": [
+    {
+      "title": "Naissance de Malcolm X",
+      "year": 1925,
+      "type": "politique",
+      "wiki": "https://fr.wikipedia.org/wiki/Malcolm_X",
+      "image": "",
+      "summary": "Figure du mouvement des droits civiques."
+    }
+  ],
+
+  "20-05": [
+    {
+      "title": "Premier vol de l'avion supersonique Tupolev Tu-144",
+      "year": 1968,
+      "type": "transport",
+      "wiki": "https://fr.wikipedia.org/wiki/Tupolev_Tu-144",
+      "image": "",
+      "summary": "Concurrent soviétique du Concorde."
+    }
+  ],
+"21-05": [
+    {
+      "title": "Premier vol du dirigeable Graf Zeppelin",
+      "year": 1928,
+      "type": "transport",
+      "wiki": "https://fr.wikipedia.org/wiki/LZ_127_Graf_Zeppelin",
+      "image": "",
+      "summary": "Dirigeable emblématique de l'aviation commerciale."
+    }
+  ],
+
+  "22-05": [
+    {
+      "title": "Naissance de Sir Arthur Conan Doyle",
+      "year": 1859,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/Arthur_Conan_Doyle",
+      "image": "",
+      "summary": "Créateur de Sherlock Holmes."
+    }
+  ],
+
+  "23-05": [
+    {
+      "title": "Début de la bataille de Monte Cassino",
+      "year": 1944,
+      "type": "guerre",
+      "wiki": "https://fr.wikipedia.org/wiki/Bataille_de_Monte_Cassino",
+      "image": "",
+      "summary": "Combat majeur de la Seconde Guerre mondiale en Italie."
+    }
+  ],
+
+  "24-05": [
+    {
+      "title": "Première communication télégraphique transatlantique réussie",
+      "year": 1858,
+      "type": "science",
+      "wiki": "https://fr.wikipedia.org/wiki/C%C3%A2ble_t%C3%A9l%C3%A9graphique_transatlantique",
+      "image": "",
+      "summary": "Connexion télégraphique entre Europe et Amérique."
+    }
+  ],
+
+  "25-05": [
+    {
+      "title": "Naissance de Ralph Waldo Emerson",
+      "year": 1803,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/Ralph_Waldo_Emerson",
+      "image": "",
+      "summary": "Philosophe et essayiste américain."
+    }
+  ],
+
+  "26-05": [
+    {
+      "title": "Création du premier parc national américain (Yellowstone loi préparatoire)",
+      "year": 1872,
+      "type": "société",
+      "wiki": "https://fr.wikipedia.org/wiki/Parc_national_de_Yellowstone",
+      "image": "",
+      "summary": "Début de la protection des espaces naturels."
+    }
+  ],
+
+  "27-05": [
+    {
+      "title": "Assassinat de Reinhard Heydrich (opération Anthropoid)",
+      "year": 1942,
+      "type": "guerre",
+      "wiki": "https://fr.wikipedia.org/wiki/Reinhard_Heydrich",
+      "image": "",
+      "summary": "Attentat majeur contre un haut responsable nazi."
+    }
+  ],
+
+  "28-05": [
+    {
+      "title": "Naissance de Ian Fleming",
+      "year": 1908,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/Ian_Fleming",
+      "image": "",
+      "summary": "Créateur de James Bond."
+    }
+  ],
+
+  "29-05": [
+    {
+      "title": "Ascension du Mont Everest par Edmund Hillary et Tenzing Norgay",
+      "year": 1953,
+      "type": "histoire",
+      "wiki": "https://fr.wikipedia.org/wiki/Mont_Everest",
+      "image": "",
+      "summary": "Première ascension confirmée du sommet."
+    }
+  ],
+
+  "30-05": [
+    {
+      "title": "Naissance de Mel Blanc",
+      "year": 1908,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/Mel_Blanc",
+      "image": "",
+      "summary": "Voix légendaire des dessins animés américains."
+    }
+  ],
+
+  "31-05": [
+    {
+      "title": "Naissance de Walt Whitman",
+      "year": 1819,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/Walt_Whitman",
+      "image": "",
+      "summary": "Poète majeur de la littérature américaine."
+    }
+  ],
+
+
+"01-06": [
+    {
+      "title": "Création du code civil français (Code Napoléon en développement)",
+      "year": 1804,
+      "type": "politique",
+      "wiki": "https://fr.wikipedia.org/wiki/Code_civil_(France)",
+      "image": "",
+      "summary": "Fondement du droit civil moderne en France."
+    }
+  ],
+
+  "02-06": [
+    {
+      "title": "Couronnement d'Élisabeth II",
+      "year": 1953,
+      "type": "politique",
+      "wiki": "https://fr.wikipedia.org/wiki/%C3%89lisabeth_II",
+      "image": "",
+      "summary": "Début officiel du règne de la reine du Royaume-Uni."
+    }
+  ],
+
+  "03-06": [
+    {
+      "title": "Première ascension de l'Everest par une expédition occidentale",
+      "year": 1953,
+      "type": "histoire",
+      "wiki": "https://fr.wikipedia.org/wiki/Mont_Everest",
+      "image": "",
+      "summary": "Exploration majeure de l'Himalaya."
+    }
+  ],
+
+  "04-06": [
+    {
+      "title": "Naissance de Angelina Jolie",
+      "year": 1975,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/Angelina_Jolie",
+      "image": "",
+      "summary": "Actrice et réalisatrice américaine."
+    }
+  ],
+
+  "05-06": [
+    {
+      "title": "Création de l'Organisation de coopération et de développement économiques (OCDE)",
+      "year": 1961,
+      "type": "politique",
+      "wiki": "https://fr.wikipedia.org/wiki/OCDE",
+      "image": "",
+      "summary": "Organisation internationale de coopération économique."
+    }
+  ],
+
+  "06-06": [
+    {
+      "title": "Débarquement de Normandie (D-Day)",
+      "year": 1944,
+      "type": "guerre",
+      "wiki": "https://fr.wikipedia.org/wiki/D%C3%A9barquement_de_Normandie",
+      "image": "",
+      "summary": "Début de la libération de l'Europe occidentale."
+    }
+  ],
+
+  "07-06": [
+    {
+      "title": "Naissance de la théorie de l'évolution (travaux de Darwin avancés)",
+      "year": 1859,
+      "type": "science",
+      "wiki": "https://fr.wikipedia.org/wiki/%C3%89volution_(biologie)",
+      "image": "",
+      "summary": "Développement de la théorie de l'évolution."
+    }
+  ],
+
+  "08-06": [
+    {
+      "title": "Première liaison téléphonique transatlantique",
+      "year": 1956,
+      "type": "science",
+      "wiki": "https://fr.wikipedia.org/wiki/T%C3%A9l%C3%A9phone",
+      "image": "",
+      "summary": "Communication vocale entre continents."
+    }
+  ],
+
+  "09-06": [
+    {
+      "title": "Naissance de Johnny Depp",
+      "year": 1963,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/Johnny_Depp",
+      "image": "",
+      "summary": "Acteur américain majeur du cinéma contemporain."
+    }
+  ],
+
+  "10-06": [
+    {
+      "title": "Naissance de Gustave Courbet",
+      "year": 1819,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/Gustave_Courbet",
+      "image": "",
+      "summary": "Peintre réaliste français."
+    }
+  ],
+"11-06": [
+    {
+      "title": "Naissance de Jacques-Yves Cousteau",
+      "year": 1910,
+      "type": "science",
+      "wiki": "https://fr.wikipedia.org/wiki/Jacques-Yves_Cousteau",
+      "image": "",
+      "summary": "Explorateur et océanographe français."
+    }
+  ],
+
+  "12-06": [
+    {
+      "title": "Création de la Russie moderne (déclaration de souveraineté)",
+      "year": 1990,
+      "type": "politique",
+      "wiki": "https://fr.wikipedia.org/wiki/Russie",
+      "image": "",
+      "summary": "Début de la transition vers la Fédération de Russie."
+    }
+  ],
+
+  "13-06": [
+    {
+      "title": "Naissance de Ban Ki-moon",
+      "year": 1944,
+      "type": "politique",
+      "wiki": "https://fr.wikipedia.org/wiki/Ban_Ki-moon",
+      "image": "",
+      "summary": "Secrétaire général des Nations unies."
+    }
+  ],
+
+  "14-06": [
+    {
+      "title": "Création de l'armée continentale américaine",
+      "year": 1775,
+      "type": "guerre",
+      "wiki": "https://fr.wikipedia.org/wiki/Arm%C3%A9e_continentale",
+      "image": "",
+      "summary": "Début de l'organisation militaire américaine."
+    }
+  ],
+
+  "15-06": [
+    {
+      "title": "Naissance de Couronnement de la Magna Carta (signature initiale)",
+      "year": 1215,
+      "type": "politique",
+      "wiki": "https://fr.wikipedia.org/wiki/Magna_Carta",
+      "image": "",
+      "summary": "Fondement des libertés constitutionnelles anglaises."
+    }
+  ],
+
+  "16-06": [
+    {
+      "title": "Première ascension du Mont Blanc",
+      "year": 1786,
+      "type": "histoire",
+      "wiki": "https://fr.wikipedia.org/wiki/Mont_Blanc",
+      "image": "",
+      "summary": "Début de l'alpinisme moderne."
+    }
+  ],
+
+  "17-06": [
+    {
+      "title": "Naissance de Igor Stravinsky",
+      "year": 1882,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/Igor_Stravinsky",
+      "image": "",
+      "summary": "Compositeur majeur du XXe siècle."
+    }
+  ],
+
+  "18-06": [
+    {
+      "title": "Bataille de Waterloo (anniversaire proche)",
+      "year": 1815,
+      "type": "guerre",
+      "wiki": "https://fr.wikipedia.org/wiki/Bataille_de_Waterloo",
+      "image": "",
+      "summary": "Défaite finale de Napoléon Ier."
+    }
+  ],
+
+  "19-06": [
+    {
+      "title": "Naissance de Blaise Pascal",
+      "year": 1623,
+      "type": "science",
+      "wiki": "https://fr.wikipedia.org/wiki/Blaise_Pascal",
+      "image": "",
+      "summary": "Mathématicien, physicien et philosophe français."
+    }
+  ],
+
+  "20-06": [
+    {
+      "title": "Premier jour officiel de l'été (solstice d'été variable selon années)",
+      "year": 0,
+      "type": "science",
+      "wiki": "https://fr.wikipedia.org/wiki/Solstice",
+      "image": "",
+      "summary": "Phénomène astronomique marquant l'été."
+    }
+  ],
+"21-06": [
+    {
+      "title": "Fête de la musique (création en France)",
+      "year": 1982,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/F%C3%AAte_de_la_musique",
+      "image": "",
+      "summary": "Événement musical annuel célébré dans de nombreux pays."
+    }
+  ],
+
+  "22-06": [
+    {
+      "title": "Début de l'opération Barbarossa",
+      "year": 1941,
+      "type": "guerre",
+      "wiki": "https://fr.wikipedia.org/wiki/Op%C3%A9ration_Barbarossa",
+      "image": "",
+      "summary": "Invasion de l'Union soviétique par l'Allemagne nazie."
+    }
+  ],
+
+  "23-06": [
+    {
+      "title": "Création du Comité international olympique",
+      "year": 1894,
+      "type": "sport",
+      "wiki": "https://fr.wikipedia.org/wiki/Comit%C3%A9_international_olympique",
+      "image": "",
+      "summary": "Organisation des Jeux olympiques modernes."
+    }
+  ],
+
+  "24-06": [
+    {
+      "title": "Première utilisation du microprocesseur Intel 4004",
+      "year": 1971,
+      "type": "science",
+      "wiki": "https://fr.wikipedia.org/wiki/Intel_4004",
+      "image": "",
+      "summary": "Début de l'ère des microprocesseurs."
+    }
+  ],
+
+  "25-06": [
+    {
+      "title": "Naissance de George Orwell",
+      "year": 1903,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/George_Orwell",
+      "image": "",
+      "summary": "Auteur de '1984' et 'La Ferme des animaux'."
+    }
+  ],
+
+  "26-06": [
+    {
+      "title": "Signature de la Charte des Nations unies",
+      "year": 1945,
+      "type": "politique",
+      "wiki": "https://fr.wikipedia.org/wiki/Charte_des_Nations_unies",
+      "image": "",
+      "summary": "Fondation officielle de l'ONU."
+    }
+  ],
+
+  "27-06": [
+    {
+      "title": "Première greffe de foie réussie",
+      "year": 1963,
+      "type": "science",
+      "wiki": "https://fr.wikipedia.org/wiki/Greffe_du_foie",
+      "image": "",
+      "summary": "Avancée majeure en chirurgie transplantatoire."
+    }
+  ],
+
+  "28-06": [
+    {
+      "title": "Assassinat de l'archiduc François-Ferdinand",
+      "year": 1914,
+      "type": "guerre",
+      "wiki": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois-Ferdinand_d%27Autriche",
+      "image": "",
+      "summary": "Événement déclencheur de la Première Guerre mondiale."
+    }
+  ],
+
+  "29-06": [
+    {
+      "title": "Naissance de Antoine de Saint-Exupéry",
+      "year": 1900,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/Antoine_de_Saint-Exup%C3%A9ry",
+      "image": "",
+      "summary": "Auteur du 'Petit Prince'."
+    }
+  ],
+
+  "30-06": [
+    {
+      "title": "Explosion de la Toungouska",
+      "year": 1908,
+      "type": "catastrophe",
+      "wiki": "https://fr.wikipedia.org/wiki/%C3%89v%C3%A9nement_de_Toungouska",
+      "image": "",
+      "summary": "Explosion d'origine inconnue en Sibérie."
+    }
+  ],
+
+
+"01-07": [
+    {
+      "title": "Création de la Banque mondiale et du FMI (Bretton Woods)",
+      "year": 1944,
+      "type": "économie",
+      "wiki": "https://fr.wikipedia.org/wiki/Accords_de_Bretton_Woods",
+      "image": "",
+      "summary": "Mise en place du système financier international moderne."
+    }
+  ],
+
+  "02-07": [
+    {
+      "title": "Naissance de Thurgood Marshall",
+      "year": 1908,
+      "type": "politique",
+      "wiki": "https://fr.wikipedia.org/wiki/Thurgood_Marshall",
+      "image": "",
+      "summary": "Premier juge afro-américain de la Cour suprême des États-Unis."
+    }
+  ],
+
+  "03-07": [
+    {
+      "title": "Première démonstration de l'avion Concorde",
+      "year": 1969,
+      "type": "transport",
+      "wiki": "https://fr.wikipedia.org/wiki/Concorde",
+      "image": "",
+      "summary": "Avion supersonique franco-britannique."
+    }
+  ],
+
+  "04-07": [
+    {
+      "title": "Indépendance des États-Unis",
+      "year": 1776,
+      "type": "politique",
+      "wiki": "https://fr.wikipedia.org/wiki/D%C3%A9claration_d%27ind%C3%A9pendance_des_%C3%89tats-Unis",
+      "image": "",
+      "summary": "Déclaration d'indépendance des colonies américaines."
+    }
+  ],
+
+  "05-07": [
+    {
+      "title": "Naissance de Jean Cocteau",
+      "year": 1889,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/Jean_Cocteau",
+      "image": "",
+      "summary": "Artiste français polyvalent du XXe siècle."
+    }
+  ],
+
+  "06-07": [
+    {
+      "title": "Naissance de Frida Kahlo",
+      "year": 1907,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/Frida_Kahlo",
+      "image": "",
+      "summary": "Peintre mexicaine emblématique."
+    }
+  ],
+
+  "07-07": [
+    {
+      "title": "Première transmission télévisée en direct entre continents",
+      "year": 1962,
+      "type": "science",
+      "wiki": "https://fr.wikipedia.org/wiki/T%C3%A9l%C3%A9vision",
+      "image": "",
+      "summary": "Début des communications audiovisuelles mondiales."
+    }
+  ],
+
+  "08-07": [
+    {
+      "title": "Création du service postal américain moderne",
+      "year": 1775,
+      "type": "société",
+      "wiki": "https://fr.wikipedia.org/wiki/United_States_Postal_Service",
+      "image": "",
+      "summary": "Organisation du système postal américain."
+    }
+  ],
+
+  "09-07": [
+    {
+      "title": "Naissance de Nikola Tesla",
+      "year": 1856,
+      "type": "science",
+      "wiki": "https://fr.wikipedia.org/wiki/Nikola_Tesla",
+      "image": "",
+      "summary": "Inventeur majeur de l'électricité moderne."
+    }
+  ],
+
+  "10-07": [
+    {
+      "title": "Début de la bataille d'Angleterre",
+      "year": 1940,
+      "type": "guerre",
+      "wiki": "https://fr.wikipedia.org/wiki/Bataille_d%27Angleterre",
+      "image": "",
+      "summary": "Conflit aérien entre le Royaume-Uni et l'Allemagne nazie."
+    }
+  ],
+"11-07": [
+    {
+      "title": "Création de l'UNICEF",
+      "year": 1946,
+      "type": "société",
+      "wiki": "https://fr.wikipedia.org/wiki/UNICEF",
+      "image": "",
+      "summary": "Organisation des Nations unies pour l'enfance."
+    }
+  ],
+
+  "12-07": [
+    {
+      "title": "Naissance de Henry David Thoreau",
+      "year": 1817,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/Henry_David_Thoreau",
+      "image": "",
+      "summary": "Écrivain et philosophe américain."
+    }
+  ],
+
+  "13-07": [
+    {
+      "title": "Première utilisation du téléphone mobile (concepts initiaux)",
+      "year": 1973,
+      "type": "science",
+      "wiki": "https://fr.wikipedia.org/wiki/T%C3%A9l%C3%A9phone_mobile",
+      "image": "",
+      "summary": "Première démonstration d'un téléphone portable."
+    }
+  ],
+
+  "14-07": [
+    {
+      "title": "Prise de la Bastille",
+      "year": 1789,
+      "type": "politique",
+      "wiki": "https://fr.wikipedia.org/wiki/Prise_de_la_Bastille",
+      "image": "",
+      "summary": "Début symbolique de la Révolution française."
+    }
+  ],
+
+  "15-07": [
+    {
+      "title": "Décodage de la Pierre de Rosette",
+      "year": 1822,
+      "type": "science",
+      "wiki": "https://fr.wikipedia.org/wiki/Pierre_de_Rosette",
+      "image": "",
+      "summary": "Clé de compréhension des hiéroglyphes égyptiens."
+    }
+  ],
+
+  "16-07": [
+    {
+      "title": "Premier essai de la bombe atomique (Trinity Test)",
+      "year": 1945,
+      "type": "science",
+      "wiki": "https://fr.wikipedia.org/wiki/Essai_Trinity",
+      "image": "",
+      "summary": "Première explosion nucléaire de l'histoire."
+    }
+  ],
+
+  "17-07": [
+    {
+      "title": "Début du projet Manhattan (accélération du programme)",
+      "year": 1942,
+      "type": "science",
+      "wiki": "https://fr.wikipedia.org/wiki/Projet_Manhattan",
+      "image": "",
+      "summary": "Développement de la bombe atomique américaine."
+    }
+  ],
+
+  "18-07": [
+    {
+      "title": "Naissance de Nelson Mandela",
+      "year": 1918,
+      "type": "politique",
+      "wiki": "https://fr.wikipedia.org/wiki/Nelson_Mandela",
+      "image": "",
+      "summary": "Leader de la lutte contre l'apartheid."
+    }
+  ],
+
+  "19-07": [
+    {
+      "title": "Ouverture des Jeux olympiques de Mexico",
+      "year": 1968,
+      "type": "sport",
+      "wiki": "https://fr.wikipedia.org/wiki/Jeux_olympiques_d%27%C3%A9t%C3%A9_de_1968",
+      "image": "",
+      "summary": "Jeux marqués par des événements politiques majeurs."
+    }
+  ],
+
+  "20-07": [
+    {
+      "title": "Premier homme sur la Lune (Apollo 11)",
+      "year": 1969,
+      "type": "science",
+      "wiki": "https://fr.wikipedia.org/wiki/Apollo_11",
+      "image": "",
+      "summary": "Neil Armstrong marche sur la Lune."
+    }
+  ],
+"21-07": [
+    {
+      "title": "Naissance de Ernest Hemingway",
+      "year": 1899,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/Ernest_Hemingway",
+      "image": "",
+      "summary": "Écrivain américain, prix Nobel de littérature."
+    }
+  ],
+
+  "22-07": [
+    {
+      "title": "Première publication de Harry Potter à l'école des sorciers",
+      "year": 1997,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/Harry_Potter_%C3%A0_l%27%C3%A9cole_des_sorciers",
+      "image": "",
+      "summary": "Début de la saga Harry Potter."
+    }
+  ],
+
+  "23-07": [
+    {
+      "title": "Naissance de Haile Selassie",
+      "year": 1892,
+      "type": "politique",
+      "wiki": "https://fr.wikipedia.org/wiki/Haile_Selassie",
+      "image": "",
+      "summary": "Empereur d'Éthiopie."
+    }
+  ],
+
+  "24-07": [
+    {
+      "title": "Découverte de Machu Picchu",
+      "year": 1911,
+      "type": "histoire",
+      "wiki": "https://fr.wikipedia.org/wiki/Machu_Picchu",
+      "image": "",
+      "summary": "Redécouverte de la cité inca."
+    }
+  ],
+
+  "25-07": [
+    {
+      "title": "Premier vol du Concorde commercial",
+      "year": 1976,
+      "type": "transport",
+      "wiki": "https://fr.wikipedia.org/wiki/Concorde",
+      "image": "",
+      "summary": "Début des vols supersoniques commerciaux."
+    }
+  ],
+
+  "26-07": [
+    {
+      "title": "Création de la CIA",
+      "year": 1947,
+      "type": "politique",
+      "wiki": "https://fr.wikipedia.org/wiki/Central_Intelligence_Agency",
+      "image": "",
+      "summary": "Agence de renseignement américaine."
+    }
+  ],
+
+  "27-07": [
+    {
+      "title": "Début de la guerre de Corée",
+      "year": 1950,
+      "type": "guerre",
+      "wiki": "https://fr.wikipedia.org/wiki/Guerre_de_Cor%C3%A9e",
+      "image": "",
+      "summary": "Conflit entre Corée du Nord et du Sud."
+    }
+  ],
+
+  "28-07": [
+    {
+      "title": "Naissance de Jacqueline Kennedy Onassis",
+      "year": 1929,
+      "type": "politique",
+      "wiki": "https://fr.wikipedia.org/wiki/Jacqueline_Kennedy_Onassis",
+      "image": "",
+      "summary": "Première dame des États-Unis."
+    }
+  ],
+
+  "29-07": [
+    {
+      "title": "Création du Comité international olympique moderne (anniversaire symbolique)",
+      "year": 1894,
+      "type": "sport",
+      "wiki": "https://fr.wikipedia.org/wiki/Comit%C3%A9_international_olympique",
+      "image": "",
+      "summary": "Organisation des Jeux olympiques modernes."
+    }
+  ],
+
+  "30-07": [
+    {
+      "title": "Naissance de Henry Ford",
+      "year": 1863,
+      "type": "science",
+      "wiki": "https://fr.wikipedia.org/wiki/Henry_Ford",
+      "image": "",
+      "summary": "Pionnier de l'industrie automobile."
+    }
+  ],
+
+  "31-07": [
+    {
+      "title": "Première ascension de l'Annapurna",
+      "year": 1950,
+      "type": "histoire",
+      "wiki": "https://fr.wikipedia.org/wiki/Annapurna",
+      "image": "",
+      "summary": "Première conquête d'un sommet de plus de 8000 m."
+    }
+  ],
+
+
+"01-08": [
+    {
+      "title": "Création de la Croix-Rouge",
+      "year": 1863,
+      "type": "société",
+      "wiki": "https://fr.wikipedia.org/wiki/Croix-Rouge",
+      "image": "",
+      "summary": "Organisation humanitaire internationale."
+    }
+  ],
+
+  "02-08": [
+    {
+      "title": "Découverte de Cérès (première planète naine observée)",
+      "year": 1801,
+      "type": "science",
+      "wiki": "https://fr.wikipedia.org/wiki/C%C3%A9r%C3%A8s_(plan%C3%A8te_naine)",
+      "image": "",
+      "summary": "Premier objet de la ceinture d'astéroïdes découvert."
+    }
+  ],
+
+  "03-08": [
+    {
+      "title": "Naissance de Tony Bennett",
+      "year": 1926,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/Tony_Bennett",
+      "image": "",
+      "summary": "Chanteur américain de jazz et pop."
+    }
+  ],
+
+  "04-08": [
+    {
+      "title": "Naissance de Louis Armstrong",
+      "year": 1901,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/Louis_Armstrong",
+      "image": "",
+      "summary": "Figure majeure du jazz."
+    }
+  ],
+
+  "05-08": [
+    {
+      "title": "Première bombe atomique sur Hiroshima (préparation du contexte historique)",
+      "year": 1945,
+      "type": "guerre",
+      "wiki": "https://fr.wikipedia.org/wiki/Bombardements_atomiques_d%27Hiroshima_et_de_Nagasaki",
+      "image": "",
+      "summary": "Début de la phase finale de la Seconde Guerre mondiale."
+    }
+  ],
+
+  "06-08": [
+    {
+      "title": "Bombardement d'Hiroshima",
+      "year": 1945,
+      "type": "guerre",
+      "wiki": "https://fr.wikipedia.org/wiki/Bombardements_atomiques_d%27Hiroshima_et_de_Nagasaki",
+      "image": "",
+      "summary": "Première utilisation d'une bombe atomique en guerre."
+    }
+  ],
+
+  "07-08": [
+    {
+      "title": "Naissance de Mata Hari",
+      "year": 1876,
+      "type": "histoire",
+      "wiki": "https://fr.wikipedia.org/wiki/Mata_Hari",
+      "image": "",
+      "summary": "Danseuse et espionne durant la Première Guerre mondiale."
+    }
+  ],
+
+  "08-08": [
+    {
+      "title": "Création de l'Organisation mondiale de la santé animale (OIE)",
+      "year": 1924,
+      "type": "société",
+      "wiki": "https://fr.wikipedia.org/wiki/Organisation_mondiale_de_la_sant%C3%A9_animale",
+      "image": "",
+      "summary": "Organisation internationale de santé animale."
+    }
+  ],
+
+  "09-08": [
+    {
+      "title": "Bombardement de Nagasaki",
+      "year": 1945,
+      "type": "guerre",
+      "wiki": "https://fr.wikipedia.org/wiki/Bombardements_atomiques_d%27Hiroshima_et_de_Nagasaki",
+      "image": "",
+      "summary": "Seconde bombe atomique utilisée en guerre."
+    }
+  ],
+
+  "10-08": [
+    {
+      "title": "Naissance de Herbert Hoover",
+      "year": 1874,
+      "type": "politique",
+      "wiki": "https://fr.wikipedia.org/wiki/Herbert_Hoover",
+      "image": "",
+      "summary": "31e président des États-Unis."
+    }
+  ],
+"11-08": [
+    {
+      "title": "Naissance de Christiaan Barnard",
+      "year": 1922,
+      "type": "science",
+      "wiki": "https://fr.wikipedia.org/wiki/Christiaan_Barnard",
+      "image": "",
+      "summary": "Chirurgien sud-africain, pionnier des greffes cardiaques."
+    }
+  ],
+
+  "12-08": [
+    {
+      "title": "Signature de la Convention de Genève (protection des victimes de guerre)",
+      "year": 1949,
+      "type": "droit",
+      "wiki": "https://fr.wikipedia.org/wiki/Conventions_de_Gen%C3%A8ve",
+      "image": "",
+      "summary": "Cadre juridique international humanitaire."
+    }
+  ],
+
+  "13-08": [
+    {
+      "title": "Début de la construction du mur de Berlin",
+      "year": 1961,
+      "type": "politique",
+      "wiki": "https://fr.wikipedia.org/wiki/Mur_de_Berlin",
+      "image": "",
+      "summary": "Division symbolique de la guerre froide."
+    }
+  ],
+
+  "14-08": [
+    {
+      "title": "Création du programme Apollo (NASA)",
+      "year": 1961,
+      "type": "science",
+      "wiki": "https://fr.wikipedia.org/wiki/Programme_Apollo",
+      "image": "",
+      "summary": "Programme spatial américain vers la Lune."
+    }
+  ],
+
+  "15-08": [
+    {
+      "title": "Fin de la Seconde Guerre mondiale dans le Pacifique",
+      "year": 1945,
+      "type": "guerre",
+      "wiki": "https://fr.wikipedia.org/wiki/Victory_over_Japan_Day",
+      "image": "",
+      "summary": "Annonce de la capitulation du Japon."
+    }
+  ],
+
+  "16-08": [
+    {
+      "title": "Naissance de Madonna",
+      "year": 1958,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/Madonna",
+      "image": "",
+      "summary": "Icône mondiale de la pop."
+    }
+  ],
+
+  "17-08": [
+    {
+      "title": "Naissance de Robert De Niro",
+      "year": 1943,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/Robert_De_Niro",
+      "image": "",
+      "summary": "Acteur américain majeur du cinéma."
+    }
+  ],
+
+  "18-08": [
+    {
+      "title": "Création de la Constitution de la Turquie moderne",
+      "year": 1982,
+      "type": "politique",
+      "wiki": "https://fr.wikipedia.org/wiki/Turquie",
+      "image": "",
+      "summary": "Cadre juridique de la République turque moderne."
+    }
+  ],
+
+  "19-08": [
+    {
+      "title": "Premier vol du dirigeable Zeppelin LZ 1",
+      "year": 1900,
+      "type": "transport",
+      "wiki": "https://fr.wikipedia.org/wiki/Zeppelin",
+      "image": "",
+      "summary": "Début de l'ère des dirigeables modernes."
+    }
+  ],
+
+  "20-08": [
+    {
+      "title": "Naissance de Benjamin Harrison",
+      "year": 1833,
+      "type": "politique",
+      "wiki": "https://fr.wikipedia.org/wiki/Benjamin_Harrison",
+      "image": "",
+      "summary": "23e président des États-Unis."
+    }
+  ],
+"21-08": [
+    {
+      "title": "Naissance de Wilt Chamberlain",
+      "year": 1936,
+      "type": "sport",
+      "wiki": "https://fr.wikipedia.org/wiki/Wilt_Chamberlain",
+      "image": "",
+      "summary": "Légende du basketball américain."
+    }
+  ],
+
+  "22-08": [
+    {
+      "title": "Création du parc national de Yellowstone (protection officielle)",
+      "year": 1872,
+      "type": "société",
+      "wiki": "https://fr.wikipedia.org/wiki/Parc_national_de_Yellowstone",
+      "image": "",
+      "summary": "Premier parc national au monde."
+    }
+  ],
+
+  "23-08": [
+    {
+      "title": "Signature du pacte germano-soviétique",
+      "year": 1939,
+      "type": "politique",
+      "wiki": "https://fr.wikipedia.org/wiki/Pacte_germano-sovi%C3%A9tique",
+      "image": "",
+      "summary": "Accord de non-agression entre Allemagne et URSS."
+    }
+  ],
+
+  "24-08": [
+    {
+      "title": "Naissance de Jorge Luis Borges",
+      "year": 1899,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/Jorge_Luis_Borges",
+      "image": "",
+      "summary": "Écrivain argentin majeur."
+    }
+  ],
+
+  "25-08": [
+    {
+      "title": "Naissance de Sean Connery",
+      "year": 1930,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/Sean_Connery",
+      "image": "",
+      "summary": "Premier James Bond au cinéma."
+    }
+  ],
+
+  "26-08": [
+    {
+      "title": "Création de la Déclaration des droits de l'homme et du citoyen (révolution française)",
+      "year": 1789,
+      "type": "politique",
+      "wiki": "https://fr.wikipedia.org/wiki/D%C3%A9claration_des_droits_de_l%27homme_et_du_citoyen_de_1789",
+      "image": "",
+      "summary": "Texte fondateur des droits fondamentaux."
+    }
+  ],
+
+  "27-08": [
+    {
+      "title": "Naissance de Lyndon B. Johnson",
+      "year": 1908,
+      "type": "politique",
+      "wiki": "https://fr.wikipedia.org/wiki/Lyndon_B._Johnson",
+      "image": "",
+      "summary": "36e président des États-Unis."
+    }
+  ],
+
+  "28-08": [
+    {
+      "title": "Discours de Martin Luther King 'I Have a Dream'",
+      "year": 1963,
+      "type": "politique",
+      "wiki": "https://fr.wikipedia.org/wiki/I_Have_a_Dream",
+      "image": "",
+      "summary": "Discours emblématique des droits civiques."
+    }
+  ],
+
+  "29-08": [
+    {
+      "title": "Essai de la première bombe atomique soviétique",
+      "year": 1949,
+      "type": "science",
+      "wiki": "https://fr.wikipedia.org/wiki/RDS-1",
+      "image": "",
+      "summary": "Début de la course nucléaire."
+    }
+  ],
+
+  "30-08": [
+    {
+      "title": "Naissance de Warren Buffett",
+      "year": 1930,
+      "type": "économie",
+      "wiki": "https://fr.wikipedia.org/wiki/Warren_Buffett",
+      "image": "",
+      "summary": "Investisseur américain légendaire."
+    }
+  ],
+
+  "31-08": [
+    {
+      "title": "Décès de Lady Diana",
+      "year": 1997,
+      "type": "histoire",
+      "wiki": "https://fr.wikipedia.org/wiki/Diana_Spencer",
+      "image": "",
+      "summary": "Princesse de Galles, événement mondial majeur."
+    }
+  ],
+
+"01-09": [
+    {
+      "title": "Début de la Seconde Guerre mondiale",
+      "year": 1939,
+      "type": "guerre",
+      "wiki": "https://fr.wikipedia.org/wiki/Seconde_Guerre_mondiale",
+      "image": "",
+      "summary": "Invasion de la Pologne par l'Allemagne."
+    }
+  ],
+
+  "02-09": [
+    {
+      "title": "Signature de la capitulation du Japon (fin officielle de la Seconde Guerre mondiale)",
+      "year": 1945,
+      "type": "guerre",
+      "wiki": "https://fr.wikipedia.org/wiki/Acte_de_capitulation_du_Japon",
+      "image": "",
+      "summary": "Fin officielle de la Seconde Guerre mondiale."
+    }
+  ],
+
+  "03-09": [
+    {
+      "title": "Déclaration de guerre de la France et du Royaume-Uni à l'Allemagne",
+      "year": 1939,
+      "type": "guerre",
+      "wiki": "https://fr.wikipedia.org/wiki/Seconde_Guerre_mondiale",
+      "image": "",
+      "summary": "Entrée en guerre des puissances alliées."
+    }
+  ],
+
+  "04-09": [
+    {
+      "title": "Naissance de Beyoncé",
+      "year": 1981,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/Beyonc%C3%A9",
+      "image": "",
+      "summary": "Chanteuse et artiste mondiale."
+    }
+  ],
+
+  "05-09": [
+    {
+      "title": "Création de la Convention de Genève (protection humanitaire moderne)",
+      "year": 1949,
+      "type": "droit",
+      "wiki": "https://fr.wikipedia.org/wiki/Conventions_de_Gen%C3%A8ve",
+      "image": "",
+      "summary": "Base du droit international humanitaire."
+    }
+  ],
+
+  "06-09": [
+    {
+      "title": "Naissance de Roger Waters",
+      "year": 1943,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/Roger_Waters",
+      "image": "",
+      "summary": "Membre fondateur de Pink Floyd."
+    }
+  ],
+
+  "07-09": [
+    {
+      "title": "Premier vol de la navette spatiale Discovery",
+      "year": 1984,
+      "type": "science",
+      "wiki": "https://fr.wikipedia.org/wiki/Discovery_(navette_spatiale)",
+      "image": "",
+      "summary": "Mission de la NASA dans le programme des navettes."
+    }
+  ],
+
+  "08-09": [
+    {
+      "title": "Naissance de Pink Floyd (groupe, période de formation)",
+      "year": 1965,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/Pink_Floyd",
+      "image": "",
+      "summary": "Groupe de rock psychédélique britannique."
+    }
+  ],
+
+  "09-09": [
+    {
+      "title": "Naissance de Leo Tolstoï",
+      "year": 1828,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/L%C3%A9on_Tolsto%C3%AF",
+      "image": "",
+      "summary": "Écrivain russe majeur."
+    }
+  ],
+
+  "10-09": [
+    {
+      "title": "Création de l'ONU",
+      "year": 1945,
+      "type": "politique",
+      "wiki": "https://fr.wikipedia.org/wiki/Organisation_des_Nations_unies",
+      "image": "",
+      "summary": "Organisation internationale pour la paix et la coopération."
+    }
+  ],
+"11-09": [
+    {
+      "title": "Attentats du 11 septembre aux États-Unis",
+      "year": 2001,
+      "type": "histoire",
+      "wiki": "https://fr.wikipedia.org/wiki/Attentats_du_11_septembre_2001",
+      "image": "",
+      "summary": "Attaques terroristes majeures à New York et Washington."
+    }
+  ],
+
+  "12-09": [
+    {
+      "title": "Naissance de Louis XIV",
+      "year": 1638,
+      "type": "politique",
+      "wiki": "https://fr.wikipedia.org/wiki/Louis_XIV",
+      "image": "",
+      "summary": "Roi de France, surnommé le Roi Soleil."
+    }
+  ],
+
+  "13-09": [
+    {
+      "title": "Création du premier microprocesseur commercial Intel 4004 (développement associé)",
+      "year": 1971,
+      "type": "science",
+      "wiki": "https://fr.wikipedia.org/wiki/Intel_4004",
+      "image": "",
+      "summary": "Début de l’ère des microprocesseurs."
+    }
+  ],
+
+  "14-09": [
+    {
+      "title": "Naissance de Amy Winehouse",
+      "year": 1983,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/Amy_Winehouse",
+      "image": "",
+      "summary": "Chanteuse britannique de soul et jazz."
+    }
+  ],
+
+  "15-09": [
+    {
+      "title": "Première utilisation de la télévision en direct politique",
+      "year": 1960,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/T%C3%A9l%C3%A9vision",
+      "image": "",
+      "summary": "Débat présidentiel Kennedy-Nixon diffusé à la télévision."
+    }
+  ],
+
+  "16-09": [
+    {
+      "title": "Création de l’OPEP",
+      "year": 1960,
+      "type": "économie",
+      "wiki": "https://fr.wikipedia.org/wiki/Organisation_des_pays_exportateurs_de_p%C3%A9trole",
+      "image": "",
+      "summary": "Organisation des pays exportateurs de pétrole."
+    }
+  ],
+
+  "17-09": [
+    {
+      "title": "Signature de la Constitution des États-Unis",
+      "year": 1787,
+      "type": "politique",
+      "wiki": "https://fr.wikipedia.org/wiki/Constitution_des_%C3%89tats-Unis",
+      "image": "",
+      "summary": "Fondement juridique des États-Unis."
+    }
+  ],
+
+  "18-09": [
+    {
+      "title": "Naissance de Greta Garbo",
+      "year": 1905,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/Greta_Garbo",
+      "image": "",
+      "summary": "Icône du cinéma hollywoodien."
+    }
+  ],
+
+  "19-09": [
+    {
+      "title": "Découverte de la pénicilline (confirmation scientifique avancée)",
+      "year": 1928,
+      "type": "science",
+      "wiki": "https://fr.wikipedia.org/wiki/P%C3%A9nicilline",
+      "image": "",
+      "summary": "Révolution médicale mondiale."
+    }
+  ],
+
+  "20-09": [
+    {
+      "title": "Naissance de Sophia Loren",
+      "year": 1934,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/Sophia_Loren",
+      "image": "",
+      "summary": "Actrice italienne légendaire."
+    }
+  ],
+"21-09": [
+    {
+      "title": "Naissance de Leonard Cohen",
+      "year": 1934,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/Leonard_Cohen",
+      "image": "",
+      "summary": "Chanteur et poète canadien."
+    }
+  ],
+
+  "22-09": [
+    {
+      "title": "Création de la Journée sans voiture (initiatives urbaines)",
+      "year": 1998,
+      "type": "société",
+      "wiki": "https://fr.wikipedia.org/wiki/Journ%C3%A9e_sans_voiture",
+      "image": "",
+      "summary": "Sensibilisation à la mobilité durable."
+    }
+  ],
+
+  "23-09": [
+    {
+      "title": "Naissance de Ray Charles",
+      "year": 1930,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/Ray_Charles",
+      "image": "",
+      "summary": "Musicien et chanteur américain."
+    }
+  ],
+
+  "24-09": [
+    {
+      "title": "Première publication de la théorie de la relativité restreinte (contexte scientifique)",
+      "year": 1905,
+      "type": "science",
+      "wiki": "https://fr.wikipedia.org/wiki/Relativit%C3%A9_restreinte",
+      "image": "",
+      "summary": "Révolution en physique moderne par Einstein."
+    }
+  ],
+
+  "25-09": [
+    {
+      "title": "Naissance de Michael Douglas",
+      "year": 1944,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/Michael_Douglas",
+      "image": "",
+      "summary": "Acteur et producteur américain."
+    }
+  ],
+
+  "26-09": [
+    {
+      "title": "Création de la première centrale nucléaire civile en Europe",
+      "year": 1956,
+      "type": "science",
+      "wiki": "https://fr.wikipedia.org/wiki/%C3%89nergie_nucl%C3%A9aire",
+      "image": "",
+      "summary": "Début de la production nucléaire civile."
+    }
+  ],
+
+  "27-09": [
+    {
+      "title": "Naissance de Samuel Adams",
+      "year": 1722,
+      "type": "politique",
+      "wiki": "https://fr.wikipedia.org/wiki/Samuel_Adams",
+      "image": "",
+      "summary": "Figure de la révolution américaine."
+    }
+  ],
+
+  "28-09": [
+    {
+      "title": "Découverte de la structure de l'ADN (publication scientifique majeure)",
+      "year": 1953,
+      "type": "science",
+      "wiki": "https://fr.wikipedia.org/wiki/ADN",
+      "image": "",
+      "summary": "Watson et Crick révèlent la double hélice."
+    }
+  ],
+
+  "29-09": [
+    {
+      "title": "Naissance de Miguel de Cervantes",
+      "year": 1547,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/Miguel_de_Cervantes",
+      "image": "",
+      "summary": "Auteur de Don Quichotte."
+    }
+  ],
+
+  "30-09": [
+    {
+      "title": "Création de l'Organisation internationale de la francophonie (préfiguration)",
+      "year": 1970,
+      "type": "politique",
+      "wiki": "https://fr.wikipedia.org/wiki/Organisation_internationale_de_la_francophonie",
+      "image": "",
+      "summary": "Coopération des pays francophones."
+    }
+  ],
+
+
+"01-10": [
+    {
+      "title": "Création de la République populaire de Chine",
+      "year": 1949,
+      "type": "politique",
+      "wiki": "https://fr.wikipedia.org/wiki/R%C3%A9publique_populaire_de_Chine",
+      "image": "",
+      "summary": "Fondation de la Chine moderne sous Mao Zedong."
+    }
+  ],
+
+  "02-10": [
+    {
+      "title": "Naissance de Groucho Marx",
+      "year": 1890,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/Groucho_Marx",
+      "image": "",
+      "summary": "Comédien américain des Marx Brothers."
+    }
+  ],
+
+  "03-10": [
+    {
+      "title": "Réunification de l'Allemagne de l'Est et de l'Ouest",
+      "year": 1990,
+      "type": "politique",
+      "wiki": "https://fr.wikipedia.org/wiki/R%C3%A9unification_allemande",
+      "image": "",
+      "summary": "Fin de la division de l'Allemagne."
+    }
+  ],
+
+  "04-10": [
+    {
+      "title": "Lancement de Spoutnik 1",
+      "year": 1957,
+      "type": "science",
+      "wiki": "https://fr.wikipedia.org/wiki/Spoutnik_1",
+      "image": "",
+      "summary": "Premier satellite artificiel de la Terre."
+    }
+  ],
+
+  "05-10": [
+    {
+      "title": "Naissance de Kate Winslet",
+      "year": 1975,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/Kate_Winslet",
+      "image": "",
+      "summary": "Actrice britannique."
+    }
+  ],
+
+  "06-10": [
+    {
+      "title": "Naissance de Thor Heyerdahl",
+      "year": 1914,
+      "type": "histoire",
+      "wiki": "https://fr.wikipedia.org/wiki/Thor_Heyerdahl",
+      "image": "",
+      "summary": "Explorateur et anthropologue norvégien."
+    }
+  ],
+
+  "07-10": [
+    {
+      "title": "Création de l'OTAN (entrée en vigueur élargie des structures)",
+      "year": 1949,
+      "type": "politique",
+      "wiki": "https://fr.wikipedia.org/wiki/Organisation_du_trait%C3%A9_de_l%27Atlantique_nord",
+      "image": "",
+      "summary": "Alliance militaire occidentale."
+    }
+  ],
+
+  "08-10": [
+    {
+      "title": "Naissance de Sigourney Weaver",
+      "year": 1949,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/Sigourney_Weaver",
+      "image": "",
+      "summary": "Actrice américaine de science-fiction."
+    }
+  ],
+
+  "09-10": [
+    {
+      "title": "Naissance de John Lennon",
+      "year": 1940,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/John_Lennon",
+      "image": "",
+      "summary": "Membre des Beatles."
+    }
+  ],
+
+  "10-10": [
+    {
+      "title": "Création de la Fédération internationale de football association (FIFA)",
+      "year": 1904,
+      "type": "sport",
+      "wiki": "https://fr.wikipedia.org/wiki/FIFA",
+      "image": "",
+      "summary": "Organisation mondiale du football."
+    }
+  ],
+"11-10": [
+    {
+      "title": "Naissance de Eleanor Roosevelt",
+      "year": 1884,
+      "type": "politique",
+      "wiki": "https://fr.wikipedia.org/wiki/Eleanor_Roosevelt",
+      "image": "",
+      "summary": "Première dame des États-Unis et militante des droits humains."
     }
   ],
 
   "12-10": [
     {
-      "texte": "Déclaration universelle des droits de l’homme (1948)",
-      "url": "https://fr.wikipedia.org/wiki/D%C3%A9claration_universelle_des_droits_de_l%27homme"
+      "title": "Découverte de l'Amérique du Nord par les Vikings (Leif Erikson)",
+      "year": 1000,
+      "type": "histoire",
+      "wiki": "https://fr.wikipedia.org/wiki/Leif_Erikson",
+      "image": "",
+      "summary": "Première exploration européenne de l'Amérique du Nord."
+    }
+  ],
+
+  "13-10": [
+    {
+      "title": "Arrestation des Templiers en France",
+      "year": 1307,
+      "type": "histoire",
+      "wiki": "https://fr.wikipedia.org/wiki/Ordre_du_Temple",
+      "image": "",
+      "summary": "Début de la chute de l'ordre des Templiers."
+    }
+  ],
+
+  "14-10": [
+    {
+      "title": "Premier vol supersonique en avion à réaction (Chuck Yeager franchit le mur du son)",
+      "year": 1947,
+      "type": "science",
+      "wiki": "https://fr.wikipedia.org/wiki/Chuck_Yeager",
+      "image": "",
+      "summary": "Première traversée du mur du son."
+    }
+  ],
+
+  "15-10": [
+    {
+      "title": "Naissance de Friedrich Nietzsche",
+      "year": 1844,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/Friedrich_Nietzsche",
+      "image": "",
+      "summary": "Philosophe allemand majeur."
+    }
+  ],
+
+  "16-10": [
+    {
+      "title": "Début de la crise des missiles de Cuba (contexte préparatoire)",
+      "year": 1962,
+      "type": "politique",
+      "wiki": "https://fr.wikipedia.org/wiki/Crise_des_missiles_de_Cuba",
+      "image": "",
+      "summary": "Tension majeure de la guerre froide."
+    }
+  ],
+
+  "17-10": [
+    {
+      "title": "Naissance de Arthur Miller",
+      "year": 1915,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/Arthur_Miller",
+      "image": "",
+      "summary": "Dramaturge américain."
+    }
+  ],
+
+  "18-10": [
+    {
+      "title": "Création du navigateur web moderne (développement des premiers browsers)",
+      "year": 1990,
+      "type": "science",
+      "wiki": "https://fr.wikipedia.org/wiki/Navigateur_web",
+      "image": "",
+      "summary": "Début de la navigation Internet moderne."
+    }
+  ],
+
+  "19-10": [
+    {
+      "title": "Naissance de Auguste Lumière",
+      "year": 1862,
+      "type": "science",
+      "wiki": "https://fr.wikipedia.org/wiki/Auguste_et_Louis_Lumi%C3%A8re",
+      "image": "",
+      "summary": "Pionnier du cinéma."
+    }
+  ],
+
+  "20-10": [
+    {
+      "title": "Naissance de Snoop Dogg",
+      "year": 1971,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/Snoop_Dogg",
+      "image": "",
+      "summary": "Rappeur américain emblématique."
+    }
+  ],
+"21-10": [
+    {
+      "title": "Naissance de Alfred Nobel",
+      "year": 1833,
+      "type": "science",
+      "wiki": "https://fr.wikipedia.org/wiki/Alfred_Nobel",
+      "image": "",
+      "summary": "Inventeur de la dynamite et fondateur des prix Nobel."
+    }
+  ],
+
+  "22-10": [
+    {
+      "title": "Naissance de Franz Liszt",
+      "year": 1811,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/Franz_Liszt",
+      "image": "",
+      "summary": "Compositeur et pianiste hongrois."
+    }
+  ],
+
+  "23-10": [
+    {
+      "title": "Début de la bataille d'El Alamein",
+      "year": 1942,
+      "type": "guerre",
+      "wiki": "https://fr.wikipedia.org/wiki/Bataille_d%27El_Alamein",
+      "image": "",
+      "summary": "Victoire décisive des Alliés en Afrique du Nord."
+    }
+  ],
+
+  "24-10": [
+    {
+      "title": "Création de l'ONU (entrée en vigueur de la Charte)",
+      "year": 1945,
+      "type": "politique",
+      "wiki": "https://fr.wikipedia.org/wiki/Organisation_des_Nations_unies",
+      "image": "",
+      "summary": "Naissance officielle des Nations unies."
+    }
+  ],
+
+  "25-10": [
+    {
+      "title": "Naissance de Pablo Picasso",
+      "year": 1881,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/Pablo_Picasso",
+      "image": "",
+      "summary": "Peintre espagnol majeur du XXe siècle."
+    }
+  ],
+
+  "26-10": [
+    {
+      "title": "Découverte de la pénicilline (développement avancé)",
+      "year": 1928,
+      "type": "science",
+      "wiki": "https://fr.wikipedia.org/wiki/Alexander_Fleming",
+      "image": "",
+      "summary": "Révolution médicale contre les infections."
+    }
+  ],
+
+  "27-10": [
+    {
+      "title": "Naissance de Dylan Thomas",
+      "year": 1914,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/Dylan_Thomas",
+      "image": "",
+      "summary": "Poète gallois."
+    }
+  ],
+
+  "28-10": [
+    {
+      "title": "Naissance de Bill Gates",
+      "year": 1955,
+      "type": "science",
+      "wiki": "https://fr.wikipedia.org/wiki/Bill_Gates",
+      "image": "",
+      "summary": "Co-fondateur de Microsoft."
+    }
+  ],
+
+  "29-10": [
+    {
+      "title": "Crise financière de 1929 (krach de Wall Street)",
+      "year": 1929,
+      "type": "économie",
+      "wiki": "https://fr.wikipedia.org/wiki/Krach_de_1929",
+      "image": "",
+      "summary": "Début de la Grande Dépression."
+    }
+  ],
+
+  "30-10": [
+    {
+      "title": "Diffusion de 'La Guerre des mondes' à la radio",
+      "year": 1938,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/La_Guerre_des_mondes_(radio)",
+      "image": "",
+      "summary": "Canular radiophonique historique d'Orson Welles."
+    }
+  ],
+
+  "31-10": [
+    {
+      "title": "Naissance de John Keats",
+      "year": 1795,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/John_Keats",
+      "image": "",
+      "summary": "Poète romantique anglais."
+    }
+  ],
+
+
+"01-11": [
+    {
+      "title": "Début de la Première Guerre mondiale en Méditerranée (front élargi)",
+      "year": 1914,
+      "type": "guerre",
+      "wiki": "https://fr.wikipedia.org/wiki/Premi%C3%A8re_Guerre_mondiale",
+      "image": "",
+      "summary": "Extension des opérations militaires."
+    }
+  ],
+
+  "02-11": [
+    {
+      "title": "Déclaration Balfour",
+      "year": 1917,
+      "type": "politique",
+      "wiki": "https://fr.wikipedia.org/wiki/D%C3%A9claration_Balfour",
+      "image": "",
+      "summary": "Soutien britannique à un foyer national juif en Palestine."
+    }
+  ],
+
+  "03-11": [
+    {
+      "title": "Naissance de Charles Bronson",
+      "year": 1921,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/Charles_Bronson",
+      "image": "",
+      "summary": "Acteur américain de films d'action."
+    }
+  ],
+
+  "04-11": [
+    {
+      "title": "Création de la BBC",
+      "year": 1922,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/British_Broadcasting_Corporation",
+      "image": "",
+      "summary": "Radiodiffusion publique britannique."
+    }
+  ],
+
+  "05-11": [
+    {
+      "title": "Naissance de Vivien Leigh",
+      "year": 1913,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/Vivien_Leigh",
+      "image": "",
+      "summary": "Actrice britannique, 'Autant en emporte le vent'."
+    }
+  ],
+
+  "06-11": [
+    {
+      "title": "Naissance de Emma Stone",
+      "year": 1988,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/Emma_Stone",
+      "image": "",
+      "summary": "Actrice américaine contemporaine."
+    }
+  ],
+
+  "07-11": [
+    {
+      "title": "Révolution d'Octobre (calendrier russe ancien)",
+      "year": 1917,
+      "type": "politique",
+      "wiki": "https://fr.wikipedia.org/wiki/R%C3%A9volution_d%27Octobre",
+      "image": "",
+      "summary": "Prise du pouvoir par les bolcheviks."
+    }
+  ],
+
+  "08-11": [
+    {
+      "title": "Naissance de Margaret Mitchell",
+      "year": 1900,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/Margaret_Mitchell",
+      "image": "",
+      "summary": "Autrice de 'Autant en emporte le vent'."
+    }
+  ],
+
+  "09-11": [
+    {
+      "title": "Chute du mur de Berlin",
+      "year": 1989,
+      "type": "politique",
+      "wiki": "https://fr.wikipedia.org/wiki/Chute_du_mur_de_Berlin",
+      "image": "",
+      "summary": "Fin symbolique de la guerre froide."
+    }
+  ],
+
+  "10-11": [
+    {
+      "title": "Naissance de Claude Monet",
+      "year": 1840,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/Claude_Monet",
+      "image": "",
+      "summary": "Peintre impressionniste français."
+    }
+  ],
+"11-11": [
+    {
+      "title": "Armistice de 1918 (fin de la Première Guerre mondiale)",
+      "year": 1918,
+      "type": "guerre",
+      "wiki": "https://fr.wikipedia.org/wiki/Armistice_du_11_novembre_1918",
+      "image": "",
+      "summary": "Fin des combats de la Première Guerre mondiale."
+    }
+  ],
+
+  "12-11": [
+    {
+      "title": "Naissance de Grace Kelly",
+      "year": 1929,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/Grace_Kelly",
+      "image": "",
+      "summary": "Actrice américaine devenue princesse de Monaco."
+    }
+  ],
+
+  "13-11": [
+    {
+      "title": "Création de la NASA",
+      "year": 1958,
+      "type": "science",
+      "wiki": "https://fr.wikipedia.org/wiki/NASA",
+      "image": "",
+      "summary": "Agence spatiale américaine."
+    }
+  ],
+
+  "14-11": [
+    {
+      "title": "Naissance de Claude Lévi-Strauss",
+      "year": 1908,
+      "type": "science",
+      "wiki": "https://fr.wikipedia.org/wiki/Claude_L%C3%A9vi-Strauss",
+      "image": "",
+      "summary": "Anthropologue français."
+    }
+  ],
+
+  "15-11": [
+    {
+      "title": "Naissance de Georgia O’Keeffe",
+      "year": 1887,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/Georgia_O%27Keeffe",
+      "image": "",
+      "summary": "Peintre américaine moderniste."
+    }
+  ],
+
+  "16-11": [
+    {
+      "title": "Création de l’UNESCO",
+      "year": 1945,
+      "type": "politique",
+      "wiki": "https://fr.wikipedia.org/wiki/UNESCO",
+      "image": "",
+      "summary": "Organisation des Nations unies pour l’éducation, la science et la culture."
+    }
+  ],
+
+  "17-11": [
+    {
+      "title": "Naissance de Martin Scorsese",
+      "year": 1942,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/Martin_Scorsese",
+      "image": "",
+      "summary": "Réalisateur américain majeur."
+    }
+  ],
+
+  "18-11": [
+    {
+      "title": "Création de Mickey Mouse (première apparition sonore)",
+      "year": 1928,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/Mickey_Mouse",
+      "image": "",
+      "summary": "Icône de Disney."
+    }
+  ],
+
+  "19-11": [
+    {
+      "title": "Naissance de Indira Gandhi",
+      "year": 1917,
+      "type": "politique",
+      "wiki": "https://fr.wikipedia.org/wiki/Indira_Gandhi",
+      "image": "",
+      "summary": "Première ministre de l’Inde."
+    }
+  ],
+
+  "20-11": [
+    {
+      "title": "Création de l’UNICEF (renforcement du mandat après guerre)",
+      "year": 1946,
+      "type": "société",
+      "wiki": "https://fr.wikipedia.org/wiki/UNICEF",
+      "image": "",
+      "summary": "Organisation dédiée à l’enfance dans le monde."
+    }
+  ],
+  "21-11": [
+    {
+      "title": "Création de la télévision couleur (développement des standards)",
+      "year": 1953,
+      "type": "science",
+      "wiki": "https://fr.wikipedia.org/wiki/T%C3%A9l%C3%A9vision_couleur",
+      "image": "",
+      "summary": "Standardisation de la télévision en couleur."
+    }
+  ],
+
+  "22-11": [
+    {
+      "title": "Naissance de Charles de Gaulle",
+      "year": 1890,
+      "type": "politique",
+      "wiki": "https://fr.wikipedia.org/wiki/Charles_de_Gaulle",
+      "image": "",
+      "summary": "Chef de la France libre et président français."
+    }
+  ],
+
+  "23-11": [
+    {
+      "title": "Découverte de Neptune (prévision puis confirmation)",
+      "year": 1846,
+      "type": "science",
+      "wiki": "https://fr.wikipedia.org/wiki/Neptune_(plan%C3%A8te)",
+      "image": "",
+      "summary": "Première planète découverte par calcul."
+    }
+  ],
+
+  "24-11": [
+    {
+      "title": "Naissance de Scott Joplin",
+      "year": 1868,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/Scott_Joplin",
+      "image": "",
+      "summary": "Compositeur de ragtime américain."
+    }
+  ],
+
+  "25-11": [
+    {
+      "title": "Naissance de Amy Grant",
+      "year": 1960,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/Amy_Grant",
+      "image": "",
+      "summary": "Chanteuse américaine."
+    }
+  ],
+
+  "26-11": [
+    {
+      "title": "Première photographie couleur permanente",
+      "year": 1861,
+      "type": "science",
+      "wiki": "https://fr.wikipedia.org/wiki/Photographie_couleur",
+      "image": "",
+      "summary": "Début de la photographie couleur."
+    }
+  ],
+
+  "27-11": [
+    {
+      "title": "Naissance de Bruce Lee",
+      "year": 1940,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/Bruce_Lee",
+      "image": "",
+      "summary": "Artiste martial et acteur."
+    }
+  ],
+
+  "28-11": [
+    {
+      "title": "Création de l’OTAN (renforcement stratégique post-guerre)",
+      "year": 1949,
+      "type": "politique",
+      "wiki": "https://fr.wikipedia.org/wiki/Organisation_du_trait%C3%A9_de_l%27Atlantique_nord",
+      "image": "",
+      "summary": "Alliance militaire occidentale."
+    }
+  ],
+
+  "29-11": [
+    {
+      "title": "Naissance de Jacques Chirac",
+      "year": 1932,
+      "type": "politique",
+      "wiki": "https://fr.wikipedia.org/wiki/Jacques_Chirac",
+      "image": "",
+      "summary": "Président de la République française."
+    }
+  ],
+
+  "30-11": [
+    {
+      "title": "Naissance de Mark Twain",
+      "year": 1835,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/Mark_Twain",
+      "image": "",
+      "summary": "Écrivain américain."
+    }
+  ],
+
+
+"01-12": [
+    {
+      "title": "Création du premier test du VIH",
+      "year": 1985,
+      "type": "science",
+      "wiki": "https://fr.wikipedia.org/wiki/VIH/sida",
+      "image": "",
+      "summary": "Premiers tests de dépistage du VIH."
+    }
+  ],
+
+  "02-12": [
+    {
+      "title": "Découverte de la fission nucléaire",
+      "year": 1942,
+      "type": "science",
+      "wiki": "https://fr.wikipedia.org/wiki/Fission_nucl%C3%A9aire",
+      "image": "",
+      "summary": "Base de l’énergie nucléaire."
+    }
+  ],
+
+  "03-12": [
+    {
+      "title": "Naissance de Joseph Conrad",
+      "year": 1857,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/Joseph_Conrad",
+      "image": "",
+      "summary": "Écrivain britannique d’origine polonaise."
+    }
+  ],
+
+  "04-12": [
+    {
+      "title": "Naissance de Francisco Franco",
+      "year": 1892,
+      "type": "politique",
+      "wiki": "https://fr.wikipedia.org/wiki/Francisco_Franco",
+      "image": "",
+      "summary": "Dirigeant de l’Espagne franquiste."
+    }
+  ],
+
+  "05-12": [
+    {
+      "title": "Naissance de Walt Disney",
+      "year": 1901,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/Walt_Disney",
+      "image": "",
+      "summary": "Fondateur de Disney."
+    }
+  ],
+
+  "06-12": [
+    {
+      "title": "Naissance de Nikolaus Otto",
+      "year": 1832,
+      "type": "science",
+      "wiki": "https://fr.wikipedia.org/wiki/Nikolaus_Otto",
+      "image": "",
+      "summary": "Inventeur du moteur à combustion interne."
+    }
+  ],
+
+  "07-12": [
+    {
+      "title": "Attaque de Pearl Harbor (préparation du contexte historique)",
+      "year": 1941,
+      "type": "guerre",
+      "wiki": "https://fr.wikipedia.org/wiki/Attaque_de_Pearl_Harbor",
+      "image": "",
+      "summary": "Entrée des États-Unis dans la Seconde Guerre mondiale."
+    }
+  ],
+
+  "08-12": [
+    {
+      "title": "Création de la Fédération de Russie moderne (transition URSS)",
+      "year": 1991,
+      "type": "politique",
+      "wiki": "https://fr.wikipedia.org/wiki/F%C3%A9d%C3%A9ration_de_Russie",
+      "image": "",
+      "summary": "Fin officielle de l’URSS."
+    }
+  ],
+
+  "09-12": [
+    {
+      "title": "Naissance de John Milton",
+      "year": 1608,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/John_Milton",
+      "image": "",
+      "summary": "Poète anglais ('Le Paradis perdu')."
+    }
+  ],
+
+  "10-12": [
+    {
+      "title": "Déclaration universelle des droits de l’homme",
+      "year": 1948,
+      "type": "politique",
+      "wiki": "https://fr.wikipedia.org/wiki/D%C3%A9claration_universelle_des_droits_de_l%27homme",
+      "image": "",
+      "summary": "Texte fondateur des droits humains."
+    }
+  ],
+"11-12": [
+    {
+      "title": "Naissance de Hector Berlioz",
+      "year": 1803,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/Hector_Berlioz",
+      "image": "",
+      "summary": "Compositeur français romantique."
     }
   ],
 
   "12-12": [
     {
-      "texte": "Accord de Paris sur le climat (2015)",
-      "url": "https://fr.wikipedia.org/wiki/Accord_de_Paris_sur_le_climat"
+      "title": "Découverte de la radioactivité artificielle",
+      "year": 1934,
+      "type": "science",
+      "wiki": "https://fr.wikipedia.org/wiki/Radioactivit%C3%A9",
+      "image": "",
+      "summary": "Avancée majeure en physique nucléaire."
     }
   ],
 
-  "12-21": [
+  "13-12": [
     {
-      "texte": "Solstice d’hiver",
-      "url": "https://fr.wikipedia.org/wiki/Solstice"
+      "title": "Naissance de Ludwig van Beethoven",
+      "year": 1770,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/Ludwig_van_Beethoven",
+      "image": "",
+      "summary": "Compositeur majeur de musique classique."
     }
   ],
 
-  "12-25": [
+  "14-12": [
     {
-      "texte": "Noël",
-      "url": "https://fr.wikipedia.org/wiki/No%C3%ABl"
+      "title": "Première exploration de l’Antarctique intérieur (expéditions modernes)",
+      "year": 1911,
+      "type": "histoire",
+      "wiki": "https://fr.wikipedia.org/wiki/Antarctique",
+      "image": "",
+      "summary": "Exploration du pôle Sud."
     }
   ],
 
-  "12-31": [
+  "15-12": [
     {
-      "texte": "Saint-Sylvestre (Nouvel An)",
-      "url": "https://fr.wikipedia.org/wiki/Saint-Sylvestre"
+      "title": "Naissance de Gustave Eiffel",
+      "year": 1832,
+      "type": "science",
+      "wiki": "https://fr.wikipedia.org/wiki/Gustave_Eiffel",
+      "image": "",
+      "summary": "Ingénieur de la tour Eiffel."
+    }
+  ],
+
+  "16-12": [
+    {
+      "title": "Naissance de Jane Austen",
+      "year": 1775,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/Jane_Austen",
+      "image": "",
+      "summary": "Romancière anglaise."
+    }
+  ],
+
+  "17-12": [
+    {
+      "title": "Premier vol des frères Wright",
+      "year": 1903,
+      "type": "science",
+      "wiki": "https://fr.wikipedia.org/wiki/Fr%C3%A8res_Wright",
+      "image": "",
+      "summary": "Naissance de l’aviation moderne."
+    }
+  ],
+
+  "18-12": [
+    {
+      "title": "Naissance de Steven Spielberg",
+      "year": 1946,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/Steven_Spielberg",
+      "image": "",
+      "summary": "Réalisateur américain majeur."
+    }
+  ],
+
+  "19-12": [
+    {
+      "title": "Création de la NASA (renforcement des programmes spatiaux)",
+      "year": 1958,
+      "type": "science",
+      "wiki": "https://fr.wikipedia.org/wiki/NASA",
+      "image": "",
+      "summary": "Organisation spatiale américaine."
+    }
+  ],
+
+  "20-12": [
+    {
+      "title": "Naissance de Joseph Stalin",
+      "year": 1878,
+      "type": "politique",
+      "wiki": "https://fr.wikipedia.org/wiki/Joseph_Staline",
+      "image": "",
+      "summary": "Dirigeant de l’Union soviétique."
+    }
+  ],
+"21-12": [
+    {
+      "title": "Premier jour de l’hiver (solstice d’hiver)",
+      "year": 0,
+      "type": "science",
+      "wiki": "https://fr.wikipedia.org/wiki/Solstice",
+      "image": "",
+      "summary": "Jour le plus court de l’année dans l’hémisphère nord."
+    }
+  ],
+
+  "22-12": [
+    {
+      "title": "Naissance de Giacomo Puccini",
+      "year": 1858,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/Giacomo_Puccini",
+      "image": "",
+      "summary": "Compositeur italien d’opéras."
+    }
+  ],
+
+  "23-12": [
+    {
+      "title": "Création de la première machine à vapeur moderne",
+      "year": 1712,
+      "type": "science",
+      "wiki": "https://fr.wikipedia.org/wiki/Machine_%C3%A0_vapeur",
+      "image": "",
+      "summary": "Début de la révolution industrielle."
+    }
+  ],
+
+  "24-12": [
+    {
+      "title": "Naissance de Howard Hughes",
+      "year": 1905,
+      "type": "science",
+      "wiki": "https://fr.wikipedia.org/wiki/Howard_Hughes",
+      "image": "",
+      "summary": "Aviateur et industriel américain."
+    }
+  ],
+
+  "25-12": [
+    {
+      "title": "Noël (célébration chrétienne)",
+      "year": 0,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/No%C3%ABl",
+      "image": "",
+      "summary": "Fête de la naissance de Jésus selon la tradition chrétienne."
+    }
+  ],
+
+  "26-12": [
+    {
+      "title": "Tsunami de 2004 dans l’océan Indien",
+      "year": 2004,
+      "type": "catastrophe",
+      "wiki": "https://fr.wikipedia.org/wiki/Tsunami_de_2004_dans_l%27oc%C3%A9an_Indien",
+      "image": "",
+      "summary": "Une des catastrophes naturelles les plus meurtrières."
+    }
+  ],
+
+  "27-12": [
+    {
+      "title": "Naissance de Marlene Dietrich",
+      "year": 1901,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/Marlene_Dietrich",
+      "image": "",
+      "summary": "Actrice et chanteuse allemande."
+    }
+  ],
+
+  "28-12": [
+    {
+      "title": "Création du premier vaccin contre la rage (développements post-Pasteur)",
+      "year": 1885,
+      "type": "science",
+      "wiki": "https://fr.wikipedia.org/wiki/Vaccin_contre_la_rage",
+      "image": "",
+      "summary": "Avancée majeure en médecine."
+    }
+  ],
+
+  "29-12": [
+    {
+      "title": "Naissance de Mary Tyler Moore",
+      "year": 1936,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/Mary_Tyler_Moore",
+      "image": "",
+      "summary": "Actrice américaine."
+    }
+  ],
+
+  "30-12": [
+    {
+      "title": "Création de l’Union soviétique (URSS)",
+      "year": 1922,
+      "type": "politique",
+      "wiki": "https://fr.wikipedia.org/wiki/Union_des_r%C3%A9publiques_socialistes_sovi%C3%A9tiques",
+      "image": "",
+      "summary": "Formation de l’URSS."
+    }
+  ],
+
+  "31-12": [
+    {
+      "title": "Réveillon du Nouvel An (Saint-Sylvestre)",
+      "year": 0,
+      "type": "culture",
+      "wiki": "https://fr.wikipedia.org/wiki/Saint-Sylvestre",
+      "image": "",
+      "summary": "Dernier jour de l’année civile."
     }
   ]
 }
+
