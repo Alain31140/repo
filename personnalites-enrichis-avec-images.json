@@ -5,7 +5,10 @@
       "type": "naissance",
       "year": 1920,
       "wiki": "https://fr.wikipedia.org/wiki/Isaac_Asimov",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/3/34/Isaac.Asimov01.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/34/Isaac.Asimov01.jpg",
+      "death": {
+        "death": 1992
+      }
     }
   ],
   "02-01": [
@@ -14,7 +17,10 @@
       "type": "naissance",
       "year": 1710,
       "wiki": "https://fr.wikipedia.org/wiki/Giovanni_Battista_Pergolesi",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Pergolesi_caricatura_di_P.L.Ghezzi.png"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Pergolesi_caricatura_di_P.L.Ghezzi.png",
+      "death": {
+        "death": 1736
+      }
     }
   ],
   "03-01": [
@@ -23,7 +29,10 @@
       "type": "naissance",
       "year": 1892,
       "wiki": "https://fr.wikipedia.org/wiki/J._R._R._Tolkien",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d4/J._R._R._Tolkien%2C_ca._1925.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d4/J._R._R._Tolkien%2C_ca._1925.jpg",
+      "death": {
+        "death": 1973
+      }
     }
   ],
   "04-01": [
@@ -32,7 +41,10 @@
       "type": "naissance",
       "year": 1643,
       "wiki": "https://fr.wikipedia.org/wiki/Isaac_Newton",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/GodfreyKneller-IsaacNewton-1689.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/GodfreyKneller-IsaacNewton-1689.jpg",
+      "death": {
+        "death": 1727
+      }
     }
   ],
   "05-01": [
@@ -41,7 +53,10 @@
       "type": "naissance",
       "year": 1941,
       "wiki": "https://fr.wikipedia.org/wiki/Hayao_Miyazaki",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/f/ff/HayaoMiyazakiCCJuly09.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/ff/HayaoMiyazakiCCJuly09.jpg",
+      "death": {
+        "death": null
+      }
     }
   ],
   "06-01": [
@@ -50,7 +65,10 @@
       "type": "naissance (traditionnelle)",
       "year": 1412,
       "wiki": "https://fr.wikipedia.org/wiki/Jeanne_d%27Arc",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Contemporaine_afb_jeanne_d_arc.png"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Contemporaine_afb_jeanne_d_arc.png",
+      "death": {
+        "death": 1431
+      }
     }
   ],
   "07-01": [
@@ -59,7 +77,10 @@
       "type": "naissance",
       "year": 1873,
       "wiki": "https://fr.wikipedia.org/wiki/Charles_Péguy",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/Jean-Pierre_Laurens-P%C3%A9guy.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/Jean-Pierre_Laurens-P%C3%A9guy.jpg",
+      "death": {
+        "death": 1914
+      }
     }
   ],
   "08-01": [
@@ -68,7 +89,10 @@
       "type": "naissance",
       "year": 1935,
       "wiki": "https://fr.wikipedia.org/wiki/Elvis_Presley",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Elvis_Presley_promoting_Jailhouse_Rock.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Elvis_Presley_promoting_Jailhouse_Rock.jpg",
+      "death": {
+        "death": 1977
+      }
     }
   ],
   "09-01": [
@@ -77,7 +101,10 @@
       "type": "naissance",
       "year": 1913,
       "wiki": "https://fr.wikipedia.org/wiki/Richard_Nixon",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Richard_Nixon_presidential_portrait_%281%29.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Richard_Nixon_presidential_portrait_%281%29.jpg",
+      "death": {
+        "death": 1994
+      }
     }
   ],
   "10-01": [
@@ -86,7 +113,10 @@
       "type": "naissance",
       "year": 1945,
       "wiki": "https://fr.wikipedia.org/wiki/Rod_Stewart",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Rod_Stewart_86.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Rod_Stewart_86.jpg",
+      "death": {
+        "death": null
+      }
     }
   ],
   "11-01": [
@@ -95,7 +125,10 @@
       "type": "naissance",
       "year": 1755,
       "wiki": "https://fr.wikipedia.org/wiki/Alexander_Hamilton",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1804
+      }
     }
   ],
   "12-01": [
@@ -104,7 +137,10 @@
       "type": "naissance",
       "year": 1876,
       "wiki": "https://fr.wikipedia.org/wiki/Jack_London",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1916
+      }
     }
   ],
   "13-01": [
@@ -113,7 +149,10 @@
       "type": "naissance",
       "year": 1977,
       "wiki": "https://fr.wikipedia.org/wiki/Orlando_Bloom",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "14-01": [
@@ -122,7 +161,10 @@
       "type": "naissance",
       "year": 1875,
       "wiki": "https://fr.wikipedia.org/wiki/Albert_Schweitzer",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1965
+      }
     }
   ],
   "15-01": [
@@ -131,7 +173,10 @@
       "type": "naissance",
       "year": 1929,
       "wiki": "https://fr.wikipedia.org/wiki/Martin_Luther_King",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1968
+      }
     }
   ],
   "16-01": [
@@ -140,7 +185,10 @@
       "type": "naissance",
       "year": 1899,
       "wiki": "https://fr.wikipedia.org/wiki/Al_Capone",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1947
+      }
     }
   ],
   "17-01": [
@@ -149,7 +197,10 @@
       "type": "naissance",
       "year": 1706,
       "wiki": "https://fr.wikipedia.org/wiki/Benjamin_Franklin",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1790
+      }
     }
   ],
   "18-01": [
@@ -158,7 +209,10 @@
       "type": "naissance",
       "year": 1955,
       "wiki": "https://fr.wikipedia.org/wiki/Kevin_Costner",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "19-01": [
@@ -167,7 +221,10 @@
       "type": "naissance",
       "year": 1809,
       "wiki": "https://fr.wikipedia.org/wiki/Edgar_Allan_Poe",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1849
+      }
     }
   ],
   "20-01": [
@@ -176,7 +233,10 @@
       "type": "naissance",
       "year": 1946,
       "wiki": "https://fr.wikipedia.org/wiki/David_Lynch",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 2025
+      }
     }
   ],
   "21-01": [
@@ -185,7 +245,10 @@
       "type": "décès",
       "year": 1793,
       "wiki": "https://fr.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1791
+      }
     }
   ],
   "22-01": [
@@ -194,14 +257,20 @@
       "type": "naissance",
       "year": 1797,
       "wiki": "https://fr.wikipedia.org/wiki/Franz_Schubert",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1828
+      }
     },
     {
       "name": "Lord Byron",
       "type": "naissance",
       "year": 1788,
       "wiki": "https://fr.wikipedia.org/wiki/Lord_Byron",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1824
+      }
     }
   ],
   "23-01": [
@@ -210,14 +279,20 @@
       "type": "naissance",
       "year": 1832,
       "wiki": "https://fr.wikipedia.org/wiki/Édouard_Manet",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1883
+      }
     },
     {
       "name": "John Hancock",
       "type": "naissance",
       "year": 1737,
       "wiki": "https://fr.wikipedia.org/wiki/John_Hancock",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1793
+      }
     }
   ],
   "24-01": [
@@ -226,7 +301,8 @@
       "type": "naissance",
       "year": 1930,
       "wiki": "https://fr.wikipedia.org/wiki/Buzz_Aldrin",
-      "image": ""
+      "image": "",
+      "death": null
     }
   ],
   "25-01": [
@@ -235,14 +311,20 @@
       "type": "naissance",
       "year": 1759,
       "wiki": "https://fr.wikipedia.org/wiki/Robert_Burns",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1796
+      }
     },
     {
       "name": "Virginia Woolf",
       "type": "naissance",
       "year": 1882,
       "wiki": "https://fr.wikipedia.org/wiki/Virginia_Woolf",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1941
+      }
     }
   ],
   "26-01": [
@@ -251,7 +333,10 @@
       "type": "naissance",
       "year": 1880,
       "wiki": "https://fr.wikipedia.org/wiki/Douglas_MacArthur",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/9/92/MacArthur_Manila.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/92/MacArthur_Manila.jpg",
+      "death": {
+        "death": 1964
+      }
     }
   ],
   "27-01": [
@@ -260,14 +345,20 @@
       "type": "naissance",
       "year": 1756,
       "wiki": "https://fr.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1791
+      }
     },
     {
       "name": "Lewis Carroll",
       "type": "naissance",
       "year": 1832,
       "wiki": "https://fr.wikipedia.org/wiki/Lewis_Carroll",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1898
+      }
     }
   ],
   "28-01": [
@@ -276,7 +367,10 @@
       "type": "naissance",
       "year": 1457,
       "wiki": "https://fr.wikipedia.org/wiki/Henri_VII_d%27Angleterre",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1509
+      }
     }
   ],
   "29-01": [
@@ -285,14 +379,20 @@
       "type": "naissance",
       "year": 1954,
       "wiki": "https://fr.wikipedia.org/wiki/Oprah_Winfrey",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     },
     {
       "name": "George IV du Royaume-Uni",
       "type": "naissance",
       "year": 1762,
       "wiki": "https://fr.wikipedia.org/wiki/George_IV",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1830
+      }
     }
   ],
   "30-01": [
@@ -301,7 +401,10 @@
       "type": "naissance",
       "year": 1882,
       "wiki": "https://fr.wikipedia.org/wiki/Franklin_D._Roosevelt",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1945
+      }
     }
   ],
   "31-01": [
@@ -310,14 +413,20 @@
       "type": "décès",
       "year": 1828,
       "wiki": "https://fr.wikipedia.org/wiki/Franz_Schubert",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1828
+      }
     },
     {
       "name": "Justin Timberlake",
       "type": "naissance",
       "year": 1981,
       "wiki": "https://fr.wikipedia.org/wiki/Justin_Timberlake",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "01-02": [
@@ -326,14 +435,20 @@
       "type": "naissance",
       "year": 1901,
       "wiki": "https://fr.wikipedia.org/wiki/Clark_Gable",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/6/61/Clark_Gable_Publicity_Photo%2C_1945.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/61/Clark_Gable_Publicity_Photo%2C_1945.jpg",
+      "death": {
+        "death": 1960
+      }
     },
     {
       "name": "Langston Hughes",
       "type": "naissance",
       "year": 1902,
       "wiki": "https://fr.wikipedia.org/wiki/Langston_Hughes",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/LangstonHughes_crop.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/LangstonHughes_crop.jpg",
+      "death": {
+        "death": 1967
+      }
     }
   ],
   "02-02": [
@@ -342,14 +457,20 @@
       "type": "décès",
       "year": 1941,
       "wiki": "https://fr.wikipedia.org/wiki/James_Joyce",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1941
+      }
     },
     {
       "name": "Shakira",
       "type": "naissance",
       "year": 1977,
       "wiki": "https://fr.wikipedia.org/wiki/Shakira",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "03-02": [
@@ -358,14 +479,20 @@
       "type": "naissance",
       "year": 1874,
       "wiki": "https://fr.wikipedia.org/wiki/Gertrude_Stein",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1946
+      }
     },
     {
       "name": "Norman Rockwell",
       "type": "naissance",
       "year": 1894,
       "wiki": "https://fr.wikipedia.org/wiki/Norman_Rockwell",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1978
+      }
     }
   ],
   "04-02": [
@@ -374,7 +501,10 @@
       "type": "naissance",
       "year": 1902,
       "wiki": "https://fr.wikipedia.org/wiki/Charles_Lindbergh",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1974
+      }
     }
   ],
   "05-02": [
@@ -383,14 +513,20 @@
       "type": "naissance",
       "year": 1985,
       "wiki": "https://fr.wikipedia.org/wiki/Cristiano_Ronaldo",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     },
     {
       "name": "John Jeffries",
       "type": "naissance",
       "year": 1745,
       "wiki": "https://fr.wikipedia.org/wiki/John_Jeffries",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1819
+      }
     }
   ],
   "06-02": [
@@ -399,7 +535,10 @@
       "type": "naissance",
       "year": 1945,
       "wiki": "https://fr.wikipedia.org/wiki/Bob_Marley",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Bob-Marley.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Bob-Marley.jpg",
+      "death": {
+        "death": 1981
+      }
     }
   ],
   "07-02": [
@@ -408,14 +547,20 @@
       "type": "naissance",
       "year": 1812,
       "wiki": "https://fr.wikipedia.org/wiki/Charles_Dickens",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1870
+      }
     },
     {
       "name": "Ashton Kutcher",
       "type": "naissance",
       "year": 1978,
       "wiki": "https://fr.wikipedia.org/wiki/Ashton_Kutcher",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "08-02": [
@@ -424,14 +569,20 @@
       "type": "naissance",
       "year": 1828,
       "wiki": "https://fr.wikipedia.org/wiki/Jules_Verne",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1905
+      }
     },
     {
       "name": "James Dean",
       "type": "décès",
       "year": 1955,
       "wiki": "https://fr.wikipedia.org/wiki/James_Dean",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1955
+      }
     }
   ],
   "09-02": [
@@ -440,7 +591,10 @@
       "type": "naissance",
       "year": 1773,
       "wiki": "https://fr.wikipedia.org/wiki/William_Henry_Harrison",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1841
+      }
     }
   ],
   "10-02": [
@@ -449,14 +603,20 @@
       "type": "naissance",
       "year": 1890,
       "wiki": "https://fr.wikipedia.org/wiki/Boris_Pasternak",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/5/55/Boris_Pasternak_1958_photo.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/55/Boris_Pasternak_1958_photo.jpg",
+      "death": {
+        "death": 1960
+      }
     },
     {
       "name": "Emma Roberts",
       "type": "naissance",
       "year": 1991,
       "wiki": "https://fr.wikipedia.org/wiki/Emma_Roberts",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "11-02": [
@@ -465,7 +625,10 @@
       "type": "décès",
       "year": 1931,
       "wiki": "https://fr.wikipedia.org/wiki/Thomas_Edison",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1931
+      }
     }
   ],
   "12-02": [
@@ -474,14 +637,20 @@
       "type": "naissance",
       "year": 1809,
       "wiki": "https://fr.wikipedia.org/wiki/Abraham_Lincoln",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1865
+      }
     },
     {
       "name": "Charles Darwin",
       "type": "naissance",
       "year": 1809,
       "wiki": "https://fr.wikipedia.org/wiki/Charles_Darwin",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1882
+      }
     }
   ],
   "13-02": [
@@ -490,7 +659,10 @@
       "type": "naissance",
       "year": 1950,
       "wiki": "https://fr.wikipedia.org/wiki/Peter_Gabriel",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "14-02": [
@@ -499,14 +671,20 @@
       "type": "naissance",
       "year": 1818,
       "wiki": "https://fr.wikipedia.org/wiki/Frederick_Douglass",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1895
+      }
     },
     {
       "name": "Bon Jovi (Jon Bon Jovi)",
       "type": "naissance",
       "year": 1962,
       "wiki": "https://fr.wikipedia.org/wiki/Jon_Bon_Jovi",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "15-02": [
@@ -515,7 +693,10 @@
       "type": "décès",
       "year": 1564,
       "wiki": "https://fr.wikipedia.org/wiki/Galil%C3%A9e",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1642
+      }
     }
   ],
   "16-02": [
@@ -524,7 +705,10 @@
       "type": "naissance",
       "year": 1941,
       "wiki": "https://fr.wikipedia.org/wiki/Kim_Jong-il",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 2011
+      }
     }
   ],
   "17-02": [
@@ -533,14 +717,20 @@
       "type": "naissance",
       "year": 1963,
       "wiki": "https://fr.wikipedia.org/wiki/Michael_Jordan",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     },
     {
       "name": "Nicolas II de Russie",
       "type": "naissance",
       "year": 1868,
       "wiki": "https://fr.wikipedia.org/wiki/Nicolas_II",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Mikola_II_%28cropped%29-2.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Mikola_II_%28cropped%29-2.jpg",
+      "death": {
+        "death": 1918
+      }
     }
   ],
   "18-02": [
@@ -549,7 +739,10 @@
       "type": "naissance",
       "year": 1954,
       "wiki": "https://fr.wikipedia.org/wiki/John_Travolta",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "19-02": [
@@ -558,7 +751,10 @@
       "type": "naissance",
       "year": 1473,
       "wiki": "https://fr.wikipedia.org/wiki/Nicolas_Copernic",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1543
+      }
     }
   ],
   "20-02": [
@@ -567,14 +763,20 @@
       "type": "naissance",
       "year": 1988,
       "wiki": "https://fr.wikipedia.org/wiki/Rihanna",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     },
     {
       "name": "Sidney Poitier",
       "type": "naissance",
       "year": 1927,
       "wiki": "https://fr.wikipedia.org/wiki/Sidney_Poitier",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/Sidney_Poitier_1968.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/Sidney_Poitier_1968.jpg",
+      "death": {
+        "death": 2022
+      }
     }
   ],
   "21-02": [
@@ -583,14 +785,20 @@
       "type": "naissance",
       "year": 1933,
       "wiki": "https://fr.wikipedia.org/wiki/Nina_Simone",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 2003
+      }
     },
     {
       "name": "Charles V d'Espagne",
       "type": "naissance",
       "year": 1500,
       "wiki": "https://fr.wikipedia.org/wiki/Charles_Quint",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1558
+      }
     }
   ],
   "22-02": [
@@ -599,7 +807,10 @@
       "type": "naissance",
       "year": 1732,
       "wiki": "https://fr.wikipedia.org/wiki/George_Washington",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1799
+      }
     }
   ],
   "23-02": [
@@ -608,14 +819,20 @@
       "type": "naissance",
       "year": 1868,
       "wiki": "https://fr.wikipedia.org/wiki/W._E._B._Du_Bois",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1963
+      }
     },
     {
       "name": "Kurt Cobain",
       "type": "naissance",
       "year": 1967,
       "wiki": "https://fr.wikipedia.org/wiki/Kurt_Cobain",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1994
+      }
     }
   ],
   "24-02": [
@@ -624,7 +841,10 @@
       "type": "naissance",
       "year": 1955,
       "wiki": "https://fr.wikipedia.org/wiki/Steve_Jobs",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 2011
+      }
     }
   ],
   "25-02": [
@@ -633,7 +853,10 @@
       "type": "naissance",
       "year": 1841,
       "wiki": "https://fr.wikipedia.org/wiki/Pierre-Auguste_Renoir",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1919
+      }
     }
   ],
   "26-02": [
@@ -642,14 +865,20 @@
       "type": "naissance",
       "year": 1802,
       "wiki": "https://fr.wikipedia.org/wiki/Victor_Hugo",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1885
+      }
     },
     {
       "name": "Levi Strauss",
       "type": "naissance",
       "year": 1829,
       "wiki": "https://fr.wikipedia.org/wiki/Levi_Strauss_(entrepreneur)",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1902
+      }
     }
   ],
   "27-02": [
@@ -658,7 +887,10 @@
       "type": "naissance",
       "year": 1902,
       "wiki": "https://fr.wikipedia.org/wiki/John_Steinbeck",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1968
+      }
     }
   ],
   "28-02": [
@@ -667,14 +899,20 @@
       "type": "naissance",
       "year": 1901,
       "wiki": "https://fr.wikipedia.org/wiki/Linus_Pauling",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/5/58/L_Pauling.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/58/L_Pauling.jpg",
+      "death": {
+        "death": 1994
+      }
     },
     {
       "name": "Michel Eyquem de Montaigne",
       "type": "naissance",
       "year": 1533,
       "wiki": "https://fr.wikipedia.org/wiki/Michel_de_Montaigne",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1592
+      }
     }
   ],
   "01-03": [
@@ -683,14 +921,20 @@
       "type": "naissance",
       "year": 1810,
       "wiki": "https://fr.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Chopin",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1849
+      }
     },
     {
       "name": "Harry Belafonte",
       "type": "naissance",
       "year": 1927,
       "wiki": "https://fr.wikipedia.org/wiki/Harry_Belafonte",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Harry_Belafonte_1970_%28cropped%29.tif/lossy-page1-1920px-Harry_Belafonte_1970_%28cropped%29.tif.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Harry_Belafonte_1970_%28cropped%29.tif/lossy-page1-1920px-Harry_Belafonte_1970_%28cropped%29.tif.jpg",
+      "death": {
+        "death": 2023
+      }
     }
   ],
   "02-03": [
@@ -699,7 +943,10 @@
       "type": "naissance",
       "year": 1904,
       "wiki": "https://fr.wikipedia.org/wiki/Dr._Seuss",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1991
+      }
     }
   ],
   "03-03": [
@@ -708,14 +955,20 @@
       "type": "naissance",
       "year": 1847,
       "wiki": "https://fr.wikipedia.org/wiki/Alexander_Graham_Bell",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/Alexander_Graham_Bell.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/Alexander_Graham_Bell.jpg",
+      "death": {
+        "death": 1922
+      }
     },
     {
       "name": "Jean Harlow",
       "type": "naissance",
       "year": 1911,
       "wiki": "https://fr.wikipedia.org/wiki/Jean_Harlow",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1937
+      }
     }
   ],
   "04-03": [
@@ -724,7 +977,10 @@
       "type": "naissance",
       "year": 1888,
       "wiki": "https://fr.wikipedia.org/wiki/Knute_Rockne",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1931
+      }
     }
   ],
   "05-03": [
@@ -733,14 +989,20 @@
       "type": "naissance",
       "year": 1908,
       "wiki": "https://fr.wikipedia.org/wiki/Rex_Harrison",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1990
+      }
     },
     {
       "name": "Rudolf Nureyev",
       "type": "naissance",
       "year": 1938,
       "wiki": "https://fr.wikipedia.org/wiki/Rudolf_Nureyev",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1993
+      }
     }
   ],
   "06-03": [
@@ -749,7 +1011,10 @@
       "type": "naissance",
       "year": 1475,
       "wiki": "https://fr.wikipedia.org/wiki/Michel-Ange",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1564
+      }
     }
   ],
   "07-03": [
@@ -758,7 +1023,10 @@
       "type": "naissance",
       "year": 1908,
       "wiki": "https://fr.wikipedia.org/wiki/Anna_Magnani",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1973
+      }
     }
   ],
   "08-03": [
@@ -767,14 +1035,20 @@
       "type": "naissance",
       "year": 1960,
       "wiki": "https://fr.wikipedia.org/wiki/Ayrton_Senna",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1994
+      }
     },
     {
       "name": "Simone Veil",
       "type": "naissance",
       "year": 1927,
       "wiki": "https://fr.wikipedia.org/wiki/Simone_Veil",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Official_portrait_of_Simone_Veil_%28cropped%29.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Official_portrait_of_Simone_Veil_%28cropped%29.jpg",
+      "death": {
+        "death": 2017
+      }
     }
   ],
   "09-03": [
@@ -783,7 +1057,10 @@
       "type": "naissance",
       "year": 1934,
       "wiki": "https://fr.wikipedia.org/wiki/Youri_Gagarine",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Yuri_Gagarin_%281961%29.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Yuri_Gagarin_%281961%29.jpg",
+      "death": {
+        "death": 1968
+      }
     }
   ],
   "10-03": [
@@ -792,14 +1069,20 @@
       "type": "naissance",
       "year": 1940,
       "wiki": "https://fr.wikipedia.org/wiki/Chuck_Norris",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/3/30/Chuck_Norris_May_2015.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/30/Chuck_Norris_May_2015.jpg",
+      "death": {
+        "death": null
+      }
     },
     {
       "name": "Sharon Stone",
       "type": "naissance",
       "year": 1958,
       "wiki": "https://fr.wikipedia.org/wiki/Sharon_Stone",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/0/06/Sharon_Stone_at_the_2026_Cannes_Film_Festival_%28cropped%29.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/06/Sharon_Stone_at_the_2026_Cannes_Film_Festival_%28cropped%29.jpg",
+      "death": {
+        "death": null
+      }
     }
   ],
   "11-03": [
@@ -808,7 +1091,10 @@
       "type": "naissance",
       "year": 1952,
       "wiki": "https://fr.wikipedia.org/wiki/Douglas_Adams",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/6/64/Douglas_adams_portrait.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/64/Douglas_adams_portrait.jpg",
+      "death": {
+        "death": 2001
+      }
     }
   ],
   "12-03": [
@@ -817,14 +1103,20 @@
       "type": "naissance",
       "year": 1946,
       "wiki": "https://fr.wikipedia.org/wiki/Liza_Minnelli",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Liza_Minnelli_Cabaret_1972_crop_3.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Liza_Minnelli_Cabaret_1972_crop_3.jpg",
+      "death": {
+        "death": null
+      }
     },
     {
       "name": "Gustav Kirchhoff",
       "type": "naissance",
       "year": 1824,
       "wiki": "https://fr.wikipedia.org/wiki/Gustav_Kirchhoff",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Gustav_Robert_Kirchhoff.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Gustav_Robert_Kirchhoff.jpg",
+      "death": {
+        "death": 1887
+      }
     }
   ],
   "13-03": [
@@ -833,7 +1125,10 @@
       "type": "naissance",
       "year": 1792,
       "wiki": "https://fr.wikipedia.org/wiki/Percy_Bysshe_Shelley",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/5/57/Percy_Bysshe_Shelley_by_Alfred_Clint.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/57/Percy_Bysshe_Shelley_by_Alfred_Clint.jpg",
+      "death": {
+        "death": 1822
+      }
     }
   ],
   "14-03": [
@@ -842,7 +1137,10 @@
       "type": "naissance",
       "year": 1879,
       "wiki": "https://fr.wikipedia.org/wiki/Albert_Einstein",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Albert_Einstein_Head_cleaned.jpg/3840px-Albert_Einstein_Head_cleaned.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Albert_Einstein_Head_cleaned.jpg/3840px-Albert_Einstein_Head_cleaned.jpg",
+      "death": {
+        "death": 1955
+      }
     }
   ],
   "15-03": [
@@ -851,14 +1149,20 @@
       "type": "naissance",
       "year": 1767,
       "wiki": "https://fr.wikipedia.org/wiki/Andrew_Jackson",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/4/43/Andrew_jackson_head.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/43/Andrew_jackson_head.jpg",
+      "death": {
+        "death": 1845
+      }
     },
     {
       "name": "Eva Longoria",
       "type": "naissance",
       "year": 1975,
       "wiki": "https://fr.wikipedia.org/wiki/Eva_Longoria",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "16-03": [
@@ -867,7 +1171,10 @@
       "type": "naissance",
       "year": 1926,
       "wiki": "https://fr.wikipedia.org/wiki/Jerry_Lewis",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 2017
+      }
     }
   ],
   "17-03": [
@@ -876,14 +1183,20 @@
       "type": "naissance",
       "year": 1919,
       "wiki": "https://fr.wikipedia.org/wiki/Nat_King_Cole",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1965
+      }
     },
     {
       "name": "Rudolf Nureyev",
       "type": "décès",
       "year": 1993,
       "wiki": "https://fr.wikipedia.org/wiki/Rudolf_Nureyev",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1993
+      }
     }
   ],
   "18-03": [
@@ -892,7 +1205,10 @@
       "type": "naissance",
       "year": 1837,
       "wiki": "https://fr.wikipedia.org/wiki/Grover_Cleveland",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1908
+      }
     }
   ],
   "19-03": [
@@ -901,7 +1217,10 @@
       "type": "naissance",
       "year": 1813,
       "wiki": "https://fr.wikipedia.org/wiki/David_Livingstone",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1873
+      }
     }
   ],
   "20-03": [
@@ -910,7 +1229,10 @@
       "type": "naissance",
       "year": 1890,
       "wiki": "https://fr.wikipedia.org/wiki/H._P._Lovecraft",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1937
+      }
     }
   ],
   "21-03": [
@@ -919,14 +1241,20 @@
       "type": "naissance",
       "year": 1685,
       "wiki": "https://fr.wikipedia.org/wiki/Johann_Sebastian_Bach",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1750
+      }
     },
     {
       "name": "Gary Oldman",
       "type": "naissance",
       "year": 1958,
       "wiki": "https://fr.wikipedia.org/wiki/Gary_Oldman",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "22-03": [
@@ -935,7 +1263,10 @@
       "type": "naissance",
       "year": 1976,
       "wiki": "https://fr.wikipedia.org/wiki/Reese_Witherspoon",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "23-03": [
@@ -944,7 +1275,10 @@
       "type": "naissance",
       "year": 1910,
       "wiki": "https://fr.wikipedia.org/wiki/Akira_Kurosawa",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/4/48/Akirakurosawa-onthesetof7samurai-1953-page88.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/48/Akirakurosawa-onthesetof7samurai-1953-page88.jpg",
+      "death": {
+        "death": 1998
+      }
     }
   ],
   "24-03": [
@@ -953,14 +1287,20 @@
       "type": "naissance",
       "year": 1930,
       "wiki": "https://fr.wikipedia.org/wiki/Steve_McQueen",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1980
+      }
     },
     {
       "name": "Joseph II du Saint-Empire",
       "type": "naissance",
       "year": 1741,
       "wiki": "https://fr.wikipedia.org/wiki/Joseph_II_(empereur_du_Saint-Empire)",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1790
+      }
     }
   ],
   "25-03": [
@@ -969,7 +1309,10 @@
       "type": "naissance",
       "year": 1947,
       "wiki": "https://fr.wikipedia.org/wiki/Elton_John",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "26-03": [
@@ -978,7 +1321,10 @@
       "type": "naissance",
       "year": 1911,
       "wiki": "https://fr.wikipedia.org/wiki/Tennessee_Williams",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1983
+      }
     }
   ],
   "27-03": [
@@ -987,14 +1333,20 @@
       "type": "naissance",
       "year": 1963,
       "wiki": "https://fr.wikipedia.org/wiki/Quentin_Tarantino",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     },
     {
       "name": "Mariah Carey",
       "type": "naissance",
       "year": 1969,
       "wiki": "https://fr.wikipedia.org/wiki/Mariah_Carey",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "28-03": [
@@ -1003,7 +1355,10 @@
       "type": "naissance",
       "year": 1921,
       "wiki": "https://fr.wikipedia.org/wiki/Dirk_Bogarde",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1999
+      }
     }
   ],
   "29-03": [
@@ -1012,7 +1367,10 @@
       "type": "naissance",
       "year": 1964,
       "wiki": "https://fr.wikipedia.org/wiki/Elle_Macpherson",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "30-03": [
@@ -1021,7 +1379,10 @@
       "type": "naissance",
       "year": 1853,
       "wiki": "https://fr.wikipedia.org/wiki/Vincent_van_Gogh",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1890
+      }
     }
   ],
   "31-03": [
@@ -1030,14 +1391,20 @@
       "type": "naissance",
       "year": 1596,
       "wiki": "https://fr.wikipedia.org/wiki/Ren%C3%A9_Descartes",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1650
+      }
     },
     {
       "name": "Christopher Walken",
       "type": "naissance",
       "year": 1943,
       "wiki": "https://fr.wikipedia.org/wiki/Christopher_Walken",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "01-04": [
@@ -1046,14 +1413,20 @@
       "type": "naissance",
       "year": 1928,
       "wiki": "https://fr.wikipedia.org/wiki/Serge_Gainsbourg",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1991
+      }
     },
     {
       "name": "Otto von Bismarck",
       "type": "naissance",
       "year": 1815,
       "wiki": "https://fr.wikipedia.org/wiki/Otto_von_Bismarck",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/Bundesarchiv_Bild_146-2005-0057%2C_Otto_von_Bismarck.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/10/Bundesarchiv_Bild_146-2005-0057%2C_Otto_von_Bismarck.jpg",
+      "death": {
+        "death": 1898
+      }
     }
   ],
   "02-04": [
@@ -1062,7 +1435,10 @@
       "type": "naissance",
       "year": 1840,
       "wiki": "https://fr.wikipedia.org/wiki/%C3%89mile_Zola",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1902
+      }
     }
   ],
   "03-04": [
@@ -1071,14 +1447,20 @@
       "type": "naissance",
       "year": 1924,
       "wiki": "https://fr.wikipedia.org/wiki/Marlon_Brando",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 2004
+      }
     },
     {
       "name": "Alec Guinness",
       "type": "naissance",
       "year": 1914,
       "wiki": "https://fr.wikipedia.org/wiki/Alec_Guinness",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 2000
+      }
     }
   ],
   "04-04": [
@@ -1087,7 +1469,10 @@
       "type": "naissance",
       "year": 1914,
       "wiki": "https://fr.wikipedia.org/wiki/Marguerite_Duras",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1996
+      }
     }
   ],
   "05-04": [
@@ -1096,7 +1481,10 @@
       "type": "naissance",
       "year": 1916,
       "wiki": "https://fr.wikipedia.org/wiki/Gregory_Peck",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 2003
+      }
     }
   ],
   "06-04": [
@@ -1105,7 +1493,10 @@
       "type": "naissance",
       "year": 1483,
       "wiki": "https://fr.wikipedia.org/wiki/Rapha%C3%ABl_(peintre)",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1520
+      }
     }
   ],
   "07-04": [
@@ -1114,14 +1505,20 @@
       "type": "naissance",
       "year": 1939,
       "wiki": "https://fr.wikipedia.org/wiki/Francis_Ford_Coppola",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     },
     {
       "name": "Jackie Chan",
       "type": "naissance",
       "year": 1954,
       "wiki": "https://fr.wikipedia.org/wiki/Jackie_Chan",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "08-04": [
@@ -1130,7 +1527,10 @@
       "type": "naissance",
       "year": 1968,
       "wiki": "https://fr.wikipedia.org/wiki/Patricia_Arquette",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "09-04": [
@@ -1139,14 +1539,20 @@
       "type": "naissance",
       "year": 1933,
       "wiki": "https://fr.wikipedia.org/wiki/Jean-Paul_Belmondo",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 2021
+      }
     },
     {
       "name": "Charles Baudelaire",
       "type": "naissance",
       "year": 1821,
       "wiki": "https://fr.wikipedia.org/wiki/Charles_Baudelaire",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1867
+      }
     }
   ],
   "10-04": [
@@ -1155,7 +1561,10 @@
       "type": "naissance",
       "year": 1932,
       "wiki": "https://fr.wikipedia.org/wiki/Omar_Sharif",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 2015
+      }
     }
   ],
   "11-04": [
@@ -1164,7 +1573,10 @@
       "type": "naissance",
       "year": 1961,
       "wiki": "https://fr.wikipedia.org/wiki/Eddie_Murphy",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "12-04": [
@@ -1173,7 +1585,10 @@
       "type": "naissance",
       "year": 1908,
       "wiki": "https://fr.wikipedia.org/wiki/Herbert_von_Karajan",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1989
+      }
     }
   ],
   "13-04": [
@@ -1182,7 +1597,10 @@
       "type": "naissance",
       "year": 1906,
       "wiki": "https://fr.wikipedia.org/wiki/Samuel_Beckett",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1989
+      }
     }
   ],
   "14-04": [
@@ -1191,14 +1609,20 @@
       "type": "naissance",
       "year": 1977,
       "wiki": "https://fr.wikipedia.org/wiki/Sarah_Michelle_Gellar",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     },
     {
       "name": "Abraham Lincoln (assassinat)",
       "type": "décès",
       "year": 1865,
       "wiki": "https://fr.wikipedia.org/wiki/Abraham_Lincoln",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1865
+      }
     }
   ],
   "15-04": [
@@ -1207,14 +1631,20 @@
       "type": "naissance",
       "year": 1452,
       "wiki": "https://fr.wikipedia.org/wiki/L%C3%A9onard_de_Vinci",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1519
+      }
     },
     {
       "name": "Émile Durkheim",
       "type": "naissance",
       "year": 1858,
       "wiki": "https://fr.wikipedia.org/wiki/%C3%89mile_Durkheim",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1917
+      }
     }
   ],
   "16-04": [
@@ -1223,7 +1653,10 @@
       "type": "naissance",
       "year": 1889,
       "wiki": "https://fr.wikipedia.org/wiki/Charlie_Chaplin",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Charlie_Chaplin_portrait_Getty_1739411952.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Charlie_Chaplin_portrait_Getty_1739411952.jpg",
+      "death": {
+        "death": 1977
+      }
     }
   ],
   "17-04": [
@@ -1232,7 +1665,10 @@
       "type": "naissance",
       "year": 1897,
       "wiki": "https://fr.wikipedia.org/wiki/Thornton_Wilder",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1975
+      }
     }
   ],
   "18-04": [
@@ -1241,7 +1677,10 @@
       "type": "naissance",
       "year": 1926,
       "wiki": "https://fr.wikipedia.org/wiki/%C3%89lisabeth_II",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 2022
+      }
     }
   ],
   "19-04": [
@@ -1250,7 +1689,10 @@
       "type": "naissance",
       "year": 1933,
       "wiki": "https://fr.wikipedia.org/wiki/Jayne_Mansfield",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1967
+      }
     }
   ],
   "20-04": [
@@ -1259,7 +1701,10 @@
       "type": "naissance",
       "year": 1889,
       "wiki": "https://fr.wikipedia.org/wiki/Adolf_Hitler",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1945
+      }
     }
   ],
   "21-04": [
@@ -1268,14 +1713,20 @@
       "type": "naissance",
       "year": 1926,
       "wiki": "https://fr.wikipedia.org/wiki/%C3%89lisabeth_II",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/6/68/Elizabeth_II_in_Berlin_2015_%28cropped%29.JPG"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/68/Elizabeth_II_in_Berlin_2015_%28cropped%29.JPG",
+      "death": {
+        "death": 2022
+      }
     },
     {
       "name": "Tony Danza",
       "type": "naissance",
       "year": 1951,
       "wiki": "https://fr.wikipedia.org/wiki/Tony_Danza",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "22-04": [
@@ -1284,7 +1735,10 @@
       "type": "naissance",
       "year": 1724,
       "wiki": "https://fr.wikipedia.org/wiki/Immanuel_Kant",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1804
+      }
     }
   ],
   "23-04": [
@@ -1293,14 +1747,20 @@
       "type": "naissance",
       "year": 1564,
       "wiki": "https://fr.wikipedia.org/wiki/William_Shakespeare",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1616
+      }
     },
     {
       "name": "Shirley Temple",
       "type": "naissance",
       "year": 1928,
       "wiki": "https://fr.wikipedia.org/wiki/Shirley_Temple",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 2014
+      }
     }
   ],
   "24-04": [
@@ -1309,7 +1769,10 @@
       "type": "naissance",
       "year": 1942,
       "wiki": "https://fr.wikipedia.org/wiki/Barbra_Streisand",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "25-04": [
@@ -1318,7 +1781,10 @@
       "type": "naissance",
       "year": 1940,
       "wiki": "https://fr.wikipedia.org/wiki/Al_Pacino",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "26-04": [
@@ -1327,7 +1793,10 @@
       "type": "naissance",
       "year": 121,
       "wiki": "https://fr.wikipedia.org/wiki/Marc_Aur%C3%A8le",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 180
+      }
     }
   ],
   "27-04": [
@@ -1336,7 +1805,10 @@
       "type": "naissance",
       "year": 1822,
       "wiki": "https://fr.wikipedia.org/wiki/Ulysses_S._Grant",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Ulysses_S._Grant_1870-1880.jpg/3840px-Ulysses_S._Grant_1870-1880.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Ulysses_S._Grant_1870-1880.jpg/3840px-Ulysses_S._Grant_1870-1880.jpg",
+      "death": {
+        "death": 1885
+      }
     }
   ],
   "28-04": [
@@ -1345,7 +1817,10 @@
       "type": "naissance",
       "year": 1974,
       "wiki": "https://fr.wikipedia.org/wiki/Pen%C3%A9lope_Cruz",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "29-04": [
@@ -1354,7 +1829,10 @@
       "type": "naissance",
       "year": 1957,
       "wiki": "https://fr.wikipedia.org/wiki/Daniel_Day-Lewis",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "30-04": [
@@ -1363,7 +1841,10 @@
       "type": "naissance",
       "year": 1564,
       "wiki": "https://fr.wikipedia.org/wiki/Galil%C3%A9e_(savant)",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1642
+      }
     }
   ],
   "01-05": [
@@ -1372,7 +1853,10 @@
       "type": "naissance",
       "year": 1881,
       "wiki": "https://fr.wikipedia.org/wiki/Pierre_Teilhard_de_Chardin",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1955
+      }
     }
   ],
   "02-05": [
@@ -1381,7 +1865,10 @@
       "type": "naissance",
       "year": 1946,
       "wiki": "https://fr.wikipedia.org/wiki/Lesley_Gore",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 2015
+      }
     }
   ],
   "03-05": [
@@ -1390,14 +1877,20 @@
       "type": "naissance",
       "year": 1898,
       "wiki": "https://fr.wikipedia.org/wiki/Golda_Meir",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1978
+      }
     },
     {
       "name": "James Brown",
       "type": "naissance",
       "year": 1933,
       "wiki": "https://fr.wikipedia.org/wiki/James_Brown",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 2006
+      }
     }
   ],
   "04-05": [
@@ -1406,7 +1899,10 @@
       "type": "naissance",
       "year": 1929,
       "wiki": "https://fr.wikipedia.org/wiki/Audrey_Hepburn",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1993
+      }
     }
   ],
   "05-05": [
@@ -1415,14 +1911,20 @@
       "type": "naissance",
       "year": 1818,
       "wiki": "https://fr.wikipedia.org/wiki/Karl_Marx",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1883
+      }
     },
     {
       "name": "Adele",
       "type": "naissance",
       "year": 1988,
       "wiki": "https://fr.wikipedia.org/wiki/Adele_(chanteuse)",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "06-05": [
@@ -1431,7 +1933,10 @@
       "type": "naissance",
       "year": 1856,
       "wiki": "https://fr.wikipedia.org/wiki/Sigmund_Freud",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1939
+      }
     }
   ],
   "07-05": [
@@ -1440,7 +1945,10 @@
       "type": "naissance",
       "year": 1833,
       "wiki": "https://fr.wikipedia.org/wiki/Johannes_Brahms",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1897
+      }
     }
   ],
   "08-05": [
@@ -1449,14 +1957,20 @@
       "type": "naissance",
       "year": 1884,
       "wiki": "https://fr.wikipedia.org/wiki/Harry_S._Truman",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1972
+      }
     },
     {
       "name": "Enrique Iglesias",
       "type": "naissance",
       "year": 1975,
       "wiki": "https://fr.wikipedia.org/wiki/Enrique_Iglesias",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "09-05": [
@@ -1465,7 +1979,10 @@
       "type": "naissance",
       "year": 1949,
       "wiki": "https://fr.wikipedia.org/wiki/Billy_Joel",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "10-05": [
@@ -1474,7 +1991,10 @@
       "type": "naissance",
       "year": 1899,
       "wiki": "https://fr.wikipedia.org/wiki/Fred_Astaire",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1987
+      }
     }
   ],
   "11-05": [
@@ -1483,7 +2003,10 @@
       "type": "naissance",
       "year": 1904,
       "wiki": "https://fr.wikipedia.org/wiki/Salvador_Dal%C3%AD",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1989
+      }
     }
   ],
   "12-05": [
@@ -1492,7 +2015,10 @@
       "type": "naissance",
       "year": 1907,
       "wiki": "https://fr.wikipedia.org/wiki/Katharine_Hepburn",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 2003
+      }
     }
   ],
   "13-05": [
@@ -1501,7 +2027,10 @@
       "type": "naissance",
       "year": 1950,
       "wiki": "https://fr.wikipedia.org/wiki/Stevie_Wonder",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "14-05": [
@@ -1510,7 +2039,10 @@
       "type": "naissance",
       "year": 1944,
       "wiki": "https://fr.wikipedia.org/wiki/George_Lucas",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "15-05": [
@@ -1519,7 +2051,10 @@
       "type": "naissance",
       "year": 1904,
       "wiki": "https://fr.wikipedia.org/wiki/Ren%C3%A9_Lacoste",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1996
+      }
     }
   ],
   "16-05": [
@@ -1528,7 +2063,10 @@
       "type": "naissance",
       "year": 1953,
       "wiki": "https://fr.wikipedia.org/wiki/Pierce_Brosnan",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "17-05": [
@@ -1537,7 +2075,10 @@
       "type": "naissance",
       "year": 1956,
       "wiki": "https://fr.wikipedia.org/wiki/Sugar_Ray_Leonard",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "18-05": [
@@ -1546,7 +2087,10 @@
       "type": "naissance",
       "year": 1920,
       "wiki": "https://fr.wikipedia.org/wiki/Jean-Paul_II",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 2005
+      }
     }
   ],
   "19-05": [
@@ -1555,7 +2099,10 @@
       "type": "naissance",
       "year": 1925,
       "wiki": "https://fr.wikipedia.org/wiki/Malcolm_X",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1965
+      }
     }
   ],
   "20-05": [
@@ -1564,7 +2111,10 @@
       "type": "naissance",
       "year": 1946,
       "wiki": "https://fr.wikipedia.org/wiki/Cher_(chanteuse)",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "21-05": [
@@ -1573,7 +2123,10 @@
       "type": "naissance",
       "year": 1921,
       "wiki": "https://fr.wikipedia.org/wiki/Andre%C3%AF_Sakharov",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/RIAN_archive_25981_Academician_Sakharov.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/RIAN_archive_25981_Academician_Sakharov.jpg",
+      "death": {
+        "death": 1989
+      }
     }
   ],
   "22-05": [
@@ -1582,7 +2135,10 @@
       "type": "naissance",
       "year": 1813,
       "wiki": "https://fr.wikipedia.org/wiki/Richard_Wagner",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1883
+      }
     }
   ],
   "23-05": [
@@ -1591,7 +2147,10 @@
       "type": "naissance",
       "year": 1577,
       "wiki": "https://fr.wikipedia.org/wiki/Pierre_Paul_Rubens",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1640
+      }
     }
   ],
   "24-05": [
@@ -1600,7 +2159,10 @@
       "type": "naissance",
       "year": 1941,
       "wiki": "https://fr.wikipedia.org/wiki/Bob_Dylan",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "25-05": [
@@ -1609,7 +2171,10 @@
       "type": "naissance",
       "year": 1939,
       "wiki": "https://fr.wikipedia.org/wiki/Ian_McKellen",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "26-05": [
@@ -1618,7 +2183,10 @@
       "type": "naissance",
       "year": 1907,
       "wiki": "https://fr.wikipedia.org/wiki/John_Wayne",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1979
+      }
     }
   ],
   "27-05": [
@@ -1627,7 +2195,10 @@
       "type": "naissance",
       "year": 1923,
       "wiki": "https://fr.wikipedia.org/wiki/Henry_Kissinger",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 2023
+      }
     }
   ],
   "28-05": [
@@ -1636,7 +2207,10 @@
       "type": "naissance",
       "year": 1908,
       "wiki": "https://fr.wikipedia.org/wiki/Ian_Fleming",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1964
+      }
     }
   ],
   "29-05": [
@@ -1645,7 +2219,10 @@
       "type": "naissance",
       "year": 1917,
       "wiki": "https://fr.wikipedia.org/wiki/John_F._Kennedy",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c3/John_F._Kennedy%2C_White_House_color_photo_portrait.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c3/John_F._Kennedy%2C_White_House_color_photo_portrait.jpg",
+      "death": {
+        "death": 1963
+      }
     }
   ],
   "30-05": [
@@ -1654,7 +2231,10 @@
       "type": "naissance",
       "year": 1819,
       "wiki": "https://fr.wikipedia.org/wiki/Walt_Whitman",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1892
+      }
     }
   ],
   "31-05": [
@@ -1663,7 +2243,10 @@
       "type": "naissance",
       "year": 1930,
       "wiki": "https://fr.wikipedia.org/wiki/Clint_Eastwood",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "01-06": [
@@ -1672,7 +2255,10 @@
       "type": "naissance",
       "year": 1926,
       "wiki": "https://fr.wikipedia.org/wiki/Marilyn_Monroe",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1962
+      }
     }
   ],
   "02-06": [
@@ -1681,7 +2267,10 @@
       "type": "naissance",
       "year": 1740,
       "wiki": "https://fr.wikipedia.org/wiki/Marquis_de_Sade",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/Marquis_de_sade.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/Marquis_de_sade.jpg",
+      "death": {
+        "death": 1814
+      }
     }
   ],
   "03-06": [
@@ -1690,7 +2279,10 @@
       "type": "naissance",
       "year": 1906,
       "wiki": "https://fr.wikipedia.org/wiki/Josephine_Baker",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1975
+      }
     }
   ],
   "04-06": [
@@ -1699,7 +2291,10 @@
       "type": "naissance",
       "year": 1975,
       "wiki": "https://fr.wikipedia.org/wiki/Angelina_Jolie",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "05-06": [
@@ -1708,7 +2303,10 @@
       "type": "naissance",
       "year": 1956,
       "wiki": "https://fr.wikipedia.org/wiki/Kenny_G",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "06-06": [
@@ -1717,7 +2315,10 @@
       "type": "naissance",
       "year": 1848,
       "wiki": "https://fr.wikipedia.org/wiki/Paul_Gauguin",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1903
+      }
     }
   ],
   "07-06": [
@@ -1726,7 +2327,10 @@
       "type": "naissance",
       "year": 1917,
       "wiki": "https://fr.wikipedia.org/wiki/Dean_Martin",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1995
+      }
     }
   ],
   "08-06": [
@@ -1735,7 +2339,10 @@
       "type": "naissance",
       "year": 1867,
       "wiki": "https://fr.wikipedia.org/wiki/Frank_Lloyd_Wright",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Frank_Lloyd_Wright_LC-USZ62-36384.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Frank_Lloyd_Wright_LC-USZ62-36384.jpg",
+      "death": {
+        "death": 1959
+      }
     }
   ],
   "09-06": [
@@ -1744,7 +2351,10 @@
       "type": "naissance",
       "year": 1963,
       "wiki": "https://fr.wikipedia.org/wiki/Johnny_Depp",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "10-06": [
@@ -1753,7 +2363,10 @@
       "type": "naissance",
       "year": 1922,
       "wiki": "https://fr.wikipedia.org/wiki/Judy_Garland",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1969
+      }
     }
   ],
   "11-06": [
@@ -1762,7 +2375,10 @@
       "type": "naissance",
       "year": 1864,
       "wiki": "https://fr.wikipedia.org/wiki/Richard_Strauss",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1949
+      }
     }
   ],
   "12-06": [
@@ -1771,7 +2387,10 @@
       "type": "naissance",
       "year": 1929,
       "wiki": "https://fr.wikipedia.org/wiki/Anne_Frank",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1945
+      }
     }
   ],
   "13-06": [
@@ -1780,7 +2399,10 @@
       "type": "naissance",
       "year": 1943,
       "wiki": "https://fr.wikipedia.org/wiki/Malcolm_McDowell",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "14-06": [
@@ -1789,7 +2411,10 @@
       "type": "naissance",
       "year": 1928,
       "wiki": "https://fr.wikipedia.org/wiki/Che_Guevara",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1967
+      }
     }
   ],
   "15-06": [
@@ -1798,7 +2423,10 @@
       "type": "événement associé",
       "year": 1953,
       "wiki": "https://fr.wikipedia.org/wiki/%C3%89lisabeth_II",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/6/68/Elizabeth_II_in_Berlin_2015_%28cropped%29.JPG"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/68/Elizabeth_II_in_Berlin_2015_%28cropped%29.JPG",
+      "death": {
+        "death": null
+      }
     }
   ],
   "16-06": [
@@ -1807,7 +2435,10 @@
       "type": "naissance",
       "year": 1890,
       "wiki": "https://fr.wikipedia.org/wiki/Stan_Laurel",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1965
+      }
     }
   ],
   "17-06": [
@@ -1816,7 +2447,10 @@
       "type": "naissance",
       "year": 1917,
       "wiki": "https://fr.wikipedia.org/wiki/Dean_Martin",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1995
+      }
     }
   ],
   "18-06": [
@@ -1825,7 +2459,10 @@
       "type": "naissance",
       "year": 1942,
       "wiki": "https://fr.wikipedia.org/wiki/Paul_McCartney",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "19-06": [
@@ -1834,7 +2471,10 @@
       "type": "naissance",
       "year": 1623,
       "wiki": "https://fr.wikipedia.org/wiki/Blaise_Pascal",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1662
+      }
     }
   ],
   "20-06": [
@@ -1843,7 +2483,10 @@
       "type": "naissance",
       "year": 1967,
       "wiki": "https://fr.wikipedia.org/wiki/Nicole_Kidman",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "21-06": [
@@ -1852,7 +2495,10 @@
       "type": "naissance",
       "year": 1935,
       "wiki": "https://fr.wikipedia.org/wiki/Fran%C3%A7oise_Sagan",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 2004
+      }
     }
   ],
   "22-06": [
@@ -1861,7 +2507,10 @@
       "type": "naissance",
       "year": 1899,
       "wiki": "https://fr.wikipedia.org/wiki/Vladimir_Nabokov",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1977
+      }
     }
   ],
   "23-06": [
@@ -1870,7 +2519,10 @@
       "type": "naissance",
       "year": 1912,
       "wiki": "https://fr.wikipedia.org/wiki/Alan_Turing",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1954
+      }
     }
   ],
   "24-06": [
@@ -1879,7 +2531,10 @@
       "type": "naissance",
       "year": 1895,
       "wiki": "https://fr.wikipedia.org/wiki/Jack_Dempsey",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1983
+      }
     }
   ],
   "25-06": [
@@ -1888,7 +2543,10 @@
       "type": "naissance",
       "year": 1903,
       "wiki": "https://fr.wikipedia.org/wiki/George_Orwell",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1950
+      }
     }
   ],
   "26-06": [
@@ -1897,7 +2555,10 @@
       "type": "naissance",
       "year": 1892,
       "wiki": "https://fr.wikipedia.org/wiki/Pearl_S._Buck",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1973
+      }
     }
   ],
   "27-06": [
@@ -1906,7 +2567,10 @@
       "type": "naissance",
       "year": 1880,
       "wiki": "https://fr.wikipedia.org/wiki/Helen_Keller",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1968
+      }
     }
   ],
   "28-06": [
@@ -1915,7 +2579,10 @@
       "type": "naissance",
       "year": 1926,
       "wiki": "https://fr.wikipedia.org/wiki/Mel_Brooks",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "29-06": [
@@ -1924,7 +2591,10 @@
       "type": "naissance",
       "year": 1900,
       "wiki": "https://fr.wikipedia.org/wiki/Antoine_de_Saint-Exup%C3%A9ry",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1944
+      }
     }
   ],
   "30-06": [
@@ -1933,7 +2603,10 @@
       "type": "naissance",
       "year": 1985,
       "wiki": "https://fr.wikipedia.org/wiki/Michael_Phelps",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Michael_Phelps_Rio_Olympics_2016.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Michael_Phelps_Rio_Olympics_2016.jpg",
+      "death": {
+        "death": null
+      }
     }
   ],
   "01-07": [
@@ -1942,7 +2615,10 @@
       "type": "naissance",
       "year": 1961,
       "wiki": "https://fr.wikipedia.org/wiki/Diana_Spencer",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1997
+      }
     }
   ],
   "02-07": [
@@ -1951,7 +2627,10 @@
       "type": "naissance",
       "year": 1877,
       "wiki": "https://fr.wikipedia.org/wiki/Hermann_Hesse",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1962
+      }
     }
   ],
   "03-07": [
@@ -1960,7 +2639,10 @@
       "type": "naissance",
       "year": 1962,
       "wiki": "https://fr.wikipedia.org/wiki/Tom_Cruise",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "04-07": [
@@ -1969,14 +2651,20 @@
       "type": "naissance",
       "year": 1807,
       "wiki": "https://fr.wikipedia.org/wiki/Giuseppe_Garibaldi",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1882
+      }
     },
     {
       "name": "Calvin Coolidge",
       "type": "naissance",
       "year": 1872,
       "wiki": "https://fr.wikipedia.org/wiki/Calvin_Coolidge",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1933
+      }
     }
   ],
   "05-07": [
@@ -1985,7 +2673,10 @@
       "type": "naissance",
       "year": 1810,
       "wiki": "https://fr.wikipedia.org/wiki/P._T._Barnum",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1891
+      }
     }
   ],
   "06-07": [
@@ -1994,7 +2685,10 @@
       "type": "naissance",
       "year": 1907,
       "wiki": "https://fr.wikipedia.org/wiki/Frida_Kahlo",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1954
+      }
     }
   ],
   "07-07": [
@@ -2003,7 +2697,10 @@
       "type": "naissance",
       "year": 1887,
       "wiki": "https://fr.wikipedia.org/wiki/Marc_Chagall",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1985
+      }
     }
   ],
   "08-07": [
@@ -2012,7 +2709,10 @@
       "type": "naissance",
       "year": 1839,
       "wiki": "https://fr.wikipedia.org/wiki/John_D._Rockefeller",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1937
+      }
     }
   ],
   "09-07": [
@@ -2021,7 +2721,10 @@
       "type": "naissance",
       "year": 1956,
       "wiki": "https://fr.wikipedia.org/wiki/Tom_Hanks",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "10-07": [
@@ -2030,14 +2733,20 @@
       "type": "naissance",
       "year": 1856,
       "wiki": "https://fr.wikipedia.org/wiki/Nikola_Tesla",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1943
+      }
     },
     {
       "name": "Jessica Simpson",
       "type": "naissance",
       "year": 1980,
       "wiki": "https://fr.wikipedia.org/wiki/Jessica_Simpson",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "11-07": [
@@ -2046,7 +2755,10 @@
       "type": "naissance",
       "year": 1899,
       "wiki": "https://fr.wikipedia.org/wiki/E._B._White",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1985
+      }
     }
   ],
   "12-07": [
@@ -2055,7 +2767,10 @@
       "type": "naissance",
       "year": 1817,
       "wiki": "https://fr.wikipedia.org/wiki/Henry_David_Thoreau",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Benjamin_D._Maxham_-_Henry_David_Thoreau_-_Restored.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Benjamin_D._Maxham_-_Henry_David_Thoreau_-_Restored.jpg",
+      "death": {
+        "death": 1862
+      }
     }
   ],
   "13-07": [
@@ -2064,7 +2779,10 @@
       "type": "naissance",
       "year": 1942,
       "wiki": "https://fr.wikipedia.org/wiki/Harrison_Ford",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "14-07": [
@@ -2073,7 +2791,10 @@
       "type": "naissance",
       "year": 1862,
       "wiki": "https://fr.wikipedia.org/wiki/Gustav_Klimt",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1918
+      }
     }
   ],
   "15-07": [
@@ -2082,7 +2803,10 @@
       "type": "naissance",
       "year": 1606,
       "wiki": "https://fr.wikipedia.org/wiki/Rembrandt",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1669
+      }
     }
   ],
   "16-07": [
@@ -2091,7 +2815,10 @@
       "type": "naissance",
       "year": 1872,
       "wiki": "https://fr.wikipedia.org/wiki/Roald_Amundsen",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1928
+      }
     }
   ],
   "17-07": [
@@ -2100,7 +2827,10 @@
       "type": "naissance",
       "year": 1952,
       "wiki": "https://fr.wikipedia.org/wiki/David_Hasselhoff",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "18-07": [
@@ -2109,7 +2839,10 @@
       "type": "naissance",
       "year": 1918,
       "wiki": "https://fr.wikipedia.org/wiki/Nelson_Mandela",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 2013
+      }
     }
   ],
   "19-07": [
@@ -2118,7 +2851,10 @@
       "type": "naissance",
       "year": 1947,
       "wiki": "https://fr.wikipedia.org/wiki/Brian_May",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "20-07": [
@@ -2127,7 +2863,10 @@
       "type": "naissance",
       "year": 1947,
       "wiki": "https://fr.wikipedia.org/wiki/Carlos_Santana",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "21-07": [
@@ -2136,7 +2875,10 @@
       "type": "naissance",
       "year": 1899,
       "wiki": "https://fr.wikipedia.org/wiki/Ernest_Hemingway",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/2/28/ErnestHemingway.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/28/ErnestHemingway.jpg",
+      "death": {
+        "death": 1961
+      }
     }
   ],
   "22-07": [
@@ -2145,7 +2887,10 @@
       "type": "naissance",
       "year": 1992,
       "wiki": "https://fr.wikipedia.org/wiki/Selena_Gomez",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "23-07": [
@@ -2154,7 +2899,10 @@
       "type": "naissance",
       "year": 1892,
       "wiki": "https://fr.wikipedia.org/wiki/Haile_Selassie",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1975
+      }
     }
   ],
   "24-07": [
@@ -2163,7 +2911,10 @@
       "type": "naissance",
       "year": 1824,
       "wiki": "https://fr.wikipedia.org/wiki/Alexandre_Dumas_fils",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1895
+      }
     }
   ],
   "25-07": [
@@ -2172,7 +2923,10 @@
       "type": "naissance",
       "year": 1896,
       "wiki": "https://fr.wikipedia.org/wiki/Ira_Gershwin",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1983
+      }
     }
   ],
   "26-07": [
@@ -2181,7 +2935,10 @@
       "type": "naissance",
       "year": 1875,
       "wiki": "https://fr.wikipedia.org/wiki/Carl_Gustav_Jung",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1961
+      }
     }
   ],
   "27-07": [
@@ -2190,7 +2947,10 @@
       "type": "naissance",
       "year": 1943,
       "wiki": "https://fr.wikipedia.org/wiki/Mick_Jagger",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "28-07": [
@@ -2199,7 +2959,10 @@
       "type": "naissance",
       "year": 1929,
       "wiki": "https://fr.wikipedia.org/wiki/Jacqueline_Kennedy_Onassis",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1994
+      }
     }
   ],
   "29-07": [
@@ -2208,7 +2971,10 @@
       "type": "naissance",
       "year": 1883,
       "wiki": "https://fr.wikipedia.org/wiki/Benito_Mussolini",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1945
+      }
     }
   ],
   "30-07": [
@@ -2217,7 +2983,10 @@
       "type": "naissance",
       "year": 1863,
       "wiki": "https://fr.wikipedia.org/wiki/Henry_Ford",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1947
+      }
     }
   ],
   "31-07": [
@@ -2226,7 +2995,10 @@
       "type": "naissance",
       "year": 1965,
       "wiki": "https://fr.wikipedia.org/wiki/J._K._Rowling",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "01-08": [
@@ -2235,7 +3007,10 @@
       "type": "naissance",
       "year": 1819,
       "wiki": "https://fr.wikipedia.org/wiki/Herman_Melville",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1891
+      }
     }
   ],
   "02-08": [
@@ -2244,7 +3019,10 @@
       "type": "naissance",
       "year": 1922,
       "wiki": "https://fr.wikipedia.org/wiki/Pierre_Cardin",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 2020
+      }
     }
   ],
   "03-08": [
@@ -2253,7 +3031,10 @@
       "type": "naissance",
       "year": 1940,
       "wiki": "https://fr.wikipedia.org/wiki/Martin_Sheen",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "04-08": [
@@ -2262,7 +3043,10 @@
       "type": "naissance",
       "year": 1901,
       "wiki": "https://fr.wikipedia.org/wiki/Louis_Armstrong",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1971
+      }
     }
   ],
   "05-08": [
@@ -2271,7 +3055,10 @@
       "type": "naissance",
       "year": 1930,
       "wiki": "https://fr.wikipedia.org/wiki/Neil_Armstrong",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Neil_Armstrong_pose.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Neil_Armstrong_pose.jpg",
+      "death": {
+        "death": 2012
+      }
     }
   ],
   "06-08": [
@@ -2280,7 +3067,10 @@
       "type": "naissance",
       "year": 1928,
       "wiki": "https://fr.wikipedia.org/wiki/Andy_Warhol",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1987
+      }
     }
   ],
   "07-08": [
@@ -2289,7 +3079,10 @@
       "type": "naissance",
       "year": 1975,
       "wiki": "https://fr.wikipedia.org/wiki/Charlize_Theron",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "08-08": [
@@ -2298,7 +3091,10 @@
       "type": "naissance",
       "year": 1937,
       "wiki": "https://fr.wikipedia.org/wiki/Dustin_Hoffman",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "09-08": [
@@ -2307,7 +3103,10 @@
       "type": "naissance",
       "year": 1963,
       "wiki": "https://fr.wikipedia.org/wiki/Whitney_Houston",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 2012
+      }
     }
   ],
   "10-08": [
@@ -2316,7 +3115,10 @@
       "type": "naissance",
       "year": 1960,
       "wiki": "https://fr.wikipedia.org/wiki/Antonio_Banderas",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "11-08": [
@@ -2325,7 +3127,10 @@
       "type": "naissance",
       "year": 1983,
       "wiki": "https://fr.wikipedia.org/wiki/Chris_Hemsworth",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "12-08": [
@@ -2334,7 +3139,10 @@
       "type": "naissance",
       "year": 1881,
       "wiki": "https://fr.wikipedia.org/wiki/Cecil_B._DeMille",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1959
+      }
     }
   ],
   "13-08": [
@@ -2343,7 +3151,10 @@
       "type": "naissance",
       "year": 1899,
       "wiki": "https://fr.wikipedia.org/wiki/Alfred_Hitchcock",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1980
+      }
     }
   ],
   "14-08": [
@@ -2352,7 +3163,10 @@
       "type": "naissance",
       "year": 1945,
       "wiki": "https://fr.wikipedia.org/wiki/Steve_Martin",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "15-08": [
@@ -2361,7 +3175,10 @@
       "type": "naissance",
       "year": 1808,
       "wiki": "https://fr.wikipedia.org/wiki/Napol%C3%A9on_III",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1873
+      }
     }
   ],
   "16-08": [
@@ -2370,7 +3187,10 @@
       "type": "naissance",
       "year": 1958,
       "wiki": "https://fr.wikipedia.org/wiki/Madonna",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "17-08": [
@@ -2379,7 +3199,10 @@
       "type": "naissance",
       "year": 1943,
       "wiki": "https://fr.wikipedia.org/wiki/Robert_De_Niro",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "18-08": [
@@ -2388,7 +3211,10 @@
       "type": "naissance",
       "year": 1933,
       "wiki": "https://fr.wikipedia.org/wiki/Roman_Polanski",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "19-08": [
@@ -2397,7 +3223,10 @@
       "type": "naissance",
       "year": 1946,
       "wiki": "https://fr.wikipedia.org/wiki/Bill_Clinton",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "20-08": [
@@ -2406,7 +3235,10 @@
       "type": "naissance",
       "year": 1948,
       "wiki": "https://fr.wikipedia.org/wiki/Robert_Plant",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d4/RPlantSavGraceIpswich140324_%285_of_12%29_%2853589044022%29_%28cropped%29.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d4/RPlantSavGraceIpswich140324_%285_of_12%29_%2853589044022%29_%28cropped%29.jpg",
+      "death": {
+        "death": null
+      }
     }
   ],
   "21-08": [
@@ -2415,7 +3247,10 @@
       "type": "naissance",
       "year": 1936,
       "wiki": "https://fr.wikipedia.org/wiki/Wilt_Chamberlain",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/8/80/Wilt_Chamberlain3_%28square_crop%29.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/80/Wilt_Chamberlain3_%28square_crop%29.jpg",
+      "death": {
+        "death": 1999
+      }
     }
   ],
   "22-08": [
@@ -2424,7 +3259,10 @@
       "type": "naissance",
       "year": 1893,
       "wiki": "https://fr.wikipedia.org/wiki/Dorothy_Parker",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/0/04/Young_Dorothy_Parker.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/04/Young_Dorothy_Parker.jpg",
+      "death": {
+        "death": 1967
+      }
     }
   ],
   "23-08": [
@@ -2433,7 +3271,10 @@
       "type": "naissance",
       "year": 1912,
       "wiki": "https://fr.wikipedia.org/wiki/Gene_Kelly",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/4/40/Gene_kelly.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/40/Gene_kelly.jpg",
+      "death": {
+        "death": 1996
+      }
     }
   ],
   "24-08": [
@@ -2442,7 +3283,10 @@
       "type": "naissance",
       "year": 1899,
       "wiki": "https://fr.wikipedia.org/wiki/Jorge_Luis_Borges",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/Jorge_Luis_Borges_1951%2C_by_Grete_Stern_%28full%29.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/Jorge_Luis_Borges_1951%2C_by_Grete_Stern_%28full%29.jpg",
+      "death": {
+        "death": 1986
+      }
     }
   ],
   "25-08": [
@@ -2451,7 +3295,10 @@
       "type": "naissance",
       "year": 1930,
       "wiki": "https://fr.wikipedia.org/wiki/Sean_Connery",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 2020
+      }
     }
   ],
   "26-08": [
@@ -2460,7 +3307,10 @@
       "type": "naissance",
       "year": 1910,
       "wiki": "https://fr.wikipedia.org/wiki/M%C3%A8re_Teresa",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Mutter_Teresa_von_Kalkutta.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Mutter_Teresa_von_Kalkutta.jpg",
+      "death": {
+        "death": 1997
+      }
     }
   ],
   "27-08": [
@@ -2469,7 +3319,10 @@
       "type": "naissance",
       "year": 1908,
       "wiki": "https://fr.wikipedia.org/wiki/Lyndon_B._Johnson",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1973
+      }
     }
   ],
   "28-08": [
@@ -2478,7 +3331,10 @@
       "type": "naissance",
       "year": 1749,
       "wiki": "https://fr.wikipedia.org/wiki/Johann_Wolfgang_von_Goethe",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Goethe_%28Stieler_1828%29.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Goethe_%28Stieler_1828%29.jpg",
+      "death": {
+        "death": 1832
+      }
     }
   ],
   "29-08": [
@@ -2487,7 +3343,10 @@
       "type": "naissance",
       "year": 1958,
       "wiki": "https://fr.wikipedia.org/wiki/Michael_Jackson",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 2009
+      }
     }
   ],
   "30-08": [
@@ -2496,7 +3355,10 @@
       "type": "naissance",
       "year": 1797,
       "wiki": "https://fr.wikipedia.org/wiki/Mary_Shelley",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Mary_Wollstonecraft_Shelley_Rothwell.tif/lossy-page1-1280px-Mary_Wollstonecraft_Shelley_Rothwell.tif.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Mary_Wollstonecraft_Shelley_Rothwell.tif/lossy-page1-1280px-Mary_Wollstonecraft_Shelley_Rothwell.tif.jpg",
+      "death": {
+        "death": 1851
+      }
     }
   ],
   "31-08": [
@@ -2505,7 +3367,10 @@
       "type": "naissance",
       "year": 1949,
       "wiki": "https://fr.wikipedia.org/wiki/Richard_Gere",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "01-09": [
@@ -2514,7 +3379,10 @@
       "type": "naissance",
       "year": 1949,
       "wiki": "https://fr.wikipedia.org/wiki/Richard_Gere",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/Actor_Richard_Gere_at_Oh%2C_Canada_Press_Conference_at_2024_Cannes_Film_Festival_%28cropped%29.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/Actor_Richard_Gere_at_Oh%2C_Canada_Press_Conference_at_2024_Cannes_Film_Festival_%28cropped%29.jpg",
+      "death": {
+        "death": null
+      }
     }
   ],
   "02-09": [
@@ -2523,7 +3391,10 @@
       "type": "naissance",
       "year": 1966,
       "wiki": "https://fr.wikipedia.org/wiki/Salma_Hayek",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "03-09": [
@@ -2532,7 +3403,10 @@
       "type": "naissance",
       "year": 1965,
       "wiki": "https://fr.wikipedia.org/wiki/Charlie_Sheen",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Charlie_Sheen_2012.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Charlie_Sheen_2012.jpg",
+      "death": {
+        "death": null
+      }
     }
   ],
   "04-09": [
@@ -2541,7 +3415,10 @@
       "type": "naissance",
       "year": 1981,
       "wiki": "https://fr.wikipedia.org/wiki/Beyonc%C3%A9",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "05-09": [
@@ -2550,7 +3427,10 @@
       "type": "naissance",
       "year": 1946,
       "wiki": "https://fr.wikipedia.org/wiki/Freddie_Mercury",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Freddie_Mercury_performing_in_New_Haven%2C_CT%2C_November_1977.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Freddie_Mercury_performing_in_New_Haven%2C_CT%2C_November_1977.jpg",
+      "death": {
+        "death": 1991
+      }
     }
   ],
   "06-09": [
@@ -2559,7 +3439,10 @@
       "type": "naissance",
       "year": 1758,
       "wiki": "https://fr.wikipedia.org/wiki/Maximilien_de_Robespierre",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/1/12/Robespierre.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/12/Robespierre.jpg",
+      "death": {
+        "death": 1794
+      }
     }
   ],
   "07-09": [
@@ -2568,7 +3451,10 @@
       "type": "naissance",
       "year": 1909,
       "wiki": "https://fr.wikipedia.org/wiki/Elia_Kazan",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Elia_Kazan.JPG"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Elia_Kazan.JPG",
+      "death": {
+        "death": 2003
+      }
     }
   ],
   "08-09": [
@@ -2577,7 +3463,10 @@
       "type": "naissance",
       "year": 1907,
       "wiki": "https://fr.wikipedia.org/wiki/Benny_Carter",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 2003
+      }
     }
   ],
   "09-09": [
@@ -2586,7 +3475,10 @@
       "type": "naissance",
       "year": 1966,
       "wiki": "https://fr.wikipedia.org/wiki/Adam_Sandler",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "10-09": [
@@ -2595,7 +3487,10 @@
       "type": "naissance",
       "year": 1968,
       "wiki": "https://fr.wikipedia.org/wiki/Guy_Ritchie",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "11-09": [
@@ -2604,7 +3499,10 @@
       "type": "naissance",
       "year": 1977,
       "wiki": "https://fr.wikipedia.org/wiki/Ludacris",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "12-09": [
@@ -2613,7 +3511,10 @@
       "type": "naissance",
       "year": 1944,
       "wiki": "https://fr.wikipedia.org/wiki/Barry_White",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 2003
+      }
     }
   ],
   "13-09": [
@@ -2622,7 +3523,10 @@
       "type": "naissance",
       "year": 1916,
       "wiki": "https://fr.wikipedia.org/wiki/Roald_Dahl",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1990
+      }
     }
   ],
   "14-09": [
@@ -2631,7 +3535,10 @@
       "type": "naissance",
       "year": 1983,
       "wiki": "https://fr.wikipedia.org/wiki/Amy_Winehouse",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 2011
+      }
     }
   ],
   "15-09": [
@@ -2640,7 +3547,10 @@
       "type": "naissance",
       "year": 1890,
       "wiki": "https://fr.wikipedia.org/wiki/Agatha_Christie",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1976
+      }
     }
   ],
   "16-09": [
@@ -2649,7 +3559,10 @@
       "type": "naissance",
       "year": 1925,
       "wiki": "https://fr.wikipedia.org/wiki/B._B._King",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 2015
+      }
     }
   ],
   "17-09": [
@@ -2658,7 +3571,10 @@
       "type": "naissance",
       "year": 1956,
       "wiki": "https://fr.wikipedia.org/wiki/David_Copperfield_(illusionniste)",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "18-09": [
@@ -2667,7 +3583,10 @@
       "type": "naissance",
       "year": 1905,
       "wiki": "https://fr.wikipedia.org/wiki/Greta_Garbo",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/0/07/Greta_Garbo_-_Ninotchka_1939.JPG"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/07/Greta_Garbo_-_Ninotchka_1939.JPG",
+      "death": {
+        "death": 1990
+      }
     }
   ],
   "19-09": [
@@ -2676,7 +3595,10 @@
       "type": "naissance",
       "year": 1974,
       "wiki": "https://fr.wikipedia.org/wiki/Jimmy_Fallon",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "20-09": [
@@ -2685,7 +3607,10 @@
       "type": "naissance",
       "year": 1934,
       "wiki": "https://fr.wikipedia.org/wiki/Sophia_Loren",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "21-09": [
@@ -2694,7 +3619,10 @@
       "type": "naissance",
       "year": 1947,
       "wiki": "https://fr.wikipedia.org/wiki/Stephen_King",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "22-09": [
@@ -2703,7 +3631,10 @@
       "type": "naissance",
       "year": 1950,
       "wiki": "https://fr.wikipedia.org/wiki/Bill_Murray",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "23-09": [
@@ -2712,7 +3643,10 @@
       "type": "naissance",
       "year": 1930,
       "wiki": "https://fr.wikipedia.org/wiki/Ray_Charles",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 2004
+      }
     }
   ],
   "24-09": [
@@ -2721,7 +3655,10 @@
       "type": "naissance",
       "year": 1936,
       "wiki": "https://fr.wikipedia.org/wiki/Jim_Henson",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1990
+      }
     }
   ],
   "25-09": [
@@ -2730,7 +3667,10 @@
       "type": "naissance",
       "year": 1968,
       "wiki": "https://fr.wikipedia.org/wiki/Will_Smith",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "26-09": [
@@ -2739,7 +3679,10 @@
       "type": "naissance",
       "year": 1948,
       "wiki": "https://fr.wikipedia.org/wiki/Olivia_Newton-John",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 2022
+      }
     }
   ],
   "27-09": [
@@ -2748,7 +3691,10 @@
       "type": "naissance",
       "year": 1722,
       "wiki": "https://fr.wikipedia.org/wiki/Samuel_Adams",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1803
+      }
     }
   ],
   "28-09": [
@@ -2757,7 +3703,10 @@
       "type": "naissance",
       "year": 1934,
       "wiki": "https://fr.wikipedia.org/wiki/Brigitte_Bardot",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "29-09": [
@@ -2766,7 +3715,10 @@
       "type": "décès",
       "year": 1616,
       "wiki": "https://fr.wikipedia.org/wiki/Miguel_de_Cervantes",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/0/09/Cervantes_J%C3%A1uregui.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/09/Cervantes_J%C3%A1uregui.jpg",
+      "death": {
+        "death": 1616
+      }
     }
   ],
   "30-09": [
@@ -2775,7 +3727,10 @@
       "type": "naissance",
       "year": 1964,
       "wiki": "https://fr.wikipedia.org/wiki/Monica_Bellucci",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "01-10": [
@@ -2784,7 +3739,10 @@
       "type": "naissance",
       "year": 1935,
       "wiki": "https://fr.wikipedia.org/wiki/Julie_Andrews",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "02-10": [
@@ -2793,7 +3751,10 @@
       "type": "naissance",
       "year": 1869,
       "wiki": "https://fr.wikipedia.org/wiki/Mohandas_Karamchand_Gandhi",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1948
+      }
     }
   ],
   "03-10": [
@@ -2802,7 +3763,10 @@
       "type": "naissance",
       "year": 1969,
       "wiki": "https://fr.wikipedia.org/wiki/Gwen_Stefani",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "04-10": [
@@ -2811,7 +3775,10 @@
       "type": "naissance",
       "year": 1895,
       "wiki": "https://fr.wikipedia.org/wiki/Buster_Keaton",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1966
+      }
     }
   ],
   "05-10": [
@@ -2820,7 +3787,10 @@
       "type": "naissance",
       "year": 1975,
       "wiki": "https://fr.wikipedia.org/wiki/Kate_Winslet",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "06-10": [
@@ -2829,7 +3799,10 @@
       "type": "naissance",
       "year": 1963,
       "wiki": "https://fr.wikipedia.org/wiki/Elisabeth_Shue",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/d/de/Elisabeth_Shue_at_the_2009_Tribeca_Film_Festival_2.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/de/Elisabeth_Shue_at_the_2009_Tribeca_Film_Festival_2.jpg",
+      "death": {
+        "death": null
+      }
     }
   ],
   "07-10": [
@@ -2838,7 +3811,10 @@
       "type": "naissance",
       "year": 1955,
       "wiki": "https://fr.wikipedia.org/wiki/Yo-Yo_Ma",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "08-10": [
@@ -2847,7 +3823,10 @@
       "type": "naissance",
       "year": 1970,
       "wiki": "https://fr.wikipedia.org/wiki/Matt_Damon",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "09-10": [
@@ -2856,7 +3835,10 @@
       "type": "naissance",
       "year": 1940,
       "wiki": "https://fr.wikipedia.org/wiki/John_Lennon",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1980
+      }
     }
   ],
   "10-10": [
@@ -2865,7 +3847,10 @@
       "type": "naissance",
       "year": 1917,
       "wiki": "https://fr.wikipedia.org/wiki/Thelonious_Monk",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1982
+      }
     }
   ],
   "11-10": [
@@ -2874,7 +3859,10 @@
       "type": "naissance",
       "year": 1884,
       "wiki": "https://fr.wikipedia.org/wiki/Eleanor_Roosevelt",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1962
+      }
     }
   ],
   "12-10": [
@@ -2883,7 +3871,10 @@
       "type": "naissance",
       "year": 1968,
       "wiki": "https://fr.wikipedia.org/wiki/Hugh_Jackman",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "13-10": [
@@ -2892,7 +3883,10 @@
       "type": "naissance",
       "year": 1941,
       "wiki": "https://fr.wikipedia.org/wiki/Paul_Simon",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "14-10": [
@@ -2901,7 +3895,10 @@
       "type": "naissance",
       "year": 1927,
       "wiki": "https://fr.wikipedia.org/wiki/Roger_Moore",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 2017
+      }
     }
   ],
   "15-10": [
@@ -2910,7 +3907,10 @@
       "type": "naissance",
       "year": 1844,
       "wiki": "https://fr.wikipedia.org/wiki/Friedrich_Nietzsche",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1900
+      }
     }
   ],
   "16-10": [
@@ -2919,7 +3919,10 @@
       "type": "naissance",
       "year": 1854,
       "wiki": "https://fr.wikipedia.org/wiki/Oscar_Wilde",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1900
+      }
     }
   ],
   "17-10": [
@@ -2928,7 +3931,10 @@
       "type": "naissance",
       "year": 1972,
       "wiki": "https://fr.wikipedia.org/wiki/Eminem",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "18-10": [
@@ -2937,7 +3943,10 @@
       "type": "naissance",
       "year": 1926,
       "wiki": "https://fr.wikipedia.org/wiki/Chuck_Berry",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 2017
+      }
     }
   ],
   "19-10": [
@@ -2946,7 +3955,10 @@
       "type": "naissance",
       "year": 1931,
       "wiki": "https://fr.wikipedia.org/wiki/John_le_Carr%C3%A9",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 2020
+      }
     }
   ],
   "20-10": [
@@ -2955,7 +3967,10 @@
       "type": "naissance",
       "year": 1971,
       "wiki": "https://fr.wikipedia.org/wiki/Snoop_Dogg",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "21-10": [
@@ -2964,7 +3979,10 @@
       "type": "naissance",
       "year": 1956,
       "wiki": "https://fr.wikipedia.org/wiki/Carrie_Fisher",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 2016
+      }
     }
   ],
   "22-10": [
@@ -2973,7 +3991,10 @@
       "type": "naissance",
       "year": 1952,
       "wiki": "https://fr.wikipedia.org/wiki/Jeff_Goldblum",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "23-10": [
@@ -2982,7 +4003,10 @@
       "type": "naissance",
       "year": 1881,
       "wiki": "https://fr.wikipedia.org/wiki/Pablo_Picasso",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1973
+      }
     }
   ],
   "24-10": [
@@ -2991,7 +4015,10 @@
       "type": "naissance",
       "year": 1947,
       "wiki": "https://fr.wikipedia.org/wiki/Kevin_Kline",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "25-10": [
@@ -3000,7 +4027,10 @@
       "type": "naissance",
       "year": 1876,
       "wiki": "https://fr.wikipedia.org/wiki/Pablo_Casals",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1973
+      }
     }
   ],
   "26-10": [
@@ -3009,7 +4039,10 @@
       "type": "naissance",
       "year": 1914,
       "wiki": "https://fr.wikipedia.org/wiki/Dylan_Thomas",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1953
+      }
     }
   ],
   "27-10": [
@@ -3018,7 +4051,10 @@
       "type": "naissance",
       "year": 1858,
       "wiki": "https://fr.wikipedia.org/wiki/Theodore_Roosevelt",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1919
+      }
     }
   ],
   "28-10": [
@@ -3027,7 +4063,10 @@
       "type": "naissance",
       "year": 1955,
       "wiki": "https://fr.wikipedia.org/wiki/Bill_Gates",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "29-10": [
@@ -3036,7 +4075,10 @@
       "type": "naissance",
       "year": 1971,
       "wiki": "https://fr.wikipedia.org/wiki/Winona_Ryder",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "30-10": [
@@ -3045,7 +4087,10 @@
       "type": "naissance",
       "year": 1945,
       "wiki": "https://fr.wikipedia.org/wiki/Henry_Winkler",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "31-10": [
@@ -3054,7 +4099,10 @@
       "type": "naissance",
       "year": 1795,
       "wiki": "https://fr.wikipedia.org/wiki/John_Keats",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1821
+      }
     }
   ],
   "01-11": [
@@ -3063,7 +4111,10 @@
       "type": "naissance",
       "year": 1871,
       "wiki": "https://fr.wikipedia.org/wiki/Stephen_Crane",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1900
+      }
     }
   ],
   "02-11": [
@@ -3072,7 +4123,10 @@
       "type": "décès",
       "year": 1793,
       "wiki": "https://fr.wikipedia.org/wiki/Marie-Antoinette_d%27Autriche",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1793
+      }
     }
   ],
   "03-11": [
@@ -3081,7 +4135,10 @@
       "type": "naissance",
       "year": 1921,
       "wiki": "https://fr.wikipedia.org/wiki/Charles_Bronson",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 2003
+      }
     }
   ],
   "04-11": [
@@ -3090,7 +4147,10 @@
       "type": "naissance",
       "year": 1969,
       "wiki": "https://fr.wikipedia.org/wiki/Matthew_McConaughey",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "05-11": [
@@ -3099,7 +4159,10 @@
       "type": "naissance",
       "year": 1913,
       "wiki": "https://fr.wikipedia.org/wiki/Vivien_Leigh",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1967
+      }
     }
   ],
   "06-11": [
@@ -3108,7 +4171,10 @@
       "type": "naissance",
       "year": 1988,
       "wiki": "https://fr.wikipedia.org/wiki/Emma_Stone",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "07-11": [
@@ -3117,7 +4183,10 @@
       "type": "décès",
       "year": 1934,
       "wiki": "https://fr.wikipedia.org/wiki/Marie_Curie",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1934
+      }
     }
   ],
   "08-11": [
@@ -3126,7 +4195,10 @@
       "type": "naissance",
       "year": 1935,
       "wiki": "https://fr.wikipedia.org/wiki/Alain_Delon",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 2024
+      }
     }
   ],
   "09-11": [
@@ -3135,7 +4207,10 @@
       "type": "naissance",
       "year": 1934,
       "wiki": "https://fr.wikipedia.org/wiki/Carl_Sagan",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1996
+      }
     }
   ],
   "10-11": [
@@ -3144,7 +4219,10 @@
       "type": "naissance",
       "year": 1483,
       "wiki": "https://fr.wikipedia.org/wiki/Martin_Luther",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Lucas_Cranach_d.%C3%84._%28Werkst.%29_-_Portr%C3%A4t_des_Martin_Luther_%28Lutherhaus_Wittenberg%29.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Lucas_Cranach_d.%C3%84._%28Werkst.%29_-_Portr%C3%A4t_des_Martin_Luther_%28Lutherhaus_Wittenberg%29.jpg",
+      "death": {
+        "death": 1546
+      }
     }
   ],
   "11-11": [
@@ -3153,7 +4231,10 @@
       "type": "naissance",
       "year": 1974,
       "wiki": "https://fr.wikipedia.org/wiki/Leonardo_DiCaprio",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "12-11": [
@@ -3162,7 +4243,10 @@
       "type": "naissance",
       "year": 1929,
       "wiki": "https://fr.wikipedia.org/wiki/Grace_Kelly",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1982
+      }
     }
   ],
   "13-11": [
@@ -3171,7 +4255,10 @@
       "type": "naissance",
       "year": 1955,
       "wiki": "https://fr.wikipedia.org/wiki/Whoopi_Goldberg",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "14-11": [
@@ -3180,7 +4267,10 @@
       "type": "naissance",
       "year": 1840,
       "wiki": "https://fr.wikipedia.org/wiki/Claude_Monet",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1926
+      }
     }
   ],
   "15-11": [
@@ -3189,7 +4279,10 @@
       "type": "naissance",
       "year": 1887,
       "wiki": "https://fr.wikipedia.org/wiki/Georgia_O%27Keeffe",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1986
+      }
     }
   ],
   "16-11": [
@@ -3198,7 +4291,10 @@
       "type": "naissance",
       "year": 1977,
       "wiki": "https://fr.wikipedia.org/wiki/Maggie_Gyllenhaal",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "17-11": [
@@ -3207,7 +4303,10 @@
       "type": "naissance",
       "year": 1944,
       "wiki": "https://fr.wikipedia.org/wiki/Danny_DeVito",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "18-11": [
@@ -3216,7 +4315,10 @@
       "type": "naissance",
       "year": 1968,
       "wiki": "https://fr.wikipedia.org/wiki/Owen_Wilson",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "19-11": [
@@ -3225,7 +4327,10 @@
       "type": "naissance",
       "year": 1917,
       "wiki": "https://fr.wikipedia.org/wiki/Indira_Gandhi",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1984
+      }
     }
   ],
   "20-11": [
@@ -3234,7 +4339,10 @@
       "type": "naissance",
       "year": 1942,
       "wiki": "https://fr.wikipedia.org/wiki/Joe_Biden",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "21-11": [
@@ -3243,7 +4351,10 @@
       "type": "naissance",
       "year": 1694,
       "wiki": "https://fr.wikipedia.org/wiki/Voltaire",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1778
+      }
     }
   ],
   "22-11": [
@@ -3252,7 +4363,10 @@
       "type": "naissance",
       "year": 1984,
       "wiki": "https://fr.wikipedia.org/wiki/Scarlett_Johansson",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "23-11": [
@@ -3261,7 +4375,10 @@
       "type": "naissance",
       "year": 1804,
       "wiki": "https://fr.wikipedia.org/wiki/Franklin_Pierce",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1869
+      }
     }
   ],
   "24-11": [
@@ -3270,7 +4387,10 @@
       "type": "naissance",
       "year": 1868,
       "wiki": "https://fr.wikipedia.org/wiki/Scott_Joplin",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1917
+      }
     }
   ],
   "25-11": [
@@ -3279,7 +4399,10 @@
       "type": "naissance",
       "year": 1971,
       "wiki": "https://fr.wikipedia.org/wiki/Christina_Applegate",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "26-11": [
@@ -3288,7 +4411,10 @@
       "type": "naissance",
       "year": 1922,
       "wiki": "https://fr.wikipedia.org/wiki/Charles_M._Schulz",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 2000
+      }
     }
   ],
   "27-11": [
@@ -3297,7 +4423,10 @@
       "type": "naissance",
       "year": 1940,
       "wiki": "https://fr.wikipedia.org/wiki/Bruce_Lee",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1973
+      }
     }
   ],
   "28-11": [
@@ -3306,7 +4435,10 @@
       "type": "naissance",
       "year": 1757,
       "wiki": "https://fr.wikipedia.org/wiki/William_Blake",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1827
+      }
     }
   ],
   "29-11": [
@@ -3315,7 +4447,10 @@
       "type": "naissance",
       "year": 1898,
       "wiki": "https://fr.wikipedia.org/wiki/C._S._Lewis",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/2/27/CS_Lewis_photo_on_dust_jacket.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/27/CS_Lewis_photo_on_dust_jacket.jpg",
+      "death": {
+        "death": 1963
+      }
     }
   ],
   "30-11": [
@@ -3324,7 +4459,10 @@
       "type": "naissance",
       "year": 1874,
       "wiki": "https://fr.wikipedia.org/wiki/Winston_Churchill",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1965
+      }
     }
   ],
   "01-12": [
@@ -3333,7 +4471,10 @@
       "type": "naissance",
       "year": 1935,
       "wiki": "https://fr.wikipedia.org/wiki/Woody_Allen",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "02-12": [
@@ -3342,7 +4483,10 @@
       "type": "naissance",
       "year": 1923,
       "wiki": "https://fr.wikipedia.org/wiki/Maria_Callas",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Maria_Callas_1958.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Maria_Callas_1958.jpg",
+      "death": {
+        "death": 1977
+      }
     }
   ],
   "03-12": [
@@ -3351,7 +4495,10 @@
       "type": "naissance",
       "year": 1960,
       "wiki": "https://fr.wikipedia.org/wiki/Julianne_Moore",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "04-12": [
@@ -3360,7 +4507,10 @@
       "type": "naissance",
       "year": 1969,
       "wiki": "https://fr.wikipedia.org/wiki/Jay-Z",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "05-12": [
@@ -3369,7 +4519,10 @@
       "type": "naissance",
       "year": 1901,
       "wiki": "https://fr.wikipedia.org/wiki/Walt_Disney",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1966
+      }
     }
   ],
   "06-12": [
@@ -3378,7 +4531,10 @@
       "type": "naissance",
       "year": 1946,
       "wiki": "https://fr.wikipedia.org/wiki/Gianni_Versace",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Versacemansiondetail_%28cropped%29.JPG"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Versacemansiondetail_%28cropped%29.JPG",
+      "death": {
+        "death": 1997
+      }
     }
   ],
   "07-12": [
@@ -3387,7 +4543,10 @@
       "type": "naissance",
       "year": 1956,
       "wiki": "https://fr.wikipedia.org/wiki/Larry_Bird",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "08-12": [
@@ -3396,7 +4555,10 @@
       "type": "naissance",
       "year": 1943,
       "wiki": "https://fr.wikipedia.org/wiki/Jim_Morrison",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1971
+      }
     }
   ],
   "09-12": [
@@ -3405,7 +4567,10 @@
       "type": "naissance",
       "year": 1953,
       "wiki": "https://fr.wikipedia.org/wiki/John_Malkovich",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "10-12": [
@@ -3414,7 +4579,10 @@
       "type": "naissance",
       "year": 1830,
       "wiki": "https://fr.wikipedia.org/wiki/Emily_Dickinson",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1886
+      }
     }
   ],
   "11-12": [
@@ -3423,7 +4591,10 @@
       "type": "naissance",
       "year": 1944,
       "wiki": "https://fr.wikipedia.org/wiki/Teri_Garr",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "12-12": [
@@ -3432,7 +4603,10 @@
       "type": "naissance",
       "year": 1915,
       "wiki": "https://fr.wikipedia.org/wiki/Frank_Sinatra",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1998
+      }
     }
   ],
   "13-12": [
@@ -3441,7 +4615,10 @@
       "type": "naissance",
       "year": 1989,
       "wiki": "https://fr.wikipedia.org/wiki/Taylor_Swift",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "14-12": [
@@ -3450,7 +4627,10 @@
       "type": "naissance",
       "year": 1946,
       "wiki": "https://fr.wikipedia.org/wiki/Jane_Birkin",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 2023
+      }
     }
   ],
   "15-12": [
@@ -3459,7 +4639,10 @@
       "type": "naissance",
       "year": 1949,
       "wiki": "https://fr.wikipedia.org/wiki/Don_Johnson",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "16-12": [
@@ -3468,7 +4651,10 @@
       "type": "baptême approximatif",
       "year": 1770,
       "wiki": "https://fr.wikipedia.org/wiki/Ludwig_van_Beethoven",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1827
+      }
     }
   ],
   "17-12": [
@@ -3477,7 +4663,10 @@
       "type": "naissance",
       "year": 1975,
       "wiki": "https://fr.wikipedia.org/wiki/Milla_Jovovich",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "18-12": [
@@ -3486,7 +4675,10 @@
       "type": "naissance",
       "year": 1946,
       "wiki": "https://fr.wikipedia.org/wiki/Steven_Spielberg",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "19-12": [
@@ -3495,7 +4687,10 @@
       "type": "naissance",
       "year": 1922,
       "wiki": "https://fr.wikipedia.org/wiki/Ava_Gardner",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/Ava_Gardner_Show_Boat_1951.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/Ava_Gardner_Show_Boat_1951.jpg",
+      "death": {
+        "death": 1990
+      }
     }
   ],
   "20-12": [
@@ -3504,7 +4699,10 @@
       "type": "naissance",
       "year": 1982,
       "wiki": "https://fr.wikipedia.org/wiki/David_Cook",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "21-12": [
@@ -3513,7 +4711,10 @@
       "type": "naissance",
       "year": 1937,
       "wiki": "https://fr.wikipedia.org/wiki/Jane_Fonda",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "22-12": [
@@ -3522,7 +4723,10 @@
       "type": "naissance",
       "year": 1962,
       "wiki": "https://fr.wikipedia.org/wiki/Ralph_Fiennes",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "23-12": [
@@ -3531,7 +4735,10 @@
       "type": "naissance",
       "year": 1929,
       "wiki": "https://fr.wikipedia.org/wiki/Chet_Baker",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1988
+      }
     }
   ],
   "24-12": [
@@ -3540,7 +4747,10 @@
       "type": "info culturelle",
       "year": 0,
       "wiki": "https://fr.wikipedia.org/wiki/Ava_Gardner",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/Ava_Gardner_Show_Boat_1951.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/Ava_Gardner_Show_Boat_1951.jpg",
+      "death": {
+        "death": 1990
+      }
     }
   ],
   "25-12": [
@@ -3549,7 +4759,10 @@
       "type": "naissance",
       "year": 1899,
       "wiki": "https://fr.wikipedia.org/wiki/Humphrey_Bogart",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1957
+      }
     }
   ],
   "26-12": [
@@ -3558,7 +4771,10 @@
       "type": "naissance",
       "year": 1893,
       "wiki": "https://fr.wikipedia.org/wiki/Mao_Zedong",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Mao_Tse_Tung.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Mao_Tse_Tung.jpg",
+      "death": {
+        "death": 1976
+      }
     }
   ],
   "27-12": [
@@ -3567,7 +4783,10 @@
       "type": "naissance",
       "year": 1901,
       "wiki": "https://fr.wikipedia.org/wiki/Marlene_Dietrich",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1992
+      }
     }
   ],
   "28-12": [
@@ -3576,7 +4795,10 @@
       "type": "naissance",
       "year": 1856,
       "wiki": "https://fr.wikipedia.org/wiki/Woodrow_Wilson",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": 1924
+      }
     }
   ],
   "29-12": [
@@ -3585,7 +4807,10 @@
       "type": "naissance",
       "year": 1972,
       "wiki": "https://fr.wikipedia.org/wiki/Jude_Law",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ],
   "30-12": [
@@ -3594,7 +4819,10 @@
       "type": "naissance",
       "year": 1865,
       "wiki": "https://fr.wikipedia.org/wiki/Rudyard_Kipling",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/0/07/Kipling_nd.jpg"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/07/Kipling_nd.jpg",
+      "death": {
+        "death": 1936
+      }
     }
   ],
   "31-12": [
@@ -3603,7 +4831,10 @@
       "type": "naissance",
       "year": 1937,
       "wiki": "https://fr.wikipedia.org/wiki/Anthony_Hopkins",
-      "image": ""
+      "image": "",
+      "death": {
+        "death": null
+      }
     }
   ]
 }
