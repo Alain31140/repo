@@ -3248,7 +3248,7 @@
         "titre": "Dune",
         "createur": "Frank Herbert",
         "annee": 1965,
-        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Dunes5.JPG/330px-Dunes5.JPG",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Dunes5./330px-Dunes5.JPG",
         "lien": "",
         "wiki": "https://fr.wikipedia.org/wiki/Dune"
       }
@@ -3342,7 +3342,7 @@
         "titre": "Thriller",
         "createur": "Michael Jackson",
         "annee": 1982,
-        "image": "",
+        "image": "the_dark_side_of_the_moon.jpg",
         "lien": ""
       },
       {
@@ -3350,7 +3350,7 @@
         "titre": "Tintin : Objectif Lune",
         "createur": "Hergé",
         "annee": 1953,
-        "image": "",
+        "image": "tintin_au_tibet.jpg",
         "lien": ""
       }
     ]
