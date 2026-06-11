@@ -3342,7 +3342,7 @@
         "titre": "Thriller",
         "createur": "Michael Jackson",
         "annee": 1982,
-        "image": "images/culture/les_temps_modernes.jpg",
+        "image": "",
         "lien": ""
       },
       {
@@ -3350,7 +3350,7 @@
         "titre": "Tintin : Objectif Lune",
         "createur": "Hergé",
         "annee": 1953,
-        "image": "images/culture/tintin_au_tibet.jpg",
+        "image": "",
         "lien": ""
       }
     ]
