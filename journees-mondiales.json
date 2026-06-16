@@ -83,7 +83,7 @@
 "13-06":{"label":"Journée internationale de sensibilisation à l'albinisme","type":"journee"},
 "14-06":{"label":"Journée mondiale du donneur de sang","type":"journee","image":"donneur-sang.png"},
 "15-06":{"label":"Journée mondiale de sensibilisation à la maltraitance des personnes âgées","type":"journee","image":"personnes-agees.png"},
-"16-06":{"label":"Journée internationale des envois de fonds familiaux","type":"journee"},
+"16-06":{"label":"Journée internationale des envois de fonds familiaux","type":"journee","image":"abeille.png"},
 "17-06":{"label":"Journée mondiale de la lutte contre la désertification et la sécheresse","type":"journee","image":"desertification.png"},
 "18-06":{"label":"Journée internationale de la lutte contre les discours de haine | Journée de la gastronomie durable","type":"journee","image":"gastronomie.png"},
 "19-06":{"label":"Journée internationale pour l'élimination de la violence sexuelle en temps de conflit","type":"journee"},
