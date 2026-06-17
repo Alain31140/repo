@@ -1,0 +1,78 @@
+{
+  "fermeture_hiver": {
+    "start": "23-02-2026",
+    "end": "27-02-2026",
+    "text": "Pas de cours",
+    "color": "fermeture"
+  },
+
+  "stage_natation": {
+    "start": "02-03-2026",
+    "end": "06-03-2026",
+    "text": "Pas de cours\nStage Natation Adultes",
+    "color": "stage"
+  },
+
+  "portes_ouvertes": {
+    "start": "25-03-2026",
+    "end": "27-03-2026",
+    "text": "Portes ouvertes",
+    "color": "evenement"
+  },
+
+  "raison_technique": {
+    "start": "17-04-2026",
+    "end": "18-04-2026",
+    "text": "Pas de cours\nRaison technique",
+    "color": "fermeture"
+  },
+
+  "vidange_bassin": {
+    "start": "20-04-2026",
+    "end": "24-04-2026",
+    "text": "Pas de cours\nVidange bassin",
+    "color": "fermeture"
+  },
+
+  "stage_aqua_gym": {
+    "start": "27-04-2026",
+    "end": "29-04-2026",
+    "text": "Pas de cours\nStage Aqua-Gym",
+    "color": "stage"
+  },
+
+  "fete_du_club": {
+    "start": "30-05-2026",
+    "end": "30-05-2026",
+    "text": "Fête du Club",
+    "color": "evenement"
+  },
+
+  "reinscriptions": {
+    "start": "01-06-2026",
+    "end": "17-06-2026",
+    "text": "Fournir les dossiers de réinscription",
+    "color": "reinscription"
+  },
+
+  "soiree_reinscription": {
+    "start": "19-06-2026",
+    "end": "19-06-2026",
+    "text": "Soirée réinscription",
+    "color": "reinscription"
+  },
+
+  "assemblee_generale": {
+    "start": "25-06-2026",
+    "end": "25-06-2026",
+    "text": "Assemblée Générale",
+    "color": "evenement"
+  },
+
+  "fin_des_cours": {
+    "start": "29-06-2026",
+    "end": "30-06-2026",
+    "text": "Fin des cours",
+    "color": "fermeture"
+  }
+}
