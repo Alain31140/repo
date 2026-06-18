@@ -10,49 +10,49 @@
     "start": "02-03-2026",
     "end": "06-03-2026",
     "text": "Pas de cours\nStage Natation Adultes",
-    "color": "stage"
+    "color": "bleu"
   },
 
   "portes_ouvertes": {
     "start": "25-03-2026",
     "end": "27-03-2026",
     "text": "Portes ouvertes",
-    "color": "evenement"
+    "color": "rouge"
   },
 
   "raison_technique": {
     "start": "17-04-2026",
     "end": "18-04-2026",
     "text": "Pas de cours\nRaison technique",
-    "color": "fermeture"
+    "color": "bleu"
   },
 
   "vidange_bassin": {
     "start": "20-04-2026",
     "end": "24-04-2026",
     "text": "Pas de cours\nVidange bassin",
-    "color": "fermeture"
+    "color": "bleu"
   },
 
   "stage_aqua_gym": {
     "start": "27-04-2026",
     "end": "29-04-2026",
     "text": "Pas de cours\nStage Aqua-Gym",
-    "color": "stage"
+    "color": "bleu"
   },
 
   "fete_du_club": {
     "start": "30-05-2026",
     "end": "30-05-2026",
     "text": "Fête du Club",
-    "color": "evenement"
+    "color": "orange"
   },
 
   "reinscriptions": {
     "start": "01-06-2026",
     "end": "17-06-2026",
     "text": "Fournir les dossiers de réinscription",
-    "color": "reinscription"
+    "color": "jaune"
   },
 
   "soiree_reinscription": {
