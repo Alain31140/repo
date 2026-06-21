@@ -10,5 +10,17 @@
   "es": {
     "welcome": "Hola y bienvenido a mi calendario",
     "flag": "🇪🇸"
+  },
+  "it": {
+    "welcome": "Ciao e benvenuto nel mio calendario",
+    "flag": "🇮🇹"
+  },
+  "de": {
+    "welcome": "Hallo und willkommen in meinem Kalender",
+    "flag": "🇩🇪"
+  },
+  "nl": {
+    "welcome": "Hallo en welkom bij mijn kalender",
+    "flag": "🇳🇱"
   }
 }
