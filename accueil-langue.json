@@ -1,5 +1,5 @@
 {
-  "en": {
+  "es": {
     "welcome": "Bonjour et bienvenue sur mon calendrier",
     "flag": "🇫🇷"
   },
@@ -7,7 +7,7 @@
     "welcome": "Hello and welcome to my calendar",
     "flag": "🇬🇧"
   },
-  "es": {
+  "fr": {
     "welcome": "Hola y bienvenido a mi calendario",
     "flag": "🇪🇸"
   },
