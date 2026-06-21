@@ -1,14 +1,14 @@
 {
   "fr": {
-    "welcome": "Bonjour et bienvenue sur mon calendrier"
+    "welcome": "Bonjour et bienvenue sur mon calendrier",
+    "flag": "🇫🇷"
   },
   "en": {
-    "welcome": "Hello and welcome to my calendar"
+    "welcome": "Hello and welcome to my calendar",
+    "flag": "🇬🇧"
   },
   "es": {
-    "welcome": "Buenos días y bienvenido a mi calendario"
-  },
-  "de": {
-    "welcome": "Guten Tag und willkommen in meinem Kalender"
+    "welcome": "Hola y bienvenido a mi calendario",
+    "flag": "🇪🇸"
   }
 }
