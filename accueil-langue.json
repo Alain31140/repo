@@ -1,31 +1,31 @@
 {
   "fr": {
-    "welcome": "Bonjour et bienvenue sur mon calendrier",
+    "welcome": "Bonjour et bienvenue",
     "visites": "Déjà {compteur} curieux ont découvert mon calendrier",
     "flag": "🇫🇷"
   },
   "en": {
-    "welcome": "Hello and welcome to my calendar",
+    "welcome": "Hello and welcome",
     "visites": "Already {compteur} curious visitors have discovered my calendar",
     "flag": "🇬🇧"
   },
   "es": {
-    "welcome": "Hola y bienvenido a mi calendario",
+    "welcome": "Hola y bienvenido",
     "visites": "Ya {compteur} curiosos han descubierto mi calendario",
     "flag": "🇪🇸"
   },
   "it": {
-    "welcome": "Ciao e benvenuto nel mio calendario",
+    "welcome": "Ciao e benvenuto",
     "visites": "Già {compteur} curiosi hanno scoperto il mio calendario",
     "flag": "🇮🇹"
   },
   "de": {
-    "welcome": "Hallo und willkommen in meinem Kalender",
+    "welcome": "Hallo und willkommen",
     "visites": "Bereits {compteur} Neugierige haben meinen Kalender entdeckt",
     "flag": "🇩🇪"
   },
   "nl": {
-    "welcome": "Hallo en welkom bij mijn kalender",
+    "welcome": "Hallo en welkom",
     "visites": "Al {compteur} nieuwsgierigen hebben mijn kalender ontdekt",
     "flag": "🇳🇱"
   }
