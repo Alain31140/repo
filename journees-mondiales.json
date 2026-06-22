@@ -89,6 +89,7 @@
 "19-06":{"label":"Journée internationale pour l'élimination de la violence sexuelle en temps de conflit","type":"journee"},
 "20-06":{"label":"Journée mondiale des réfugiés","type":"journee","image":"refugies.png"},
 "21-06":{"label":"Journée internationale de la célébration du solstice | Journée internationale du Yoga","type":"journee","image":"yoga.png"},
+"22-06":{"label":"Journée nationale de réflexion sur le don d'organes et la greffe","type":"journee"},  
 "23-06":{"label":"Journée des Nations Unies pour la fonction publique | Journée internationale des veuves","type":"journee"},
 "24-06":{"label":"Journée internationale des femmes dans la diplomatie","type":"journee","image":"diplomatie.png"},
 "25-06":{"label":"Journée des gens de mer","type":"journee","image":"gens-mer.png"},
