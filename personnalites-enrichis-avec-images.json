@@ -3471,7 +3471,7 @@
     "type": "naissance",
     "year": 1908,
     "death": 1974,
-    "job": industriel, humanitaire",
+    "job": "industriel, humanitaire",
     "wiki": "https://fr.wikipedia.org/wiki/Oskar_Schindler",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Oskar_Schindler.jpg"
   },
@@ -3501,7 +3501,7 @@
     "type": "naissance",
     "year": 1863,
     "death": 1951,
-    "job": magnat de la presse",
+    "job": "magnat de la presse",
     "wiki": "https://fr.wikipedia.org/wiki/William_Randolph_Hearst",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/William_Randolph_Hearst.jpg"
   },
@@ -4150,6 +4150,7 @@
     "wiki": "https://fr.wikipedia.org/wiki/Timothy_Olyphant",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Timothy_Olyphant_2013.jpg"
   }
+  ],
 "21-05": [
   {
     "name": "Clint Eastwood",
@@ -6974,6 +6975,7 @@
     "wiki": "https://fr.wikipedia.org/wiki/Michael_Douglas",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Michael_Douglas_2013.jpg"
   }
+  ],
 "26-09": [
   {
     "name": "Olivia Newton-John",
