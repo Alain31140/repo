@@ -28,7 +28,6 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Paul_Revere.jpg"
   }
 ],
-
 "02-01": [
   {
     "name": "Giovanni Battista Pergolesi",
@@ -58,7 +57,6 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Derrick_Henry_2019.jpg"
   }
 ],
-
 "03-01": [
   {
     "name": "J. R. R. Tolkien",
@@ -88,7 +86,6 @@
     "image": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Catherine_de_M%C3%A9dicis.jpg"
   }
 ],
-
 "04-01": [
   {
     "name": "Isaac Newton",
@@ -296,9 +293,8 @@
     "death": 1998,
     "wiki": "https://fr.wikipedia.org/wiki/Frank_Sinatra",
     "image": "https://upload.wikimedia.org/wikipedia/commons/9/97/Frank_Sinatra_1957.jpg"
-  },
+  }
 ],
-
 "11-01": [
   {
     "name": "Alexander Hamilton",
@@ -2663,7 +2659,7 @@
     "type": "naissance",
     "year": 1928,
     "death": 1991,
-    "metier": "chanteur, compositeur",
+    "job": "chanteur, compositeur",
     "wiki": "https://fr.wikipedia.org/wiki/Serge_Gainsbourg",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Serge_Gainsbourg_1981.jpg"
   },
@@ -2672,7 +2668,7 @@
     "type": "naissance",
     "year": 1961,
     "death": null,
-    "metier": "chanteuse",
+    "job": "chanteuse",
     "wiki": "https://fr.wikipedia.org/wiki/Susan_Boyle",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Susan_Boyle_2013.jpg"
   },
@@ -2681,7 +2677,7 @@
     "type": "naissance",
     "year": 1995,
     "death": null,
-    "metier": "youtubeur, boxeur",
+    "job": "youtubeur, boxeur",
     "wiki": "https://fr.wikipedia.org/wiki/Logan_Paul",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Logan_Paul_2018.jpg"
   }
@@ -2693,7 +2689,7 @@
     "type": "naissance",
     "year": 1805,
     "death": 1875,
-    "metier": "écrivain",
+    "job": "écrivain",
     "wiki": "https://fr.wikipedia.org/wiki/Hans_Christian_Andersen",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Hans_Christian_Andersen.jpg"
   },
@@ -2702,7 +2698,7 @@
     "type": "naissance",
     "year": 1947,
     "death": null,
-    "metier": "chanteuse",
+    "job": "chanteuse",
     "wiki": "https://fr.wikipedia.org/wiki/Emmylou_Harris",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Emmylou_Harris_2012.jpg"
   },
@@ -2711,7 +2707,7 @@
     "type": "naissance",
     "year": 1958,
     "death": null,
-    "metier": "acteur",
+    "job": "acteur",
     "wiki": "https://fr.wikipedia.org/wiki/Alec_Baldwin",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Alec_Baldwin_2012.jpg"
   }
@@ -2723,7 +2719,7 @@
     "type": "naissance",
     "year": 1924,
     "death": 2004,
-    "metier": "acteur",
+    "job": "acteur",
     "wiki": "https://fr.wikipedia.org/wiki/Marlon_Brando",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Marlon_Brando_1948.jpg"
   },
@@ -2732,7 +2728,7 @@
     "type": "naissance",
     "year": 1961,
     "death": null,
-    "metier": "acteur, humoriste",
+    "job": "acteur, humoriste",
     "wiki": "https://fr.wikipedia.org/wiki/Eddie_Murphy",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Eddie_Murphy_2010.jpg"
   },
@@ -2741,7 +2737,7 @@
     "type": "naissance",
     "year": 1982,
     "death": null,
-    "metier": "actrice",
+    "job": "actrice",
     "wiki": "https://fr.wikipedia.org/wiki/Cobie_Smulders",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Cobie_Smulders_2013.jpg"
   }
@@ -2753,7 +2749,7 @@
     "type": "naissance",
     "year": 1914,
     "death": 1996,
-    "metier": "écrivaine, cinéaste",
+    "job": "écrivaine, cinéaste",
     "wiki": "https://fr.wikipedia.org/wiki/Marguerite_Duras",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Marguerite_Duras.jpg"
   },
@@ -2762,7 +2758,7 @@
     "type": "naissance",
     "year": 1965,
     "death": null,
-    "metier": "acteur",
+    "job": "acteur",
     "wiki": "https://fr.wikipedia.org/wiki/Robert_Downey_Jr.",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Robert_Downey_Jr_2014.jpg"
   },
@@ -2771,7 +2767,7 @@
     "type": "naissance",
     "year": 1973,
     "death": null,
-    "metier": "chanteur, producteur",
+    "job": "chanteur, producteur",
     "wiki": "https://fr.wikipedia.org/wiki/Pharrell_Williams",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Pharrell_Williams_2015.jpg"
   }
@@ -2783,7 +2779,7 @@
     "type": "naissance",
     "year": 1900,
     "death": 1967,
-    "metier": "acteur",
+    "job": "acteur",
     "wiki": "https://fr.wikipedia.org/wiki/Spencer_Tracy",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Spencer_Tracy_1930s.jpg"
   },
@@ -2792,7 +2788,7 @@
     "type": "naissance",
     "year": 1990,
     "death": null,
-    "metier": "actrice",
+    "job": "actrice",
     "wiki": "https://fr.wikipedia.org/wiki/Kristen_Stewart",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Kristen_Stewart_2012.jpg"
   },
@@ -2801,7 +2797,7 @@
     "type": "naissance",
     "year": 1937,
     "death": 2021,
-    "metier": "homme politique, militaire",
+    "job": "homme politique, militaire",
     "wiki": "https://fr.wikipedia.org/wiki/Colin_Powell",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Colin_Powell.jpg"
   }
@@ -2813,7 +2809,7 @@
     "type": "naissance",
     "year": 1483,
     "death": 1520,
-    "metier": "peintre",
+    "job": "peintre",
     "wiki": "https://fr.wikipedia.org/wiki/Rapha%C3%ABl",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Rapha%C3%ABl.jpg"
   },
@@ -2822,7 +2818,7 @@
     "type": "naissance",
     "year": 1969,
     "death": null,
-    "metier": "acteur",
+    "job": "acteur",
     "wiki": "https://fr.wikipedia.org/wiki/Paul_Rudd",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Paul_Rudd_2015.jpg"
   },
@@ -2831,7 +2827,7 @@
     "type": "naissance",
     "year": 1975,
     "death": null,
-    "metier": "acteur",
+    "job": "acteur",
     "wiki": "https://fr.wikipedia.org/wiki/Zach_Braff",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Zach_Braff_2013.jpg"
   }
@@ -2843,7 +2839,7 @@
     "type": "naissance",
     "year": 1770,
     "death": 1850,
-    "metier": "poète",
+    "job": "poète",
     "wiki": "https://fr.wikipedia.org/wiki/William_Wordsworth",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/William_Wordsworth.jpg"
   },
@@ -2852,7 +2848,7 @@
     "type": "naissance",
     "year": 1954,
     "death": null,
-    "metier": "acteur, cascadeur",
+    "job": "acteur, cascadeur",
     "wiki": "https://fr.wikipedia.org/wiki/Jackie_Chan",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Jackie_Chan_2012.jpg"
   },
@@ -2861,7 +2857,7 @@
     "type": "naissance",
     "year": 1964,
     "death": null,
-    "metier": "acteur",
+    "job": "acteur",
     "wiki": "https://fr.wikipedia.org/wiki/Russell_Crowe",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Russell_Crowe_2016.jpg"
   }
@@ -2873,7 +2869,7 @@
     "type": "naissance",
     "year": 1820,
     "death": 1910,
-    "metier": "infirmière",
+    "job": "infirmière",
     "wiki": "https://fr.wikipedia.org/wiki/Florence_Nightingale",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Florence_Nightingale.jpg"
   },
@@ -2882,7 +2878,7 @@
     "type": "naissance",
     "year": 1966,
     "death": null,
-    "metier": "actrice",
+    "job": "actrice",
     "wiki": "https://fr.wikipedia.org/wiki/Robin_Wright",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Robin_Wright_2014.jpg"
   },
@@ -2891,7 +2887,7 @@
     "type": "naissance",
     "year": 1964,
     "death": 2021,
-    "metier": "rappeur",
+    "job": "rappeur",
     "wiki": "https://fr.wikipedia.org/wiki/Biz_Markie",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Biz_Markie_2011.jpg"
   }
@@ -2903,7 +2899,7 @@
     "type": "naissance",
     "year": 1821,
     "death": 1867,
-    "metier": "poète",
+    "job": "poète",
     "wiki": "https://fr.wikipedia.org/wiki/Charles_Baudelaire",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Charles_Baudelaire.jpg"
   },
@@ -2912,7 +2908,7 @@
     "type": "naissance",
     "year": 1954,
     "death": null,
-    "metier": "acteur",
+    "job": "acteur",
     "wiki": "https://fr.wikipedia.org/wiki/Dennis_Quaid",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Dennis_Quaid_2010.jpg"
   },
@@ -2921,7 +2917,7 @@
     "type": "naissance",
     "year": 1948,
     "death": null,
-    "metier": "actrice",
+    "job": "actrice",
     "wiki": "https://fr.wikipedia.org/wiki/Jaya_Bachchan",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Jaya_Bachchan.jpg"
   }
@@ -2933,7 +2929,7 @@
     "type": "naissance",
     "year": 1932,
     "death": 2015,
-    "metier": "acteur",
+    "job": "acteur",
     "wiki": "https://fr.wikipedia.org/wiki/Omar_Sharif",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Omar_Sharif_1960.jpg"
   },
@@ -2942,7 +2938,7 @@
     "type": "naissance",
     "year": 1952,
     "death": null,
-    "metier": "acteur",
+    "job": "acteur",
     "wiki": "https://fr.wikipedia.org/wiki/Steven_Seagal",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Steven_Seagal_2011.jpg"
   },
@@ -2951,7 +2947,7 @@
     "type": "naissance",
     "year": 1984,
     "death": null,
-    "metier": "chanteuse, actrice",
+    "job": "chanteuse, actrice",
     "wiki": "https://fr.wikipedia.org/wiki/Mandy_Moore",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Mandy_Moore_2012.jpg"
   }
@@ -2962,7 +2958,7 @@
     "type": "naissance",
     "year": 1928,
     "death": 2024,
-    "metier": "militante, personnalité publique",
+    "job": "militante, personnalité publique",
     "wiki": "https://fr.wikipedia.org/wiki/Ethel_Kennedy",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Ethel_Kennedy.jpg"
   },
@@ -2971,7 +2967,7 @@
     "type": "naissance",
     "year": 1960,
     "death": null,
-    "metier": "présentateur, journaliste",
+    "job": "présentateur, journaliste",
     "wiki": "https://fr.wikipedia.org/wiki/Jeremy_Clarkson",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Jeremy_Clarkson_2012.jpg"
   },
@@ -2980,7 +2976,7 @@
     "type": "naissance",
     "year": 1987,
     "death": null,
-    "metier": "chanteuse",
+    "job": "chanteuse",
     "wiki": "https://fr.wikipedia.org/wiki/Joss_Stone",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Joss_Stone_2012.jpg"
   }
@@ -2992,7 +2988,7 @@
     "type": "naissance",
     "year": 1777,
     "death": 1852,
-    "metier": "homme politique",
+    "job": "homme politique",
     "wiki": "https://fr.wikipedia.org/wiki/Henry_Clay",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Henry_Clay.jpg"
   },
@@ -3001,7 +2997,7 @@
     "type": "naissance",
     "year": 1956,
     "death": null,
-    "metier": "acteur",
+    "job": "acteur",
     "wiki": "https://fr.wikipedia.org/wiki/Andy_Garcia",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Andy_Garcia_2011.jpg"
   },
@@ -3010,7 +3006,7 @@
     "type": "naissance",
     "year": 1979,
     "death": null,
-    "metier": "actrice",
+    "job": "actrice",
     "wiki": "https://fr.wikipedia.org/wiki/Claire_Danes",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Claire_Danes_2015.jpg"
   }
@@ -3022,7 +3018,7 @@
     "type": "naissance",
     "year": 1743,
     "death": 1826,
-    "metier": "homme politique",
+    "job": "homme politique",
     "wiki": "https://fr.wikipedia.org/wiki/Thomas_Jefferson",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Thomas_Jefferson.jpg"
   },
@@ -3031,7 +3027,7 @@
     "type": "naissance",
     "year": 1946,
     "death": null,
-    "metier": "chanteur, pasteur",
+    "job": "chanteur, pasteur",
     "wiki": "https://fr.wikipedia.org/wiki/Al_Green",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Al_Green_2010.jpg"
   },
@@ -3040,7 +3036,7 @@
     "type": "naissance",
     "year": 1945,
     "death": null,
-    "metier": "guitariste",
+    "job": "guitariste",
     "wiki": "https://fr.wikipedia.org/wiki/Ritchie_Blackmore",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Ritchie_Blackmore_2011.jpg"
   }
@@ -3052,7 +3048,7 @@
     "type": "assassinat",
     "year": 1865,
     "death": 1865,
-    "metier": "président des États-Unis",
+    "job": "président des États-Unis",
     "wiki": "https://fr.wikipedia.org/wiki/Abraham_Lincoln",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Abraham_Lincoln.jpg"
   },
@@ -3061,7 +3057,7 @@
     "type": "naissance",
     "year": 1977,
     "death": null,
-    "metier": "actrice",
+    "job": "actrice",
     "wiki": "https://fr.wikipedia.org/wiki/Sarah_Michelle_Gellar",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Sarah_Michelle_Gellar_2011.jpg"
   },
@@ -3070,7 +3066,7 @@
     "type": "naissance",
     "year": 1973,
     "death": null,
-    "metier": "acteur",
+    "job": "acteur",
     "wiki": "https://fr.wikipedia.org/wiki/Adrien_Brody",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Adrien_Brody_2014.jpg"
   }
@@ -3082,7 +3078,7 @@
     "type": "naissance",
     "year": 1452,
     "death": 1519,
-    "metier": "artiste, inventeur",
+    "job": "artiste, inventeur",
     "wiki": "https://fr.wikipedia.org/wiki/Leonard_de_Vinci",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Leonardo_da_Vinci.jpg"
   },
@@ -3091,7 +3087,7 @@
     "type": "naissance",
     "year": 1990,
     "death": null,
-    "metier": "actrice",
+    "job": "actrice",
     "wiki": "https://fr.wikipedia.org/wiki/Emma_Watson",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Emma_Watson_2013.jpg"
   },
@@ -3100,7 +3096,7 @@
     "type": "naissance",
     "year": 1982,
     "death": null,
-    "metier": "acteur, humoriste",
+    "job": "acteur, humoriste",
     "wiki": "https://fr.wikipedia.org/wiki/Seth_Rogen",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Seth_Rogen_2011.jpg"
   }
@@ -3112,7 +3108,7 @@
     "type": "naissance",
     "year": 1889,
     "death": 1977,
-    "metier": "acteur, réalisateur",
+    "job": "acteur, réalisateur",
     "wiki": "https://fr.wikipedia.org/wiki/Charlie_Chaplin",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Charlie_Chaplin_1915.jpg"
   },
@@ -3121,7 +3117,7 @@
     "type": "naissance",
     "year": 1947,
     "death": null,
-    "metier": "joueur de basket",
+    "job": "joueur de basket",
     "wiki": "https://fr.wikipedia.org/wiki/Kareem_Abdul-Jabbar",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Kareem_Abdul-Jabbar_2014.jpg"
   },
@@ -3130,7 +3126,7 @@
     "type": "naissance",
     "year": 1965,
     "death": null,
-    "metier": "acteur, humoriste",
+    "job": "acteur, humoriste",
     "wiki": "https://fr.wikipedia.org/wiki/Martin_Lawrence",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Martin_Lawrence_2011.jpg"
   }
@@ -3142,7 +3138,7 @@
     "type": "naissance",
     "year": 1918,
     "death": 1981,
-    "metier": "acteur",
+    "job": "acteur",
     "wiki": "https://fr.wikipedia.org/wiki/William_Holden",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/William_Holden_1950.jpg"
   },
@@ -3151,7 +3147,7 @@
     "type": "naissance",
     "year": 1974,
     "death": null,
-    "metier": "chanteuse, styliste",
+    "job": "chanteuse, styliste",
     "wiki": "https://fr.wikipedia.org/wiki/Victoria_Beckham",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Victoria_Beckham_2010.jpg"
   },
@@ -3160,7 +3156,7 @@
     "type": "naissance",
     "year": 1972,
     "death": null,
-    "metier": "actrice",
+    "job": "actrice",
     "wiki": "https://fr.wikipedia.org/wiki/Jennifer_Garner",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Jennifer_Garner_2013.jpg"
   }
@@ -3172,7 +3168,7 @@
     "type": "naissance",
     "year": 1480,
     "death": 1519,
-    "metier": "personnalité historique",
+    "job": "personnalité historique",
     "wiki": "https://fr.wikipedia.org/wiki/Lucr%C3%A8ce_Borgia",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Lucrezia_Borgia.jpg"
   },
@@ -3181,7 +3177,7 @@
     "type": "naissance",
     "year": 1947,
     "death": null,
-    "metier": "acteur",
+    "job": "acteur",
     "wiki": "https://fr.wikipedia.org/wiki/James_Woods",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/James_Woods_2010.jpg"
   },
@@ -3190,7 +3186,7 @@
     "type": "naissance",
     "year": 1956,
     "death": null,
-    "metier": "acteur",
+    "job": "acteur",
     "wiki": "https://fr.wikipedia.org/wiki/Eric_Roberts",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Eric_Roberts_2011.jpg"
   }
@@ -3202,7 +3198,7 @@
     "type": "naissance",
     "year": 1933,
     "death": 1967,
-    "metier": "actrice",
+    "job": "actrice",
     "wiki": "https://fr.wikipedia.org/wiki/Jayne_Mansfield",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Jayne_Mansfield_1957.jpg"
   },
@@ -3211,7 +3207,7 @@
     "type": "naissance",
     "year": 1979,
     "death": null,
-    "metier": "actrice",
+    "job": "actrice",
     "wiki": "https://fr.wikipedia.org/wiki/Kate_Hudson",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Kate_Hudson_2014.jpg"
   },
@@ -3220,7 +3216,7 @@
     "type": "naissance",
     "year": 1978,
     "death": null,
-    "metier": "acteur",
+    "job": "acteur",
     "wiki": "https://fr.wikipedia.org/wiki/James_Franco",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/James_Franco_2013.jpg"
   }
@@ -3232,7 +3228,7 @@
     "type": "naissance",
     "year": 1889,
     "death": 1945,
-    "metier": "dictateur",
+    "job": "dictateur",
     "wiki": "https://fr.wikipedia.org/wiki/Adolf_Hitler",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Adolf_Hitler.jpg"
   },
@@ -3241,7 +3237,7 @@
     "type": "naissance",
     "year": 1949,
     "death": null,
-    "metier": "actrice",
+    "job": "actrice",
     "wiki": "https://fr.wikipedia.org/wiki/Jessica_Lange",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Jessica_Lange_2010.jpg"
   },
@@ -3250,7 +3246,7 @@
     "type": "naissance",
     "year": 1964,
     "death": null,
-    "metier": "acteur",
+    "job": "acteur",
     "wiki": "https://fr.wikipedia.org/wiki/Andy_Serkis",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Andy_Serkis_2014.jpg"
   }
@@ -3261,7 +3257,7 @@
     "type": "naissance",
     "year": 1926,
     "death": 2022,
-    "metier": "reine du Royaume-Uni",
+    "job": "reine du Royaume-Uni",
     "wiki": "https://fr.wikipedia.org/wiki/%C3%89lisabeth_II",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Elizabeth_II_1953.jpg"
   },
@@ -3270,7 +3266,7 @@
     "type": "naissance",
     "year": 1979,
     "death": null,
-    "metier": "acteur",
+    "job": "acteur",
     "wiki": "https://fr.wikipedia.org/wiki/James_McAvoy",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/James_McAvoy_2011.jpg"
   },
@@ -3279,7 +3275,7 @@
     "type": "naissance",
     "year": 1969,
     "death": null,
-    "metier": "actrice",
+    "job": "actrice",
     "wiki": "https://fr.wikipedia.org/wiki/Gina_Torres",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Gina_Torres_2013.jpg"
   }
@@ -3291,7 +3287,7 @@
     "type": "naissance",
     "year": 1724,
     "death": 1804,
-    "metier": "philosophe",
+    "job": "philosophe",
     "wiki": "https://fr.wikipedia.org/wiki/Emmanuel_Kant",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Immanuel_Kant.jpg"
   },
@@ -3300,7 +3296,7 @@
     "type": "naissance",
     "year": 1986,
     "death": null,
-    "metier": "actrice",
+    "job": "actrice",
     "wiki": "https://fr.wikipedia.org/wiki/Amber_Heard",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Amber_Heard_2014.jpg"
   },
@@ -3309,7 +3305,7 @@
     "type": "naissance",
     "year": 1990,
     "death": null,
-    "metier": "rappeur, musicien",
+    "job": "rappeur, musicien",
     "wiki": "https://fr.wikipedia.org/wiki/Machine_Gun_Kelly_(rappeur)",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Machine_Gun_Kelly_2012.jpg"
   }
@@ -3321,7 +3317,7 @@
     "type": "naissance",
     "year": 1564,
     "death": 1616,
-    "metier": "écrivain, dramaturge",
+    "job": "écrivain, dramaturge",
     "wiki": "https://fr.wikipedia.org/wiki/William_Shakespeare",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/William_Shakespeare.jpg"
   },
@@ -3330,7 +3326,7 @@
     "type": "naissance",
     "year": 1961,
     "death": null,
-    "metier": "humoriste, acteur",
+    "job": "humoriste, acteur",
     "wiki": "https://fr.wikipedia.org/wiki/George_Lopez",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/George_Lopez_2011.jpg"
   },
@@ -3339,7 +3335,7 @@
     "type": "naissance",
     "year": 1977,
     "death": null,
-    "metier": "acteur",
+    "job": "acteur",
     "wiki": "https://fr.wikipedia.org/wiki/Kal_Penn",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Kal_Penn_2013.jpg"
   }
@@ -3351,7 +3347,7 @@
     "type": "naissance",
     "year": 1942,
     "death": null,
-    "metier": "chanteuse, actrice",
+    "job": "chanteuse, actrice",
     "wiki": "https://fr.wikipedia.org/wiki/Barbra_Streisand",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Barbra_Streisand_2013.jpg"
   },
@@ -3360,7 +3356,7 @@
     "type": "naissance",
     "year": 1982,
     "death": null,
-    "metier": "chanteuse",
+    "job": "chanteuse",
     "wiki": "https://fr.wikipedia.org/wiki/Kelly_Clarkson",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Kelly_Clarkson_2012.jpg"
   },
@@ -3369,7 +3365,7 @@
     "type": "naissance",
     "year": 1964,
     "death": null,
-    "metier": "acteur",
+    "job": "acteur",
     "wiki": "https://fr.wikipedia.org/wiki/Djimon_Hounsou",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Djimon_Hounsou_2014.jpg"
   }
@@ -3381,7 +3377,7 @@
     "type": "naissance",
     "year": 1917,
     "death": 1996,
-    "metier": "chanteuse de jazz",
+    "job": "chanteuse de jazz",
     "wiki": "https://fr.wikipedia.org/wiki/Ella_Fitzgerald",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Ella_Fitzgerald_1960.jpg"
   },
@@ -3390,7 +3386,7 @@
     "type": "naissance",
     "year": 1969,
     "death": null,
-    "metier": "actrice",
+    "job": "actrice",
     "wiki": "https://fr.wikipedia.org/wiki/Ren%C3%A9e_Zellweger",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Ren%C3%A9e_Zellweger_2010.jpg"
   },
@@ -3399,7 +3395,7 @@
     "type": "naissance",
     "year": 1970,
     "death": null,
-    "metier": "acteur",
+    "job": "acteur",
     "wiki": "https://fr.wikipedia.org/wiki/Jason_Lee",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Jason_Lee_2012.jpg"
   }
@@ -3411,7 +3407,7 @@
     "type": "naissance",
     "year": 121,
     "death": 180,
-    "metier": "empereur romain, philosophe",
+    "job": "empereur romain, philosophe",
     "wiki": "https://fr.wikipedia.org/wiki/Marc_Aur%C3%A8le",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Marcus_Aurelius.jpg"
   },
@@ -3420,7 +3416,7 @@
     "type": "naissance",
     "year": 1980,
     "death": null,
-    "metier": "acteur",
+    "job": "acteur",
     "wiki": "https://fr.wikipedia.org/wiki/Channing_Tatum",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Channing_Tatum_2015.jpg"
   },
@@ -3429,7 +3425,7 @@
     "type": "naissance",
     "year": 1933,
     "death": null,
-    "metier": "actrice, humoriste",
+    "job": "actrice, humoriste",
     "wiki": "https://fr.wikipedia.org/wiki/Carol_Burnett",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Carol_Burnett_2013.jpg"
   }
@@ -3441,7 +3437,7 @@
     "type": "naissance",
     "year": 1791,
     "death": 1872,
-    "metier": "inventeur",
+    "job": "inventeur",
     "wiki": "https://fr.wikipedia.org/wiki/Samuel_Morse",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Samuel_Morse.jpg"
   },
@@ -3450,7 +3446,7 @@
     "type": "naissance",
     "year": 1986,
     "death": null,
-    "metier": "actrice",
+    "job": "actrice",
     "wiki": "https://fr.wikipedia.org/wiki/Megan_Fox",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Megan_Fox_2013.jpg"
   },
@@ -3459,7 +3455,7 @@
     "type": "naissance",
     "year": 1959,
     "death": null,
-    "metier": "chanteuse",
+    "job": "chanteuse",
     "wiki": "https://fr.wikipedia.org/wiki/Sheena_Easton",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Sheena_Easton_2011.jpg"
   }
@@ -3471,7 +3467,7 @@
     "type": "naissance",
     "year": 1908,
     "death": 1974,
-    "metier": industriel, humanitaire",
+    "job": industriel, humanitaire",
     "wiki": "https://fr.wikipedia.org/wiki/Oskar_Schindler",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Oskar_Schindler.jpg"
   },
@@ -3480,7 +3476,7 @@
     "type": "naissance",
     "year": 1981,
     "death": null,
-    "metier": "actrice",
+    "job": "actrice",
     "wiki": "https://fr.wikipedia.org/wiki/Jessica_Alba",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Jessica_Alba_2014.jpg"
   },
@@ -3489,7 +3485,7 @@
     "type": "naissance",
     "year": 1974,
     "death": null,
-    "metier": "actrice",
+    "job": "actrice",
     "wiki": "https://fr.wikipedia.org/wiki/Pen%C3%A9lope_Cruz",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Penelope_Cruz_2013.jpg"
   }
@@ -3501,7 +3497,7 @@
     "type": "naissance",
     "year": 1863,
     "death": 1951,
-    "metier": magnat de la presse",
+    "job": magnat de la presse",
     "wiki": "https://fr.wikipedia.org/wiki/William_Randolph_Hearst",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/William_Randolph_Hearst.jpg"
   },
@@ -3510,7 +3506,7 @@
     "type": "naissance",
     "year": 1970,
     "death": null,
-    "metier": "actrice",
+    "job": "actrice",
     "wiki": "https://fr.wikipedia.org/wiki/Uma_Thurman",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Uma_Thurman_2011.jpg"
   },
@@ -3519,7 +3515,7 @@
     "type": "naissance",
     "year": 1954,
     "death": null,
-    "metier": "humoriste",
+    "job": "humoriste",
     "wiki": "https://fr.wikipedia.org/wiki/Jerry_Seinfeld",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Jerry_Seinfeld_2010.jpg"
   }
@@ -3531,7 +3527,7 @@
     "type": "naissance",
     "year": 1777,
     "death": 1855,
-    "metier": "mathématicien",
+    "job": "mathématicien",
     "wiki": "https://fr.wikipedia.org/wiki/Carl_Friedrich_Gauss",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Carl_Friedrich_Gauss.jpg"
   },
@@ -3540,7 +3536,7 @@
     "type": "naissance",
     "year": 1982,
     "death": null,
-    "metier": "actrice",
+    "job": "actrice",
     "wiki": "https://fr.wikipedia.org/wiki/Kirsten_Dunst",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Kirsten_Dunst_2014.jpg"
   },
@@ -3549,7 +3545,7 @@
     "type": "naissance",
     "year": 1985,
     "death": null,
-    "metier": "actrice, mannequin",
+    "job": "actrice, mannequin",
     "wiki": "https://fr.wikipedia.org/wiki/Gal_Gadot",
     "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Gal_Gadot_2016.jpg"
   }
